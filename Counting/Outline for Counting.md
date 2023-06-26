@@ -1,0 +1,5 @@
+- [ ] Addition principle
+- [ ] Multiplication principle
+- [ ] Binomial coefficient
+- [ ] Dots and dividers
+- [ ] 

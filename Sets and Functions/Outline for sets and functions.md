@@ -1,0 +1,11 @@
+- [ ] Roster notation
+- [ ] Set builder notation 
+- [ ] Union
+- [ ] Intersection
+- [ ] Complement
+- [ ] Symmetric difference
+- [ ] Empty set 
+- [ ] Functions
+- [ ] Injective functions
+- [ ] Surjective functions 
+- [ ] 
