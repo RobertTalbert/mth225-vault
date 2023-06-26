@@ -5,7 +5,7 @@
 - [ ] Complement
 - [ ] Symmetric difference
 - [ ] Empty set 
-- [ ] Functions
+- [ ] Functions and representations
 - [ ] Injective functions
 - [ ] Surjective functions 
-- [ ] 
+

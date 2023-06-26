@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "867b0fac77d475ae",
+  "active": "727c59a6ce806dd8",
   "lastOpenFiles": [
     "Recursion and Induction/Outline for recursion and induction.md",
     "Sets and Functions/Outline for sets and functions.md",
