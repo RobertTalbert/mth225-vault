@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Computer Arithmetic/Outline for Computer Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Computer Arithmetic/Outline for Computer Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Computer Arithmetic/Outline for Computer Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Conditional statements.md"
+                "file": "Computer Arithmetic/Outline for Computer Arithmetic.md"
               }
             }
           },
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +196,12 @@
   },
   "active": "867b0fac77d475ae",
   "lastOpenFiles": [
+    "Logic/Conditional statements.md",
+    "Computer Arithmetic/Outline for Computer Arithmetic.md",
+    "Counting",
+    "Recursion and Induction",
+    "Sets and Functions",
+    "Computer Arithmetic",
     "Logic/Truth tables.md",
     "Assets/mth225-logo.png",
     "mth225-logo.png",
@@ -204,7 +211,6 @@
     "Test canvas.canvas",
     "sortspec.md",
     "Welcome.md",
-    "Logic/Conditional statements.md",
     "Logic"
   ]
 }
