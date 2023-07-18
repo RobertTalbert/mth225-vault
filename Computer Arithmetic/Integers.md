@@ -16,7 +16,7 @@ Some non-integers include:
 - $\sqrt{5}$ (also not a whole number) 
 - $2 + 3i$ (not a real number) 
 - $\infty$ (not a number at all) 
-
 ## Resources 
 
-## Practice 
+- [Mathworld article on integers](https://mathworld.wolfram.com/Integer.html) 
+- [Math is Fun article on integers, with practice exercise](https://www.mathsisfun.com/definitions/integer.html)
