@@ -207,10 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db8acb8afa9e8a94",
+  "active": "00391fd10cede494",
   "lastOpenFiles": [
-    "Computer Arithmetic/Natural numbers.md",
+    "START HERE.md",
     "Computer Arithmetic/Base 10 representation.md",
+    "Computer Arithmetic/Natural numbers.md",
     "Assets/Images",
     "Assets/Templates",
     "Assets/Templates/Entry template.md",
@@ -218,7 +219,6 @@
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Computer Arithmetic/Integers.md",
     "Logic/Conditional statements.md",
-    "START HERE.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Counting/Outline for Counting.md",
