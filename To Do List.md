@@ -28,7 +28,8 @@ Every concept page should have (i.e. make a template for)
 - [ ] Recursion 
 
 ## Logic
-- [ ] 
+- [ ] [[Conditional statements]]
+- [ ] [[Truth tables]]
 
 ## Sets and Functions
 

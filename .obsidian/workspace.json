@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "5367f8e6e4eafb20",
@@ -82,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To Do List.md",
+                "file": "Sets and Functions/Subset.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Sets and Functions/Subset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List.md",
+                "file": "Sets and Functions/Subset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Sets and Functions/Subset.md"
               }
             }
           },
@@ -250,11 +250,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0b2d2bcbe5bafad",
+  "active": "a63db32f645da7b3",
   "lastOpenFiles": [
-    "Sets and Functions/Subset.md",
-    "To Do List.md",
     "Logic/Conditional statements.md",
+    "To Do List.md",
+    "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Computer Arithmetic/Natural numbers.md",
     "subset.md",
