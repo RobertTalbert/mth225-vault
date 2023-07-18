@@ -11,8 +11,8 @@ Every concept page should have (i.e. make a template for)
 
 - [ ] Hub for computer arithmetic
 - [ ] Base 10 
-- [x] Integer 
-- [x] Natural numbers
+- [x] [[Integers|Integer]] 
+- [x] [[Natural numbers]]
 - [ ] Base 2 (binary) 
 - [ ] Base 8 (octal)
 - [ ] Base 16 (hexadecimal)

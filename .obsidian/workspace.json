@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md",
+                "file": "Computer Arithmetic/Natural numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Integers.md",
+                "file": "Computer Arithmetic/Base 10 representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Integers.md",
+                "file": "Computer Arithmetic/Base 10 representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Integers.md",
+                "file": "Computer Arithmetic/Base 10 representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Integers.md"
+                "file": "Computer Arithmetic/Base 10 representation.md"
               }
             }
           },
@@ -203,16 +203,20 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "db8acb8afa9e8a94",
+  "active": "648326dff836a8ba",
   "lastOpenFiles": [
+    "Assets/Images",
+    "Assets/Templates",
+    "Assets/Templates/Entry template.md",
     "Computer Arithmetic/Natural numbers.md",
-    "Computer Arithmetic/Integers.md",
-    "Computer Arithmetic/Base 10 representation.md",
-    "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "To Do List.md",
+    "Computer Arithmetic/Outline for Computer Arithmetic.md",
+    "Computer Arithmetic/Base 10 representation.md",
+    "Computer Arithmetic/Integers.md",
     "Logic/Conditional statements.md",
     "START HERE.md",
     "Sets and Functions/Outline for sets and functions.md",
@@ -224,7 +228,7 @@
     "Recursion and Induction",
     "Sets and Functions",
     "Computer Arithmetic",
-    "Assets/mth225-logo.png",
+    "Assets/Images/mth225-logo.png",
     "mth225-logo.png",
     "Assets",
     "untitled folder",
