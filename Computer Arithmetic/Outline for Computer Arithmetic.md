@@ -1,11 +1,2 @@
-- [ ] Base 2 (binary)
-- [ ] Base 8 (octal)
-- [ ] Base 16 (hexadecimal) 
-- [ ] Converting from a base back to base 10
-- [ ] Converting from base 10 to binary 
-- [ ] Converting from base 10 to any other base 
-- [ ] Addition in binary 
-- [ ] Multiplication in binary
-- [ ] Division in binary 
-- [ ] Subtraction in binary
-- [ ] Two's complement 
+![[To Do List#Computer arithmetic (phase 1)]]
+
