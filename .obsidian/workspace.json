@@ -153,7 +153,7 @@
               "state": {
                 "file": "Computer Arithmetic/Natural numbers.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -186,12 +186,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a63db32f645da7b3",
+  "active": "00391fd10cede494",
   "lastOpenFiles": [
     "Computer Arithmetic/Integers.md",
     "Computer Arithmetic/Natural numbers.md",

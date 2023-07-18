@@ -7,6 +7,8 @@ aliases: [integer, whole number, whole numbers]
 > [!tldr] Definition
 > An **integer** is a whole number. That is, an integer is any number from the list $\dots, -2, -1, 0, 1, 2, \dots$. The set of all integers is denoted $\mathbb{Z}$. 
 
+Integers form the building blocks of mathematics and are the central organizing tool for computer mathematics particularly. 
+
 ## Examples and Non-Examples 
 
 Some examples of integers include $10$, $99999$, $-20$, and $0$. 
