@@ -6,6 +6,7 @@
       {
         "id": "24cd5ac5afd25ed1",
         "type": "tabs",
+        "dimension": 74.94432071269487,
         "children": [
           {
             "id": "867b0fac77d475ae",
@@ -49,26 +50,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Natural numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db8acb8afa9e8a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md",
+                "file": "Sets and Functions/Subset.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "5367f8e6e4eafb20",
+        "type": "tabs",
+        "dimension": 25.05567928730512,
+        "children": [
+          {
+            "id": "944bea6f15e7ee6c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sets and Functions/Subset.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md",
+                "file": "Sets and Functions/Subset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md",
+                "file": "Sets and Functions/Subset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md"
+                "file": "Sets and Functions/Subset.md"
               }
             }
           },
@@ -207,11 +238,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00391fd10cede494",
+  "active": "a63db32f645da7b3",
   "lastOpenFiles": [
-    "START HERE.md",
-    "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Natural numbers.md",
+    "Sets and Functions/Subset.md",
+    "subset.md",
+    "Untitled.md",
+    "Computer Arithmetic/Base 10 representation.md",
+    "START HERE.md",
     "Assets/Images",
     "Assets/Templates",
     "Assets/Templates/Entry template.md",
