@@ -1,0 +1,7 @@
+- [ ] Base 10 
+- [ ] Integer 
+- [ ] Base 2 (binary) 
+- [ ] Base 8 (octal)
+- [ ] Base 16 (hexadecimal)
+- [ ] Converting to base 10 
+- [ ] Converting from b

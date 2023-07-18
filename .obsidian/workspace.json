@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b0b2d2bcbe5bafad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "197f884e532dbebd",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nject",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Outline for sets and functions.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Outline for sets and functions.md",
+                "file": "To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Outline for sets and functions.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "727c59a6ce806dd8",
+  "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
-    "Recursion and Induction/Outline for recursion and induction.md",
     "Sets and Functions/Outline for sets and functions.md",
+    "To Do List.md",
+    "Recursion and Induction/Outline for recursion and induction.md",
     "Counting/Outline for Counting.md",
     "Logic/Outline for Logic.md",
     "Logic/Truth tables.md",
