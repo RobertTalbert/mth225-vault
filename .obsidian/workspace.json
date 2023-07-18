@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Integers.md",
+                "file": "To Do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Conditional statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7459f7a7a06a44bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "START HERE.md",
+                "file": "Computer Arithmetic/Integers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,17 +194,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b0b2d2bcbe5bafad",
+  "active": "a63db32f645da7b3",
   "lastOpenFiles": [
-    "Computer Arithmetic/Outline for Computer Arithmetic.md",
-    "Computer Arithmetic/Integers.md",
+    "Logic/Conditional statements.md",
+    "START HERE.md",
     "To Do List.md",
+    "Computer Arithmetic/Integers.md",
+    "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Counting/Outline for Counting.md",
     "Logic/Outline for Logic.md",
     "Logic/Truth tables.md",
-    "Logic/Conditional statements.md",
     "Counting",
     "Recursion and Induction",
     "Sets and Functions",
@@ -225,7 +214,6 @@
     "mth225-logo.png",
     "Assets",
     "untitled folder",
-    "START HERE.md",
     "Test canvas.canvas",
     "sortspec.md",
     "Welcome.md",

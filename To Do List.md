@@ -6,6 +6,7 @@ Every concept page should have (i.e. make a template for)
 - Video content
 - Links to resources 
 
+- [ ] Changelog note that sits on top (maybe as part of overall TOC page)
 ### Computer arithmetic (phase 1)
 
 - [ ] Hub for computer arithmetic
