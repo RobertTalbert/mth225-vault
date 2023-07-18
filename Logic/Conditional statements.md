@@ -1,4 +1,18 @@
-A note with content about conditional statements
+
+---
+aliases: [conditional statement, if-then statement]
+--- 
+
+#logic 
+
+## Definition 
+
+> [!tldr] Definition
+> Contents
+
+(blurb)
+
+## Examples and Non-Examples
 
 The [[Truth tables|truth table]] for the conditional statement $P \rightarrow Q$ is: 
 
@@ -11,4 +25,6 @@ The [[Truth tables|truth table]] for the conditional statement $P \rightarrow Q$
 
 
 
-#logic 
+## Resources 
+
+## Practice 
