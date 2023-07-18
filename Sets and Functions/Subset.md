@@ -22,11 +22,17 @@ Examples:
 - The [[natural numbers]] are a (proper) subset of the [[integers]]. (That is, $\mathbb{N} \subseteq \mathbb{Z}$.)
 - The set $\{0,1,2,3\}$ is a (proper) subset of $\mathbb{N}$. 
 - The set $\{0,2,4\}$ is a (proper) subset of the set $\{0,2,4,6,8\}$. 
-- The set 
+
+
+> [!important] The empty is a subset of every set
+> The empty set $\emptyset$ is a subset of every set. To see this, use the conditional statement that defines the subset relationship: *For all $x$, if $x \in B$ then $x \in A$.* Let $B$ be the empty set and let $A$ be any set at all. Then the hypothesis of this statement, $x \in \emptyset$, is always false because nothing is "in" the empty set. Therefore the conditional statement is always true.
+
+
+The empty set is a subset of all sets. 
 
 Non-examples: 
-- The set of integers is not a subset of the set of natural numbers, because there are elements of the integers that don't belong to the natural numbers, such as $-3$. 
-- The set $\{1,2,3\}$ is not a subset of $\{2,3,4\}$ because although these sets have elements in common (i.e. the intersection is not the empty set), the nu
+- The set of [[integers]] is not a subset of the set of [[natural numbers]], because there are elements of the integers that don't belong to the natural numbers, such as $-3$. 
+- The set $\{1,2,3\}$ is not a subset of $\{2,3,4\}$ because although these sets have elements in common (i.e. the intersection is not the empty set), the number $1$ does not an element of the set $\{2,3,4\}$. 
 
 
 ## Resources 

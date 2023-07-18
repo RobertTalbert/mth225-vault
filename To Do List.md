@@ -26,3 +26,14 @@ Every concept page should have (i.e. make a template for)
 - [ ] The Division Algorithm
 - [ ] The modulus operator `%`
 - [ ] Recursion 
+
+## Logic
+- [ ] 
+
+## Sets and Functions
+
+- [ ] Empty set
+- [ ] Element of 
+- [ ] Set
+- [x] [[Subset]]
+- [ ] 
