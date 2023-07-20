@@ -34,6 +34,7 @@ Every concept page should have (i.e. make a template for)
 - [ ] [[Conditional statements]] 
 	- [ ] Add fact that $P \rightarrow Q$ is LE to $(\neg P) \vee Q$ 
 	- [ ] Add fact about negations $\neg (P \rightarrow Q)$ is LE to $P \wedge (\neg Q)$
+	- [ ] English versions 
 - [ ] [[Converse]]
 - [ ] [[Contrapositive]]
 - [ ] [[Inverse]]
@@ -50,7 +51,7 @@ Every concept page should have (i.e. make a template for)
 - [ ] [[Predicates]]
 - [ ] [[Existential quantifier]]
 - [ ] [[Universal quantifier]]
-- [ ] 
+- [ ] [[Truth set of a predicate]]
 
 ## Sets and Functions
 
