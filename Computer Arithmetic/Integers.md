@@ -9,7 +9,7 @@ aliases: [integer, whole number, whole numbers]
 
 Integers form the building blocks of mathematics and are the central organizing tool for computer mathematics particularly. 
 
-The [[natural numbers]] are a subset of the integers, namely the nonnegative integers $0, 1, 2, 3, \dots$. 
+The [[natural numbers]] are a [[subset]] of the integers, namely the nonnegative integers $0, 1, 2, 3, \dots$. 
 ## Examples and Non-Examples 
 
 Some examples of integers include $10$, $99999$, $-20$, and $0$. 
