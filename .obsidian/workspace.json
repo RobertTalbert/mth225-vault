@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do List.md",
+                "file": "Base 2 representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Base 2 representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List.md",
+                "file": "Base 2 representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Base 2 representation.md"
               }
             }
           },
@@ -222,9 +222,10 @@
   },
   "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "To Do List.md",
     "Computer Arithmetic/Base 10 representation.md",
+    "Base 2 representation.md",
+    "To Do List.md",
+    "Untitled 1.md",
     "Sets and Functions/Subset.md",
     "Logic/Conditional statements.md",
     "Assets/Images/Pasted image 20230718094622.png",
