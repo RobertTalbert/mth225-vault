@@ -1,5 +1,5 @@
 ---
-aliases: [binary, base 2]
+aliases: [binary, binary representation, base 2]
 --- 
 
 #computer-arithmetic 
