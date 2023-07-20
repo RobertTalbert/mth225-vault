@@ -31,6 +31,19 @@ This video starting at the 3:00 mark has more on binary representation:
 Other resources: 
 - [RapidTables web page for converting from base 10 to base 2](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 - [Calculator.net page, includes conversion from base 10 to base 2 and vice versa](https://www.calculator.net/binary-calculator.html)
+- [Converting from base 10 to base 2 in Excel](https://smallbusiness.chron.com/convert-decimals-binary-numbers-using-excel-39699.html), using the `DEC2BIN` function
 ## Practice 
 
-1. Generate a random integer. Start small (1-4) digits at fir
+1. Generate a random positive integer. Start small (1-4) digits at first. [Use this website](https://www.random.org/integers/) to generate random integers. 
+2. Write the integer as a sum of powers of 2, then write its binary form. 
+3. Check your work using the websites above. 
+
+Some samples are below. 
+
+| Base 10 | Base 2   |
+| ------- | -------- |
+| 248     | 11111000 |
+| 130     | 10000010 |
+| 135     | 10000111 |
+| 255     | 11111111 |
+| 214     | 11010110 |

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base 2 representation.md",
+                "file": "Binary digits.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base 2 representation.md",
+                "file": "Binary digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base 2 representation.md",
+                "file": "Binary digits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base 2 representation.md"
+                "file": "Binary digits.md"
               }
             }
           },
@@ -234,9 +234,11 @@
   },
   "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Binary digits.md",
+    "Base 2 representation.md",
     "Logic/Conditional statements.md",
     "Assets/Templates/Entry template.md",
-    "Base 2 representation.md",
     "Computer Arithmetic/Integers.md",
     "Computer Arithmetic/Base 10 representation.md",
     "To Do List.md",
