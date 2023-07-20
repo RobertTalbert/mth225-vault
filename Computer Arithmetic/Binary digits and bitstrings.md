@@ -1,5 +1,5 @@
 ---
-aliases: [binary digits, bits]
+aliases: [binary digits, bits, bitstring, bitstrings]
 --- 
 
 #computer-arithmetic 
