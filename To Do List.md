@@ -17,7 +17,7 @@ Every concept page should have (i.e. make a template for)
 - [x] [[Integers|Integer]] 
 - [x] [[Natural numbers]]
 - [x] [[Base 2 representation]]
-- [ ] [[Base 8 representation]]
+- [x] [[Base 8 representation]]
 - [ ] [[Base 16 representation]]
 - [ ] [[Converting to base 10]] 
 - [ ] [[Base conversion algorithm]] 
