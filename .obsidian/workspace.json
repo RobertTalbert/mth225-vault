@@ -55,52 +55,22 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "675a46aff0f5bfe6"
-          }
-        ]
-      },
-      {
-        "id": "cd861de7f6dd59b1",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "231558729d227572",
+            "id": "cba3e7fd32e0d8e0",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Base 8 representation.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "675a46aff0f5bfe6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List.md",
+                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Computer Arithmetic/Binary digits and bitstrings.md"
               }
             }
           },
@@ -240,18 +210,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "648326dff836a8ba",
+  "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
-    "Computer Arithmetic/Base 8 representation.md",
     "Computer Arithmetic/Base 2 representation.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
+    "Computer Arithmetic/Base 8 representation.md",
+    "Computer Arithmetic/Base 10 representation.md",
     "To Do List.md",
     "Computer Arithmetic/Integers.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Untitled 2.md",
     "Logic/Conditional statements.md",
     "Assets/Templates/Entry template.md",
-    "Computer Arithmetic/Base 10 representation.md",
     "Untitled 1.md",
     "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230718094622.png",
