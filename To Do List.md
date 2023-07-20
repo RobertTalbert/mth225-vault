@@ -16,27 +16,40 @@ Every concept page should have (i.e. make a template for)
 - [x] [[Base 10 representation]]
 - [x] [[Integers|Integer]] 
 - [x] [[Natural numbers]]
-- [ ] Base 2 representation
-- [ ] Base 8 representation
-- [ ] Base 16 representation
-- [ ] Converting to base 10 
-- [ ] Base conversion algorithm 
-- [ ] Two's complement 
-- [ ] Addition in binary 
-- [ ] Subtraction in binary
-- [ ] Multiplication in binary
-- [ ] Division in binary
-- [ ] The Division Algorithm
-- [ ] The modulus operator `%`
-- [ ] Recursion 
+- [ ] [[Base 2 representation]]
+- [ ] [[Base 8 representation]]
+- [ ] [[Base 16 representation]]
+- [ ] [[Converting to base 10]] 
+- [ ] [[Base conversion algorithm]] 
+- [ ] [[Two's complement]] 
+- [ ] [[Addition in binary]] 
+- [ ] [[Subtraction in binary]]
+- [ ] [[Multiplication in binary]]
+- [ ] [[Division in binary]]
+- [ ] [[The Division Algorithm]]
+- [ ] [[The modulus operator]] `%`
+- [ ] [[Recursion]] 
 
 ## Logic
-- [ ] [[Conditional statements]]
+- [ ] [[Conditional statements]] 
+	- [ ] Add fact that $P \rightarrow Q$ is LE to $(\neg P) \vee Q$ 
+	- [ ] Add fact about negations $\neg (P \rightarrow Q)$ is LE to $P \wedge (\neg Q)$
+- [ ] [[Converse]]
+- [ ] [[Contrapositive]]
+- [ ] [[Inverse]]
 - [ ] [[Truth tables]]
+	- [ ] Two statements 
+	- [ ] Three statements 
 - [ ] [[Propositions]]
 - [ ] [[Atomic propositions]] (and their truth tables) 
+	- [ ] Conjunctions
+	- [ ] Disjunctions
+	- [ ] Negations
 - [ ] [[Logical equivalence]]
 - [ ] [[DeMorgan's Laws]]
+- [ ] [[Predicates]]
+- [ ] [[Existential quantifier]]
+- [ ] [[Universal quantifier]]
 - [ ] 
 
 ## Sets and Functions
