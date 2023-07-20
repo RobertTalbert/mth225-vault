@@ -2,23 +2,26 @@ Every concept page should have (i.e. make a template for)
 - Definition
 - Example
 - Nonexample
-- Links to related concepts? Or that's what the graph view is for
 - Video content
 - Links to resources 
+
+**NOT** every concept page should have practice -- just concepts that are/contain processes 
 
 - [ ] Changelog note that sits on top (maybe as part of overall TOC page)
 ### Computer arithmetic (phase 1)
 
 - [ ] Hub for computer arithmetic
-- [ ] Base 10 
+- [x] [[Integers|integer]]
+- [x] [[Natural numbers]]
+- [x] [[Base 10 representation]]
 - [x] [[Integers|Integer]] 
 - [x] [[Natural numbers]]
-- [ ] Base 2 (binary) 
-- [ ] Base 8 (octal)
-- [ ] Base 16 (hexadecimal)
+- [ ] Base 2 representation
+- [ ] Base 8 representation
+- [ ] Base 16 representation
 - [ ] Converting to base 10 
-- [ ] Converting from base 10 (base conversion algorithm) 
-- [ ] Two's complement notation 
+- [ ] Base conversion algorithm 
+- [ ] Two's complement 
 - [ ] Addition in binary 
 - [ ] Subtraction in binary
 - [ ] Multiplication in binary
@@ -30,6 +33,11 @@ Every concept page should have (i.e. make a template for)
 ## Logic
 - [ ] [[Conditional statements]]
 - [ ] [[Truth tables]]
+- [ ] [[Propositions]]
+- [ ] [[Atomic propositions]] (and their truth tables) 
+- [ ] [[Logical equivalence]]
+- [ ] [[DeMorgan's Laws]]
+- [ ] 
 
 ## Sets and Functions
 

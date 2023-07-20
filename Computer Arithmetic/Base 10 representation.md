@@ -24,4 +24,3 @@ The digit attached to each grouping of 10 must be a [[Natural numbers|natural nu
 The first three minutes of this video covers more on base 10 representation:
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/575905500?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 1.1: Base 10 and Base 2 representation of integers"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Practice 
