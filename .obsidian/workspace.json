@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary digits and bitstrings.md",
+                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base 2 representation.md",
+                "file": "Computer Arithmetic/Base 2 representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base 8 representation.md",
+                "file": "Computer Arithmetic/Base 8 representation.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "675a46aff0f5bfe6"
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "cd861de7f6dd59b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231558729d227572",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Computer Arithmetic/Base 8 representation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "675a46aff0f5bfe6"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base 8 representation.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base 8 representation.md",
+                "file": "To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base 8 representation.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -181,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91a4107b1531e081",
+  "active": "648326dff836a8ba",
   "lastOpenFiles": [
-    "Base 2 representation.md",
-    "Binary digits and bitstrings.md",
+    "Computer Arithmetic/Base 8 representation.md",
+    "Computer Arithmetic/Base 2 representation.md",
+    "Computer Arithmetic/Binary digits and bitstrings.md",
     "To Do List.md",
-    "Base 8 representation.md",
     "Computer Arithmetic/Integers.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Untitled 2.md",
