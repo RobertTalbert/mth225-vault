@@ -15,4 +15,9 @@ aliases: []
 
 ## Resources 
 
+(video)
+
+Other resources: 
+- 
+
 ## Practice 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Base 10 representation.md",
+                "file": "Computer Arithmetic/Integers.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,6 +74,18 @@
               "type": "markdown",
               "state": {
                 "file": "Logic/Conditional statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd6ba4a0779fa788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Templates/Entry template.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,12 +234,14 @@
   },
   "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
-    "Computer Arithmetic/Base 10 representation.md",
+    "Logic/Conditional statements.md",
+    "Assets/Templates/Entry template.md",
     "Base 2 representation.md",
+    "Computer Arithmetic/Integers.md",
+    "Computer Arithmetic/Base 10 representation.md",
     "To Do List.md",
     "Untitled 1.md",
     "Sets and Functions/Subset.md",
-    "Logic/Conditional statements.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Computer Arithmetic/Natural numbers.md",
     "subset.md",
@@ -235,9 +249,7 @@
     "START HERE.md",
     "Assets/Images",
     "Assets/Templates",
-    "Assets/Templates/Entry template.md",
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
-    "Computer Arithmetic/Integers.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Counting/Outline for Counting.md",

@@ -1,5 +1,5 @@
 ---
-aliases: [binary, base 2, bit]
+aliases: [binary, base 2]
 --- 
 
 #computer-arithmetic 
@@ -23,8 +23,14 @@ $$267 \ \text{base 10} = 100001011 \ \text{base 2}$$
 A subscript is often used to indicate which base we mean: $267_{10} = 100001011_{2}$. 
 
 Likewise, the number 24 is $24 = 16 + 8 = 1 \cdot 2^4 + 1 \cdot 2^3 + 0 \cdot 2^2 + 0 \cdot 2^1 + 0 \cdot 2^0$. Therefore $24_{10} = 11000_2$. 
-
 ## Resources 
+This video starting at the 3:00 mark has more on binary representation: 
+<iframe src="https://player.vimeo.com/video/575905500?h=463d7f680d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/575905500">Screencast 1.1: Base 10 and Base 2 representation of integers</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
+Other resources: 
+- [RapidTables web page for converting from base 10 to base 2](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+- [Calculator.net page, includes conversion from base 10 to base 2 and vice versa](https://www.calculator.net/binary-calculator.html)
 ## Practice 
+
+1. Generate a random integer. Start small (1-4) digits at fir
