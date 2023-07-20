@@ -10,18 +10,25 @@ aliases: [octal, octal representation, base 8]
 > An [[Integers|integer]] is written in **base 8** or **octal** format if it consists of a string of the numbers $0$ through $7$ that represent groupings of powers of 8. 
 
 Notes: 
-- 
+- The first few powers of $8$ are: 
+
+| Power of $8$ | Value |
+| :------------: | :-----: |
+| $8^0$        | $1$   |
+| $8^1$        | $8$   |
+| $8^2$        | $64$  |
+| $8^3$        | $512$ |
+| $8^4$        |  $4096$     |
+
+These are all powers of $2$ as well, since $8 = 2^3$. 
 ## Examples 
 
 The number $267$ can be written as a sum of powers of $2$ as follows: 
-$$267 = 4 \times 8^2 $$
-Using $0$ to pad this sum with groups that are not used and $1$ multiplied to groups that are use, this becomes: 
-$$267 = 256 + 8 + 2 + 1 = 1 \cdot 2^8 + 0 \cdot 2^7 + 0 \cdot 2^6 + 0 \cdot 2^5 + 0 \cdot 2^4 + 1 \cdot 2^3 + + 0 \cdot 2^2 + 1 \cdot 2^1 + 1 \cdot 2^0$$
-The resulting string of $0$'s and $1$'s, read left-to-right, is the binary representation of 267: 
-$$267 \ \text{base 10} = 100001011 \ \text{base 2}$$
-A subscript is often used to indicate which base we mean: $267_{10} = 100001011_{2}$. 
+$$267 = 4 \times 64 + 1 \times 8 + 3 \times 1 = 4 \times 8^2 + 3 \times 8^1 + 4 \times 8^0$$
+Therefore $267$ in base 10, is $413$ in base 8. 
+A subscript is often used to indicate which base we mean: $267_{10} = 413_{8}$. 
 
-Likewise, the number 24 is $24 = 16 + 8 = 1 \cdot 2^4 + 1 \cdot 2^3 + 0 \cdot 2^2 + 0 \cdot 2^1 + 0 \cdot 2^0$. Therefore $24_{10} = 11000_2$. 
+Likewise, the number 24 is $24 = 3 \times 8 = 3 \cdot 8^1 + 0 \times 8^0$. Therefore $24_{10} = 30_8$. 
 ## Resources 
 This video starting at the 3:00 mark has more on binary representation: 
 <iframe src="https://player.vimeo.com/video/575905500?h=463d7f680d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
