@@ -11,7 +11,7 @@ aliases: [base 10 conversion]
 > - Write out the integer as a sum of copies of powers of the base, using the digits as multipliers
 > - Perform the arithmetic that results in [[Base 10 representation|base 10]]. 
 
-To convert *from* [[Base 10 representation|decimal]] *to* a different base, see the article on the base conversion algorithm. 
+To convert *from* [[Base 10 representation|decimal]] *to* a different base, see the article on the [[base conversion algorithm]]. 
 
 To convert from a *non-decimal base* to *another non-decimal base* (e.g. [[Base 10 representation|decimal]] to [[Base 8 representation|octal]]), see the article on non-decimal base conversions. 
 

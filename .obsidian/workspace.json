@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Base conversion algorithm.md",
+                "file": "Computer Arithmetic/Two's complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Base conversion algorithm.md",
+                "file": "Computer Arithmetic/Two's complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Base conversion algorithm.md",
+                "file": "Computer Arithmetic/Two's complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Base conversion algorithm.md"
+                "file": "Computer Arithmetic/Two's complement.md"
               }
             }
           },
@@ -200,8 +200,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,13 +222,15 @@
   },
   "active": "301e2df81b2eda03",
   "lastOpenFiles": [
-    "Computer Arithmetic/Base 16 representation.md",
-    "Computer Arithmetic/Converting to base 10.md",
-    "Computer Arithmetic/Base conversion algorithm.md",
+    "Untitled 3.md",
+    "Computer Arithmetic/Two's complement.md",
     "Computer Arithmetic/Base 10 representation.md",
-    "Computer Arithmetic/Binary digits and bitstrings.md",
-    "Computer Arithmetic/Base 2 representation.md",
     "Computer Arithmetic/Base 8 representation.md",
+    "Computer Arithmetic/Base 2 representation.md",
+    "Computer Arithmetic/Base conversion algorithm.md",
+    "Computer Arithmetic/Converting to base 10.md",
+    "Computer Arithmetic/Base 16 representation.md",
+    "Computer Arithmetic/Binary digits and bitstrings.md",
     "To Do List.md",
     "Computer Arithmetic/Integers.md",
     "Sets and Functions/Outline for sets and functions.md",
@@ -259,8 +260,6 @@
     "Assets",
     "untitled folder",
     "Test canvas.canvas",
-    "sortspec.md",
-    "Welcome.md",
     "Logic"
   ]
 }
