@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "301e2df81b2eda03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Arithmetic/Base conversion algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7dd1e8514762f0c",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Base 16 representation.md",
+                "file": "Computer Arithmetic/Base conversion algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Base 16 representation.md",
+                "file": "Computer Arithmetic/Base conversion algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Base 16 representation.md"
+                "file": "Computer Arithmetic/Base conversion algorithm.md"
               }
             }
           },
@@ -193,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +222,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0b2d2bcbe5bafad",
+  "active": "301e2df81b2eda03",
   "lastOpenFiles": [
-    "Computer Arithmetic/Converting to base 10.md",
-    "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Base 16 representation.md",
+    "Computer Arithmetic/Converting to base 10.md",
+    "Computer Arithmetic/Base conversion algorithm.md",
+    "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Computer Arithmetic/Base 2 representation.md",
     "Computer Arithmetic/Base 8 representation.md",
