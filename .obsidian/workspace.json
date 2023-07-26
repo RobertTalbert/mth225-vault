@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
+                "file": "Computer Arithmetic/Base 16 representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,14 +136,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
+                "file": "Computer Arithmetic/Base 16 representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Binary digits and bitstrings.md",
+                "file": "Computer Arithmetic/Base 16 representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Binary digits and bitstrings.md"
+                "file": "Computer Arithmetic/Base 16 representation.md"
               }
             }
           },
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +211,12 @@
   },
   "active": "b0b2d2bcbe5bafad",
   "lastOpenFiles": [
-    "Computer Arithmetic/Base 2 representation.md",
-    "Computer Arithmetic/Binary digits and bitstrings.md",
-    "Computer Arithmetic/Base 8 representation.md",
+    "Computer Arithmetic/Converting to base 10.md",
     "Computer Arithmetic/Base 10 representation.md",
+    "Computer Arithmetic/Base 16 representation.md",
+    "Computer Arithmetic/Binary digits and bitstrings.md",
+    "Computer Arithmetic/Base 2 representation.md",
+    "Computer Arithmetic/Base 8 representation.md",
     "To Do List.md",
     "Computer Arithmetic/Integers.md",
     "Sets and Functions/Outline for sets and functions.md",

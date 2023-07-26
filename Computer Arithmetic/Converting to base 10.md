@@ -6,16 +6,14 @@ aliases: [base 10 conversion]
 
 ## Process
 
-To convert **from** any number base **to** base 10: 
+> [!summary] To convert an [[Integers|integer]] *from* any number base *to* [[Base 10 representation|base 10]]: 
+> - Make a note of the base that the integer is using ([[Base 2 representation|base 2]], [[Base 8 representation|base 8]], [[Base 16 representation|base 16]], etc.)
+> - Write out the integer as a sum of copies of powers of the base, using the digits as multipliers
+> - Perform the arithmetic that results in [[Base 10 representation|base 10]]. 
 
-- Make a note of the base that the integer is using (base 2, base 8, base 16, etc.)
-- Write out the integer as a sum of copies of powers of the base, using the digits as multipliers
-- Perform the arithmetic that results in base 10. 
+To convert *from* [[Base 10 representation|decimal]] *to* a different base, see the article on the base conversion algorithm. 
 
-To convert *from* decimal *to* a different base, see the article on the base conversion algorithm. 
-
-To convert from a *non-decimal base* to *another non-decimal base* (e.g. decimal to octal), see the article on non-decimal base conversions. 
-
+To convert from a *non-decimal base* to *another non-decimal base* (e.g. [[Base 10 representation|decimal]] to [[Base 8 representation|octal]]), see the article on non-decimal base conversions. 
 
 ## Examples 
 
