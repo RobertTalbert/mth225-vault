@@ -11,7 +11,7 @@ aliases: [two's complement]
 > 1. Decide on the number of bits to use for the representation. (This often depends on the architecture of the computer system, e.g. an 8-bit system or a 64-bit system.) The number of bits to use must be greater than the length of the binary representation of the positive version of your number. 
 > 2. Take the negative number in base 10 and write its *positive* version in base 2 (using the [[Base conversion algorithm|base conversion algorithm]]), padding the front of the bit string with extra 
 > 3. Flip all the bits in this binary integer -- change all `0`s to `1`s and vice versa. 
-> 4. Using binary addition, add `1` to this binary integer. 
+> 4. Using [[Addition in binary|binary addition]], add `1` to this binary integer. 
 > 
 > The result is the two's complement representation of the original negative integer. 
 >
@@ -25,7 +25,7 @@ Represent $-42$ in binary using two's complement and 8-bit representation.
 
 1. The positive version $42$ is $101010$ in binary, and since we are using 8-bit representation we pad this with two extra `0` bits to get $00101010$. 
 2. Flip the bits to get $11010101$. 
-3. Using binary addition, add $1$ to this, to get $11010110$. 
+3. Using [[Addition in binary|binary addition]], add $1$ to this, to get $11010110$. 
 
 Therefore $-42_{10} = 11010110_2$ using two's complement notation. 
 
@@ -45,6 +45,6 @@ Therefore $-300_{10} = 1111111011010100_2$.
 Other resources: 
 - [More examples at TutorialsPoint](https://www.tutorialspoint.com/two-s-complement)
 - [YouTube video from MIT OpenCourseware with more worked examples](https://www.youtube.com/watch?v=m_G3z-C1C2g)
-- [Two's complement calculator](https://www.allmath.com/twos-complement.php)
+- [Two's complement calculator](https://www.easycalculation.com/twos-complement.php) -- only works for integers between $-128$ and $127$, and it doesn't include leading `0` bits in the answer. 
 
 ## Practice 

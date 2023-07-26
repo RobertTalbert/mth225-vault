@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Two's complement.md",
+                "file": "Computer Arithmetic/Addition in binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Two's complement.md",
+                "file": "Computer Arithmetic/Addition in binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Two's complement.md",
+                "file": "Computer Arithmetic/Addition in binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Two's complement.md"
+                "file": "Computer Arithmetic/Addition in binary.md"
               }
             }
           },
@@ -222,8 +222,11 @@
   },
   "active": "301e2df81b2eda03",
   "lastOpenFiles": [
-    "Untitled 3.md",
+    "Untitled 5.md",
+    "Computer Arithmetic/Addition in binary.md",
+    "Untitled 4.md",
     "Computer Arithmetic/Two's complement.md",
+    "Untitled 3.md",
     "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Base 8 representation.md",
     "Computer Arithmetic/Base 2 representation.md",
@@ -248,9 +251,6 @@
     "Assets/Templates",
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Recursion and Induction/Outline for recursion and induction.md",
-    "Counting/Outline for Counting.md",
-    "Logic/Outline for Logic.md",
-    "Logic/Truth tables.md",
     "Counting",
     "Recursion and Induction",
     "Sets and Functions",
