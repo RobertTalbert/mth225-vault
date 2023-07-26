@@ -8,8 +8,8 @@ aliases: [two's complement]
 
 > [!tldr] Process
 > Two's complement is a method of representing a *negative* integer in binary. To put a negative integer in two's complement notation: 
-> 1. Decide on the number of bits to use for the representation. (This often depends on the architecture of the computer system, e.g. an 8-bit system or a 64-bit system.)
-> 2. Take the negative number in base 10 and write its *positive* version in base 2 (using the [[Base conversion algorithm|base conversion algorithm]]). 
+> 1. Decide on the number of bits to use for the representation. (This often depends on the architecture of the computer system, e.g. an 8-bit system or a 64-bit system.) The number of bits to use must be greater than the length of the binary representation of the positive version of your number. 
+> 2. Take the negative number in base 10 and write its *positive* version in base 2 (using the [[Base conversion algorithm|base conversion algorithm]]), padding the front of the bit string with extra 
 > 3. Flip all the bits in this binary integer -- change all `0`s to `1`s and vice versa. 
 > 4. Using binary addition, add `1` to this binary integer. 
 > 
@@ -21,7 +21,15 @@ Notes:
 
 ## Examples 
 
-Represent $-42$
+Represent $-42$ in binary using two's complement and 8-bit representation. 
+
+1. The positive version $42$ is $101010$ in binary, and since we are using 8-bit representation we pad this with two extra `0` bits to get $00101010$. 
+2. Flip the bits to get $11010101$. 
+3. Using binary addition, add $1$ to this, to get $11010110$. 
+
+Therefore $-42_{10} = 11010110_2$ using two's complement notation. 
+
+Represent $-300$ in two's complement notation. Notice this time we cannot use 8-bit representation because the positive version of this number, 300, is 
 
 ## Resources 
 
