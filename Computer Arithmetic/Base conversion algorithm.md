@@ -16,11 +16,34 @@ aliases: [base conversion algorithm]
 
 Notes: 
 - The algorithm here always terminates because the quotients are nonnegative integers, and at each step must get strictly smaller, and therefore they will always converge to zero. 
-- Here is Python code for this algorithm if the base is between 2 and 10. It terminates immediately if the base is larger than 10, because to convert to a larger base you would need alphabetical replacements for the numbers 10 and above, as in hexadecimal. You could modify this code, though, to work for larger bases if you introdu
+- Here is Python code for this algorithm if the base is between 2 and 10. It terminates immediately if the base is larger than 10, because to convert to a larger base you would need alphabetical replacements for the numbers 10 and above, as in hexadecimal. You could modify this code, though, to work for larger bases if you introduced some additional data structures to represent 10, 11, 12, etc. Also, notice this returns a string, not a number. 
 
+```python
+def convert_to_base(number, base):
 
+  if base < 2 or base > 10:
+    raise ValueError("Invalid base: %d" % base)
+
+  digits = []
+  while number:   # Loop exists once "number" equals 0
+    digit = number % base #Divide by the base and keep the remainder
+    digits.append(chr(ord('0') + digit)) 
+    number //= base # Replace "number" with the previous quotient 
+
+  digits.reverse()
+  return ''.join(digits)
+```
 
 ## Examples and Non-Examples
+
+Converting the base 10 integer $42$ to binary (base 2): 
+
+1. Divide $42$ by $2$ and keep the quotient and remainder: $q_1 = 21, r_1 = 0$
+2. Divide $q_1$ by $2$ and keep the quotient and remainder: $q_2 = 10, r_2 = 1$
+3. Divide $q_2$ by $2$ and keep the quotient and remainder: $q_3 = 5, r_3 = 0$
+4. Divide $q_3$ by $2$ and keep the quotient and remainder: $q_4 = 2, r_4 = 1$
+5. Divide $q_4$ by $2$ and keep the quotient and remainder: $q_5 = 1, r_1 = 0$
+6. Divide $q_5$ by $2$ and keep the quotient and remainder: $q_6 = 0, r_1 = 1$. This is because $2$ goes into $1$ 
 
 ## Resources 
 
