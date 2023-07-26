@@ -39,11 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Addition in binary.md",
+                "file": "Computer Arithmetic/Base 2 representation.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "07d0677107475c6a"
           },
           {
             "id": "c7dd1e8514762f0c",
@@ -83,6 +84,48 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "5390b0dda771363e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90241255482a8bf3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Computer Arithmetic/Base 2 representation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "07d0677107475c6a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Addition in binary.md",
+                "file": "Computer Arithmetic/Base 2 representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Addition in binary.md",
+                "file": "Computer Arithmetic/Base 2 representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Addition in binary.md"
+                "file": "Computer Arithmetic/Base 2 representation.md"
               }
             }
           },
@@ -222,10 +265,10 @@
   },
   "active": "301e2df81b2eda03",
   "lastOpenFiles": [
-    "Untitled 5.md",
     "Computer Arithmetic/Addition in binary.md",
-    "Untitled 4.md",
     "Computer Arithmetic/Two's complement.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
     "Untitled 3.md",
     "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Base 8 representation.md",
