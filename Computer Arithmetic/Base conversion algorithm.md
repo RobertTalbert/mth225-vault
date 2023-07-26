@@ -34,7 +34,7 @@ def convert_to_base(number, base):
   return ''.join(digits)
 ```
 
-## Examples and Non-Examples
+## Examples
 
 Converting the base 10 integer $42$ to binary (base 2): 
 
@@ -43,13 +43,26 @@ Converting the base 10 integer $42$ to binary (base 2):
 3. Divide $q_2$ by $2$ and keep the quotient and remainder: $q_3 = 5, r_3 = 0$
 4. Divide $q_3$ by $2$ and keep the quotient and remainder: $q_4 = 2, r_4 = 1$
 5. Divide $q_4$ by $2$ and keep the quotient and remainder: $q_5 = 1, r_1 = 0$
-6. Divide $q_5$ by $2$ and keep the quotient and remainder: $q_6 = 0, r_1 = 1$. This is because $2$ goes into $1$ 
+6. Divide $q_5$ by $2$ and keep the quotient and remainder: $q_6 = 0, r_1 = 1$. This is because $2$ goes into $1$ zero times, with a remainder of $1$. 
+7. The quotient equalled zero, so stop and return the remainders in reverse order: $101010$. That is, $42_{10} = 101010_2$. 
 
+Convert the base 10 integer 42 to base $9$: 
+1. Divide $42$ by $9$ and keep the quotient and remainder: $q_1 = 4, r_1 = 6$
+2. Divide $4$ by $9$ and keep the quotient and remainder: $q_1 = 0, r_1 = 4$
+3. The quotient equalled zero, so stop and return the remainders in reverse order: $46$. That is, $42_{10} = 46_9$. 
+
+Convert the base 10 integer 420 to hexadecimal (base 16): 
+1. Divide $420$ by $16$ and keep the quotient and remainder: $q_1 = 26, r_1 = 4$
+2. Divide $26$ by $16$ and keep the quotient and remainder: $q_1 = 1, r_1 = 10$
+3. Divide 
 ## Resources 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/578187581?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 1.3: Base 10 conversion algorithm"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/578187581?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 1.3: Base 10 conversion algorithm"></iframe></div>
+
 
 Other resources: 
 - 
 
 ## Practice 
+To practice this concept: 
+- Generate a random integer in base 10 and a random base (or use one of our standard bases: $2$, $8$, or $16$)
