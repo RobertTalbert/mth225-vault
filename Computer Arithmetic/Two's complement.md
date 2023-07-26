@@ -29,7 +29,13 @@ Represent $-42$ in binary using two's complement and 8-bit representation.
 
 Therefore $-42_{10} = 11010110_2$ using two's complement notation. 
 
-Represent $-300$ in two's complement notation. Notice this time we cannot use 8-bit representation because the positive version of this number, 300, is 
+Represent $-300$ in two's complement notation. Notice this time we cannot use 8-bit representation because the positive version of this number, 300, is $100101100$ which has 9 bits. So we must use at least 9 bits to represent $-300$. Let's pick a computer-friendly number, 16. 
+
+1. The positive version $300$ is $100101100$, which when padded with `0` bits to make it 16 bits long is $0000000100101100$. 
+2. Flip all the bits to get $1111111011010011$. 
+3. Add $1$ in binary to get $1111111011010100$. 
+
+Therefore $-300_{10} = 1111111011010100_2$. 
 
 ## Resources 
 
@@ -37,6 +43,8 @@ Represent $-300$ in two's complement notation. Notice this time we cannot use 8-
 
 
 Other resources: 
-- 
+- [More examples at TutorialsPoint](https://www.tutorialspoint.com/two-s-complement)
+- [YouTube video from MIT OpenCourseware with more worked examples](https://www.youtube.com/watch?v=m_G3z-C1C2g)
+- [Two's complement calculator](https://www.allmath.com/twos-complement.php)
 
 ## Practice 
