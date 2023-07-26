@@ -16,7 +16,7 @@ aliases: [base conversion algorithm]
 
 Notes: 
 - The algorithm here always terminates because the quotients are nonnegative integers, and at each step must get strictly smaller, and therefore they will always converge to zero. 
-- Here is Python code for this algorithm: 
+- Here is Python code for this algorithm if the base is between 2 and 10. It terminates immediately if the base is larger than 10, because to convert to a larger base you would need alphabetical replacements for the numbers 10 and above, as in hexadecimal. You could modify this code, though, to work for larger bases if you introdu
 
 
 
