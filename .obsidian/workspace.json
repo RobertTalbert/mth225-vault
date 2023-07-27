@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "90b944a931cf9b57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.0"
+              }
+            }
+          },
+          {
             "id": "c7dd1e8514762f0c",
             "type": "leaf",
             "state": {
@@ -82,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301e2df81b2eda03",
+  "active": "90b944a931cf9b57",
   "lastOpenFiles": [
     "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Two's complement.md",
