@@ -29,6 +29,8 @@ Multiply $1101$ by $101$. In [[Base 10 representation|base 10]] this is $13$ tim
 Other resources: 
 - [Binary arithmetic calculator](https://www.calculator.net/binary-calculator.html)
 - Video: [Multiplying in binary](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-multiplication) (Khan Academy)
-- 
+- [Tutorial on binary multiplication](https://www.cuemath.com/numbers/binary-multiplication/)
 
 ## Practice 
+
+To practice this concept: Just make up pairs of random positive integers and convert to binary (or make up pairs of random [[Binary digits and bitstrings|bitstrings]]). Then multiply them. Then check your work by either using the [binary arithmetic calculator](https://www.calculator.net/binary-calculator.html) or by converting the answer to [[Base 10 representation|base 10]] and seeing if it matches what you should get if you multiplied the original integers together in [[Base 10 representation|base 10]]. 
