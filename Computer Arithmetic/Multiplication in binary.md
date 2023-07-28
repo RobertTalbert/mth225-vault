@@ -16,13 +16,19 @@ aliases: [base 2 multiplication, binary multiplication]
 
 ## Examples 
 
-Multiply $1101$ by $101$. In [[Base 10 representation|base 10]] this is $13$ times $5$, so the answer should be $91$ or $1011011$. 
-1. Multiply $1101$ by the ones ($2^0$) digit in $11!
+Multiply $1101$ by $101$. In [[Base 10 representation|base 10]] this is $13$ times $5$, so the answer should be $65$ or $1000001$. 
+1. Multiply $1101$ by the ones ($2^0$) digit in $101$ which is $1$. This produces a copy of $1101$. 
+2. Pad on the right with a single $0$ and multiply $1101$ by the twos ($2^1$) digit of $101$. This is a $0$, so the result is $00000$. 
+3. Pad on the right with two zeroes and multiply $1101$ by the fours ($2^2$) digit of $101$. This is a $1$, so the result is $110100$ (a copy of $1101$ along with the two padding zeroes). 
+4. There are no more [[Binary digits and bitstrings|bits]] in $b$ to multiply by, so now add all the results above in [[Base 2 representation|binary]]: $1101 + 00000 + 110100$. The result is $1000001$ as expected. 
 ## Resources 
 
-(video)
+<iframe src="https://player.vimeo.com/video/580457312?h=b1d9b0e518" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/580457312">Screencast 1.6: Multiplication in binary</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
+- [Binary arithmetic calculator](https://www.calculator.net/binary-calculator.html)
+- Video: [Multiplying in binary](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-multiplication) (Khan Academy)
 - 
 
 ## Practice 
