@@ -17,12 +17,16 @@ Notes:
 
 ## Examples 
 
-Subtract the [[Base 2 representation|base 2]] integers $1011$ and $1010$. That is, fi
-
+Subtract the [[Base 2 representation|base 2]] integers $1101$ and $1010$. That is, find $1101 - 1010$. Note that in base 10, this would be $13 - 10$, so the answer should be $3$ which is $11_2$. 
+1. Subtract bits in the ones ($2^0$) place: $1-0 = 1$. 
+2. Subtract bits in the twos ($2^1$) place: We have $0-1$ so we borrow $1$ from the fours ($2^2$) place to make the $0$ into a $10$, then subtract: $10 - 1 = 1$. 
+3. Subtract bits in the fours ($2^2$) place: This would have been $1-1$ except we borrowed in the previous step, so the first $1$ is now a $0$. Therefore we have $0-0$ which is $0$. 
+4. Subtract bits in the eights ($2^3$) place: $1-1 = 0$. 
+Therefore $1101 - 1010 = 0011$ which is $11$. That's what we expected. 
 
 ## Resources 
 
-(video)
+
 
 Other resources: 
 - 
