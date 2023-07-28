@@ -8,11 +8,17 @@ aliases: [binary subtraction, base 2 subtraction]
 
 > [!tldr] Process
 > If $a$ and $b$ are base 2 (binary) integers and $a \geq b$, to find $a-b$:
-> 1. Start in the ones ($2^0$) place a
+> 1. Start in the ones ($2^0$) place and subtract the bits there: $0 - 0 = 0$, $1-1 = 0$, $1-0 = 1$; and if we encounter $0-1$ then **borrow** $1$ from the twos ($2^1$) place to make the $0$ into $10$, then subtract to get $10 - 1 = 1$. 
+> 2. Subtract the bits in the twos ($2^1$) place. Again, $0 - 0 = 0$, $1-1 = 0$, $1-0 = 1$; and if we encounter $0-1$ then **borrow** $1$ from the fours ($2^2$) place to make the $0$ into $10$, then subtract to get $10 - 1 = 1$. 
+> 3. Continue this process of subtracting, borrowing from the next higher place if needed, until we reach the left end of the bitstring. 
 
-(blurb)
+Notes: 
+- It's also possible to "subtract" $b$ from $a$ by finding the binary form of $b$ using two's complement notation, then using binary addition to add this to $a$. However there are potential issues with the bit size; the procedure outlined above has no such restrictions. 
 
-## Examples and Non-Examples
+## Examples 
+
+Subtract the [[Base 2 representation|base 2]] integers $1011$ and $1010$. That is, fi
+
 
 ## Resources 
 
