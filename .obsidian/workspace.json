@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "Computer Arithmetic/Multiplication in binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "Computer Arithmetic/Multiplication in binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "Computer Arithmetic/Multiplication in binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md"
+                "file": "Computer Arithmetic/Multiplication in binary.md"
               }
             }
           },
@@ -150,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +173,9 @@
   },
   "active": "cba3e7fd32e0d8e0",
   "lastOpenFiles": [
-    "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Subtraction in binary.md",
+    "Computer Arithmetic/Multiplication in binary.md",
+    "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Untitled 8.md",
     "Untitled 7.md",
@@ -199,7 +200,6 @@
     "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Computer Arithmetic/Natural numbers.md",
-    "subset.md",
     "Assets/Images",
     "Assets/Templates",
     "Counting",
