@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cba3e7fd32e0d8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Arithmetic/Multiplication in binary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Multiplication in binary.md",
+                "file": "Computer Arithmetic/Subtraction in binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Multiplication in binary.md",
+                "file": "Computer Arithmetic/Subtraction in binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Multiplication in binary.md"
+                "file": "Computer Arithmetic/Subtraction in binary.md"
               }
             }
           },
@@ -171,10 +158,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cba3e7fd32e0d8e0",
+  "active": "fb84aa0d61444f10",
   "lastOpenFiles": [
-    "Computer Arithmetic/Subtraction in binary.md",
     "Computer Arithmetic/Multiplication in binary.md",
+    "Computer Arithmetic/Subtraction in binary.md",
     "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Untitled 8.md",
