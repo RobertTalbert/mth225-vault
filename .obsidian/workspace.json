@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "To Do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md",
+                "file": "To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Subtraction in binary.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -160,8 +160,15 @@
   },
   "active": "fb84aa0d61444f10",
   "lastOpenFiles": [
-    "Computer Arithmetic/Multiplication in binary.md",
+    "Sets and Functions/Subset.md",
+    "Sets and Functions/Outline for sets and functions.md",
+    "Recursion and Induction/Outline for recursion and induction.md",
+    "Logic/Truth tables.md",
+    "Logic/Outline for Logic.md",
+    "Computer Arithmetic/Outline for Computer Arithmetic.md",
+    "Counting/Outline for Counting.md",
     "Computer Arithmetic/Subtraction in binary.md",
+    "Computer Arithmetic/Multiplication in binary.md",
     "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Untitled 8.md",
@@ -179,14 +186,7 @@
     "Computer Arithmetic/Base conversion algorithm.md",
     "Computer Arithmetic/Converting to base 10.md",
     "Computer Arithmetic/Integers.md",
-    "Sets and Functions/Outline for sets and functions.md",
-    "Untitled 2.md",
-    "Logic/Conditional statements.md",
-    "Assets/Templates/Entry template.md",
-    "Untitled 1.md",
-    "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230718094622.png",
-    "Computer Arithmetic/Natural numbers.md",
     "Assets/Images",
     "Assets/Templates",
     "Counting",

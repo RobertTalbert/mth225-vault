@@ -18,17 +18,17 @@ Every concept page should have (i.e. make a template for)
 - [x] [[Natural numbers]]
 - [x] [[Base 2 representation]]
 - [x] [[Base 8 representation]]
-- [ ] [[Base 16 representation]]
-- [ ] [[Converting to base 10]] 
-- [ ] [[Base conversion algorithm]] 
-- [ ] [[Two's complement]] 
-- [ ] [[Addition in binary]] 
-- [ ] [[Subtraction in binary]]
-- [ ] [[Multiplication in binary]]
-- [ ] [[Division in binary]]
-- [ ] [[The Division Algorithm]]
-- [ ] [[The modulus operator]] `%`
-- [ ] [[Recursion]] 
+- [x] [[Base 16 representation]]
+- [x] [[Converting to base 10]] 
+- [x] [[Base conversion algorithm]] 
+- [x] [[Two's complement]] 
+- [x] [[Addition in binary]] 
+- [x] [[Subtraction in binary]]
+- [x] [[Multiplication in binary]]
+- [x] [[Division in binary]]
+- [x] [[The Division Algorithm]]
+- [x] [[The modulus operator]] `%`
+- [x] [[Recursion]] 
 
 ## Logic
 - [ ] [[Conditional statements]] 
