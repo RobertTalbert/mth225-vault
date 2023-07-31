@@ -12,7 +12,13 @@ aliases: [base 2 division, binary division]
 First define division of single bits: $0 \div 1 = 0$, $1 \div 1 = 1$, and division by $0$ is meaningless. 
 
 If $a$ and $b$ are larger than single bits, first remove any leading $0$ bits that are on the left. Then, use a modified form of long division: 
-1. Compare the divisor (the number that is doing the division) with the dividend (the number that is being divided)
+1. Compare the divisor (the number that is doing the division) with the first digit of the dividend (the number that is being divided). If you can divide evenly by the divisor, the 
+2. 
+3. 
+4. 
+5. the dividend (the number that is being divided). If the divisor is smaller, place $0$ as the quotient and bring down the second bit of the dividend down. If the divisor is smaller, multiply it with $1$ and write it underneath the divisor. 
+6. Use [[Subtraction in binary|binary subtraction]] to subtract the number you wrote down, from the part of the dividend where it is attached. 
+7. Repeat step 1 using the original divisor and the result of the subtraction. 
 
 
 
