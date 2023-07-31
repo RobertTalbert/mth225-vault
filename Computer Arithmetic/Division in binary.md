@@ -20,7 +20,7 @@ aliases: [base 2 division, binary division]
 
 
 
-
+$$\longdiv{10}{2}$$ 
 ## Examples 
 
 Multiply $1101$ by $101$. In [[Base 10 representation|base 10]] this is $13$ times $5$, so the answer should be $65$ or $1000001$. 
