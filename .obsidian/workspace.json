@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "e1f4c78b32f810d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8919f6c4ac89d750",
             "type": "leaf",
             "state": {
@@ -38,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c3dd989c3efe630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The modulus operator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +185,10 @@
   },
   "active": "8919f6c4ac89d750",
   "lastOpenFiles": [
-    "The division algorithm.md",
     "Computer Arithmetic/Division in binary.md",
+    "The modulus operator.md",
+    "Recursion.md",
+    "The division algorithm.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Computer Arithmetic/Multiplication in binary.md",
@@ -207,8 +213,6 @@
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Computer Arithmetic/Base 10 representation.md",
-    "Computer Arithmetic/Base conversion algorithm.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
