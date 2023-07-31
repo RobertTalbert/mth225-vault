@@ -12,13 +12,17 @@ aliases: [base 2 division, binary division]
 First define division of single bits: $0 \div 1 = 0$, $1 \div 1 = 1$, and division by $0$ is meaningless. 
 
 If $a$ and $b$ are larger than single bits, first remove any leading $0$ bits that are on the left. Then, use a modified form of long division: 
-1. Compare the divisor (the number that is doing the division) with the first digit of the dividend (the number that is being divided). If you can divide evenly by the divisor, the 
-2. 
-3. 
-4. 
-5. the dividend (the number that is being divided). If the divisor is smaller, place $0$ as the quotient and bring down the second bit of the dividend down. If the divisor is smaller, multiply it with $1$ and write it underneath the divisor. 
-6. Use [[Subtraction in binary|binary subtraction]] to subtract the number you wrote down, from the part of the dividend where it is attached. 
-7. Repeat step 1 using the original divisor and the result of the subtraction. 
+1. Compare the divisor (the number that is doing the division) with the first digit of the dividend (the number that is being divided). If you can divide evenly by the divisor, the first digit of the quotient (the result) is $1$. Otherwise it is $0$. 
+2. Append the next digit to the dividend and repeat this process, appending digits until you get $1$. 
+3. Once you have a $1$ in the quotient, multiply the divisor by $1$ (which is just making a copy of the divisor) and write it underneath the dividend. 
+4. Then use [[Subtraction in binary|binary subtraction]] to subtract the divisor from the part of the dividend that it sits under. 
+5. Bring down the next digit of the dividend and repeat this process. 
+6. Continue the process of finding digits of the quotient and performing [[subt]]
+7. 
+8. 
+9. the dividend (the number that is being divided). If the divisor is smaller, place $0$ as the quotient and bring down the second bit of the dividend down. If the divisor is smaller, multiply it with $1$ and write it underneath the divisor. 
+10. Use [[Subtraction in binary|binary subtraction]] to subtract the number you wrote down, from the part of the dividend where it is attached. 
+11. Repeat step 1 using the original divisor and the result of the subtraction. 
 
 
 
