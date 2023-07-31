@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1f4c78b32f810d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8919f6c4ac89d750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The division algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/Division in binary.md",
+                "file": "The division algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/Division in binary.md",
+                "file": "The division algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/Division in binary.md"
+                "file": "The division algorithm.md"
               }
             }
           },
@@ -158,11 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb84aa0d61444f10",
+  "active": "8919f6c4ac89d750",
   "lastOpenFiles": [
+    "The division algorithm.md",
+    "Computer Arithmetic/Division in binary.md",
+    "binary-division.jpg",
+    "Untitled.jpg",
     "Computer Arithmetic/Multiplication in binary.md",
     "Computer Arithmetic/Addition in binary.md",
-    "Computer Arithmetic/Division in binary.md",
     "To Do List.md",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Outline for sets and functions.md",
@@ -185,7 +209,6 @@
     "Untitled 3.md",
     "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Base conversion algorithm.md",
-    "Computer Arithmetic/Converting to base 10.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
