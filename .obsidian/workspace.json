@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do List.md",
+                "file": "Computer Arithmetic/Division in binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Computer Arithmetic/Division in binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List.md",
+                "file": "Computer Arithmetic/Division in binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Computer Arithmetic/Division in binary.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "fb84aa0d61444f10",
   "lastOpenFiles": [
+    "Computer Arithmetic/Multiplication in binary.md",
+    "Computer Arithmetic/Addition in binary.md",
+    "Computer Arithmetic/Division in binary.md",
+    "To Do List.md",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
@@ -168,15 +172,12 @@
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Counting/Outline for Counting.md",
     "Computer Arithmetic/Subtraction in binary.md",
-    "Computer Arithmetic/Multiplication in binary.md",
-    "Computer Arithmetic/Addition in binary.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "Computer Arithmetic/Base 8 representation.md",
     "Computer Arithmetic/Base 2 representation.md",
-    "To Do List.md",
     "Computer Arithmetic/Base 16 representation.md",
     "Computer Arithmetic/Two's complement.md",
     "Untitled 5.md",
@@ -185,7 +186,6 @@
     "Computer Arithmetic/Base 10 representation.md",
     "Computer Arithmetic/Base conversion algorithm.md",
     "Computer Arithmetic/Converting to base 10.md",
-    "Computer Arithmetic/Integers.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
