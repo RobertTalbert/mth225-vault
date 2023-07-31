@@ -10,7 +10,7 @@ aliases: [base 2 division, binary division]
 >   If $a$ and $b$ are [[Base 2 representation|base 2]] ([[Base 2 representation|binary]]) [[integers]] and $a \geq b$, to find $a \div b$:
 >   First define division of single bits: $0 \div 1 = 0$, $1 \div 1 = 1$, and division by $0$ is meaningless.  
 >   If $a$ and $b$ are larger than single bits, first remove any leading $0$ bits that are on the left. Then, use a modified form of long division: 
-> 1. Compare the divisor (the number that is doing the division) with the first digit of the dividend (the number that is being divided). If you can divide evenly by the divisor, the first digit of the quotient (the result) is $1$. Otherwise it is $0$. 
+> 1. Compare the divisor (the number that is doing the division) with the first digit of the dividend (the number that is being divided). If you can divide by the divisor (possibly , the first digit of the quotient (the result) is $1$. Otherwise it is $0$. 
 > 2. Append the next digit to the dividend and repeat this process, appending digits until you get $1$. 
 > 3. Once you have a $1$ in the quotient, multiply the divisor by $1$ (which is just making a copy of the divisor) and write it underneath the dividend. 
 > 4. Then use [[Subtraction in binary|binary subtraction]] to subtract the divisor from the part of the dividend that it sits under. 
@@ -18,16 +18,13 @@ aliases: [base 2 division, binary division]
 > 6. Continue the process of finding digits of the quotient and performing [[Subtraction in binary|binary subtraction]] until no more division can be done. 
 > 7. The remainder of this division process will be either $0$ or $1$; $0$ if the divisor evenly divides the last step in the subtraction process or $1$ if it doesn't. 
 
-
-
-$$\longdiv{10}{2}$$ 
 ## Examples 
 
-Multiply $1101$ by $101$. In [[Base 10 representation|base 10]] this is $13$ times $5$, so the answer should be $65$ or $1000001$. 
-1. Multiply $1101$ by the ones ($2^0$) digit in $101$ which is $1$. This produces a copy of $1101$. 
-2. Pad on the right with a single $0$ and multiply $1101$ by the twos ($2^1$) digit of $101$. This is a $0$, so the result is $00000$. 
-3. Pad on the right with two zeroes and multiply $1101$ by the fours ($2^2$) digit of $101$. This is a $1$, so the result is $110100$ (a copy of $1101$ along with the two padding zeroes). 
-4. There are no more [[Binary digits and bitstrings|bits]] in $b$ to multiply by, so now add all the results above in [[Base 2 representation|binary]]: $1101 + 00000 + 110100$. The result is $1000001$ as expected. 
+Divide $11011$ by $10$. (Note, in [[base 10]] this is $27$ divided by $2$, so the result should be a quotient of $13$ and a remainder of $1$.)
+1. The first digit of the dividend is $1$. The number $10$ is bigger than this, so $10$ does not divide $1$. Therefore the first bit of the quotient is $0$. 
+2. Append the next digit of the dividend to get $11$. The number $10$ does 
+
+
 ## Resources 
 
 <iframe src="https://player.vimeo.com/video/580457312?h=b1d9b0e518" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
