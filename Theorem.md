@@ -7,17 +7,5 @@ aliases: [theorem]
 ## Definition 
 
 > [!tldr] Definition
-> A **theorem** is a [[Propositions|proposition]] that is true, and which is accompanied by a correct mathematical [[proof]]. 
+> A **theorem** is a [[Propositions|proposition]] that is true, and which is accompanied by a correct mathematical [[Proof]]. 
 
-(blurb)
-
-## Examples and Non-Examples
-
-## Resources 
-
-(video)
-
-Other resources: 
-- 
-
-## Practice 

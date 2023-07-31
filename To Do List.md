@@ -26,7 +26,7 @@ Every concept page should have (i.e. make a template for)
 - [x] [[Subtraction in binary]]
 - [x] [[Multiplication in binary]]
 - [x] [[Division in binary]]
-- [x] [[The Division Algorithm]]
+- [x] [[The division algorithm]]
 - [x] [[The modulus operator]] `%`
 - [x] [[Recursion]] 
 
