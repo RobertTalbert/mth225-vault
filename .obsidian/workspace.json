@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The division algorithm.md",
+                "file": "Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27e18cc882d4811a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propositions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a608754cf90e306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The division algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b514ae5445a03b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,12 +219,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8919f6c4ac89d750",
+  "active": "0a608754cf90e306",
   "lastOpenFiles": [
-    "Computer Arithmetic/Division in binary.md",
+    "Theorem.md",
     "The modulus operator.md",
-    "Recursion.md",
+    "Propositions.md",
+    "Proof.md",
+    "Untitled 9.md",
     "The division algorithm.md",
+    "Computer Arithmetic/Division in binary.md",
+    "Recursion.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Computer Arithmetic/Multiplication in binary.md",
@@ -209,10 +249,6 @@
     "Computer Arithmetic/Base 8 representation.md",
     "Computer Arithmetic/Base 2 representation.md",
     "Computer Arithmetic/Base 16 representation.md",
-    "Computer Arithmetic/Two's complement.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
