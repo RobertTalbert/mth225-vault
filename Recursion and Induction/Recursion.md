@@ -36,7 +36,26 @@ def fib(n):
 
 Suppose `L` is a list of numbers. We can define the sum of the list, `sum(L)`, recursively using the length of the list: 
 - Base case: If the length of `L` is $0$ then `sum(L)` is defined to be $0$. If the length of `L` is $1$, then `sum(L)` is defined to be just the single number in the list. 
-- Recursive step: If the list has length $2$ or greater, then select the first element in the list and call it `a`. Then, `sum(L)` is `a`, plus the `sum` of the list consisting of `L` with `a` 
+- Recursive step: If the list has length $2$ or greater, then select the first element in the list and call it `a`. Then, `sum(L)` is `a`, plus the `sum` of the list consisting of `L` with `a` removed. 
+
+Thus, for example, `sum([8,6,7,5])` would be computed like this: 
+
+$$\begin{align*}
+\text{sum}([8,6,7,5]) &= 8 + \text{sum}([6,7,5]) \\
+&= 8 + (6 + \text{sum}([7,5])) \\
+&= 8 + (6 + (7 + \text{sum}([5]))) \\
+&= 8 + 6 + 7 + 5 \\
+&= 26
+\end{align*}
+$$
+Here is a recursive Python function that does this: 
+```python
+def sum_rec(L):
+	if len(L) == 0: return 0
+	elif len(L) == 1: return L[0] 
+	else: 
+		return L[0] + sum
+```
 
 
 
