@@ -28,8 +28,16 @@ Here is a recursive Python function for computing the $n$th Fibonacci number:
 def fib(n):
 	if n == 1 or n == 2: return 1
 	else: 
-		return fib
+		return fib(n-1) + fib(n-2)
 ```
+(Warning, this function is extremely slow for inputs above 20.)
+
+### Summing a list of numbers
+
+Suppose `L` is a list of numbers. We can define the sum of the list, `sum(L)`, recursively using the length of the list: 
+- Base case: If the length of `L` is $0$ then `sum(L)` is defined to be $0$. If the length of `L` is $1$, then `sum(L)` is defined to be just the single number in the list. 
+- Recursive step: If the list has length $2$ or greater, then select the first element in the list and call it `a`. Then, `sum(L)` is `a`, plus the `sum` of the list consisting of `L` with `a` 
+
 
 
 ## Resources 
