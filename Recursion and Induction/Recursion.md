@@ -17,7 +17,19 @@ aliases: [recursion, recursively, recursive]
 ### The Fibonacci sequence 
 
 The *Fibonacci sequence* is a sequence of integers defined recursively as follows: 
-- Base case: The first two Fibonacci numbers, 
+- Base case: The first two Fibonacci numbers, $F_0$ and $F_1$ are defined directly: We declare $F_0 =1$ and also $F_1 = 1$. 
+- Recursive step: All other Fibonacci numbers are computed as *the sum of the previous two Fibonacci numbers*. That is, for $n \geq 2$, $F_n = F_{n-1} + F_{n-2}$. 
+
+The Fibonacci sequence therefore starts with $F_0 = 1$ and $F_1 = 1$. Then $F_2 = F_1 + F_0 = 1 + 1 = 2$. Then $F_3 = F_2 + F_1 = 2 + 1 = 3$. Then $F_4 = F_3 + F_2 = 3 + 2 = 5$. And so on. The first 20 numbers in the sequence are: 
+$$1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, \dots$$
+
+Here is a recursive Python function for computing the $n$th Fibonacci number: 
+```python
+def fib(n):
+	if n == 1 or n == 2: return 1
+	else: 
+		return fib
+```
 
 
 ## Resources 
