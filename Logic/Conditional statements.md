@@ -4,11 +4,10 @@ aliases: [conditional statement, if-then statement]
 --- 
 
 #logic 
-
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> A **conditional statement** is a [[Propositions|proposition]] that has the form "If $A$, then $B$" where $A$ and $B$ are 
 
 (blurb)
 

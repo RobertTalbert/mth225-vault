@@ -13,7 +13,7 @@ aliases: [recursion, recursively, recursive]
 > 2. A *recursive step* consisting of a set of rules for computing or building all other cases out of simpler cases, eventually terminating in the base case. 
 
 Notes: 
-- Without the base case, a re
+- Without the base case, a recursive process would enter an [infinite regress](https://en.wikipedia.org/wiki/Infinite_regress) where computations would continue but never end. 
 
 ## Examples
 
@@ -69,6 +69,7 @@ Many other examples of recursion are found throughout mathematics and computing,
 (video)
 
 Other resources: 
-- 
+- Video: [Recursion simply explained with code examples](https://www.youtube.com/watch?v=m1Fjdnj_Mds)
+- Video: [Learn recursion in 8 minutes](https://www.youtube.com/watch?v=u8Xam9EsqXQ)
+- Video : [5 simple steps for solving any recursive problem](https://www.youtube.com/watch?v=ngCos392W4w)
 
-## Practice 
