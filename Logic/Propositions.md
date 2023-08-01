@@ -1,5 +1,5 @@
 ---
-aliases: [proposition]
+aliases: [proposition, propositions]
 --- 
 
 (insert tags here) 

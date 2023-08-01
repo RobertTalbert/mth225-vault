@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic and molecular propositions.md",
+                "file": "Logic/Atomic and molecular propositions.md",
                 "mode": "source",
                 "source": false
               }
@@ -245,8 +245,9 @@
   },
   "active": "335b6d831a5e5c29",
   "lastOpenFiles": [
-    "Atomic and molecular propositions.md",
+    "Logic/Propositions.md",
     "Logic/Conditional statements.md",
+    "Logic/Atomic and molecular propositions.md",
     "Recursion and Induction/Recursion.md",
     "Computer Arithmetic/The modulus operator.md",
     "Computer Arithmetic/The division algorithm.md",
@@ -260,7 +261,6 @@
     "Logic/Mathematical induction.md",
     "Logic/Proof.md",
     "Logic/Theorem.md",
-    "Logic/Propositions.md",
     "Computer Arithmetic/Division in binary.md",
     "binary-division.jpg",
     "Untitled.jpg",
