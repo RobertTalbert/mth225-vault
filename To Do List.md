@@ -42,7 +42,7 @@ Every concept page should have (i.e. make a template for)
 	- [ ] Two statements 
 	- [ ] Three statements 
 - [ ] [[Propositions]]
-- [ ] [[Atomic propositions]] (and their truth tables) 
+- [ ] [[Atomic and molecular propositions]] (and their truth tables) 
 	- [ ] Conjunctions
 	- [ ] Disjunctions
 	- [ ] Negations

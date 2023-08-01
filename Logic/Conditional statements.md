@@ -7,7 +7,7 @@ aliases: [conditional statement, if-then statement]
 ## Definition 
 
 > [!tldr] Definition
-> A **conditional statement** is a [[Propositions|proposition]] that has the form "If $A$, then $B$" where $A$ and $B$ are 
+> A **conditional statement** is a [[Propositions|proposition]] that has the form "If $A$, then $B$" where $A$ and $B$ are [[Atomic and molecular propositions|atomic statements]]. The proposition $A$ in the "if" part is called the **hypot
 
 (blurb)
 
