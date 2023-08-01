@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Arithmetic/The modulus operator.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Arithmetic/The modulus operator.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Arithmetic/The modulus operator.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Arithmetic/The modulus operator.md"
+                "file": "Recursion and Induction/Recursion.md"
               }
             }
           },
@@ -226,15 +226,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "335b6d831a5e5c29",
   "lastOpenFiles": [
-    "Computer Arithmetic/The division algorithm.md",
     "Computer Arithmetic/The modulus operator.md",
+    "Computer Arithmetic/The division algorithm.md",
     "Untitled 9.md",
     "Untitled 1.md",
     "Untitled 6.md",
