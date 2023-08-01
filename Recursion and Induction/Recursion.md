@@ -12,11 +12,14 @@ aliases: [recursion, recursively, recursive]
 > 1. A *base case* (or base cases) that gives the computation or construction directly without recursion, and 
 > 2. A *recursive step* consisting of a set of rules for computing or building all other cases out of simpler cases, eventually terminating in the base case. 
 
-## Examples and Non-Examples
+Notes: 
+- Without the base case, a re
+
+## Examples
 
 ### The Fibonacci sequence 
 
-The *Fibonacci sequence* is a sequence of integers defined recursively as follows: 
+The *Fibonacci sequence* is a sequence of [[integers]] defined recursively as follows: 
 - Base case: The first two Fibonacci numbers, $F_0$ and $F_1$ are defined directly: We declare $F_0 =1$ and also $F_1 = 1$. 
 - Recursive step: All other Fibonacci numbers are computed as *the sum of the previous two Fibonacci numbers*. That is, for $n \geq 2$, $F_n = F_{n-1} + F_{n-2}$. 
 
@@ -51,13 +54,15 @@ $$
 Here is a recursive Python function that does this: 
 ```python
 def sum_rec(L):
-	if len(L) == 0: return 0
-	elif len(L) == 1: return L[0] 
-	else: 
-		return L[0] + sum
+    if len(L) == 0: return 0
+    elif len(L) == 1: return L[0] 
+    else: 
+        return L[0] + sum_rec(L[1:])
 ```
 
+### Other examples
 
+Many other examples of recursion are found throughout mathematics and computing, including the [[binomial coefficient]]. 
 
 ## Resources 
 
