@@ -29,8 +29,20 @@ Notes:
 | F | T | T | 
 | F | F | T | 
 
+
 > [!important] When are conditional statements false? 
 > Conditional statements are false only in one case: When the hypothesis is true but the conclusion is false. (That is, the consequence does not follow from the condition.)
+
+* The negation of a conditional statement is *not* another conditional statement, rather it is the proposition $P \vee (\neg Q)$. This is because the truth table for $P \vee (\neg Q)$ is 
+
+| $P$ | $Q$ | $P \vee (\neg Q)$ | 
+| -- | -- | ---- |
+| T | T | F | 
+| T | F | T | 
+| F | T | F | 
+| F | F | F | 
+
+And this has the exact opposite truth values as $P \rightarrow Q$. 
 
 ## Examples 
 
