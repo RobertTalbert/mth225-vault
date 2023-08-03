@@ -11,11 +11,21 @@ aliases: [converse]
 
 Notes: 
 
+> [!important] **The converse of a conditional statement is not always  [[logically equivalent]] to the original statement**. 
+> 
 
-> [!important] **The converse of a conditional statement is not [[logically equivalent]] to the original sta
-> Contents
+To see this, here are the [[Truth tables|truth tables]] for $P \rightarrow Q$ and its converse $Q \rightarrow P$ side by side: 
 
+| $P$   | $Q$   | $P \rightarrow Q$ | $Q \rightarrow P$ |
+| ----- | ----- | ----------------- | ----------------- |
+| True  | True  | True              | True              |
+| True  | False | False             | **True**          |
+| False | True  | True              | **False**         |
+| False | False | True              | True                  |
 
+The truth values in rows 2 and 3 are different. Or to take a more real-life example, the conditional statement "If $x > 0$ then $x^2 > 0$" (where $x$ is a real number) is true, but its converse "If $x^2 > 0 then $x > 0$" is not true because of the [[counterexample]] $x = -1$. 
+
+If it happens that both $P \rightarrow Q$ and $Q \rightarrow P$, then we say "$P$ if and only if $Q$". 
 ## Examples
 
 Here are some conditional statements and their converses: 
