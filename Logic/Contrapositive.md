@@ -41,5 +41,5 @@ Here are some conditional statements and their contrapositives:
 <p><a href="https://vimeo.com/588861844">Screencast 2.4: Converse, contrapositive, and inverse</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
-- Tuo
+- Tutorial: [Contrapositive](https://www.regentsprep.org/contrapositive/)
 - Tutoral: [Converse and contrapositive](https://www.cs.odu.edu/~toida/nerzic/content/logic/prop_logic/converse/converse_intro.html)

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Converse of a conditional statement.md",
+                "file": "Logic/Converse.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Contrapositive of a conditional statement.md",
+                "file": "Logic/Inverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Contrapositive of a conditional statement.md",
+                "file": "Logic/Inverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Contrapositive of a conditional statement.md",
+                "file": "Logic/Inverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Contrapositive of a conditional statement.md"
+                "file": "Logic/Inverse.md"
               }
             }
           },
@@ -270,8 +270,11 @@
   "active": "0f14a3d07590fedd",
   "lastOpenFiles": [
     "Logic/Negation.md",
-    "Logic/Contrapositive of a conditional statement.md",
-    "Logic/Converse of a conditional statement.md",
+    "Logic/Converse.md",
+    "Logic/Inverse.md",
+    "Logic/Contrapositive.md",
+    "Logic/Proof.md",
+    "Logic/Mathematical induction.md",
     "Logic/Conditional statements.md",
     "Logic/Atomic and molecular propositions.md",
     "Logic/Propositions.md",
@@ -285,8 +288,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Logic/Mathematical induction.md",
-    "Logic/Proof.md",
     "Logic/Theorem.md",
     "Computer Arithmetic/Division in binary.md",
     "binary-division.jpg",
@@ -296,7 +297,6 @@
     "To Do List.md",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Outline for sets and functions.md",
-    "Recursion and Induction/Outline for recursion and induction.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
