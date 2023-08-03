@@ -237,10 +237,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": false
     }
   },
   "active": "335b6d831a5e5c29",
