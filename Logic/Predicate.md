@@ -16,12 +16,16 @@ Notes:
 
 ## Examples and Non-Examples
 
-The statement "The [[natural number]] $n$ is a perfect square" is a predicate because it is neither true nor false -- the truth value depends on the value of $n$. 
+The statement "The [[natural number]] $n$ is a perfect square" is a predicate because it is neither true nor false -- the truth value depends on the value of $n$. Let $P(n)$ represent this predicate. Then $P(4)$ is True because $4$ is a perfect square ($4 = 2^2$) but $P(5)$ is False because $5$ is not a perfect square. 
 
+The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of length $n$" is a predicate because of the presence of the variable $n$ (assumed to be a [[Natural numbers|natural number]] because it refers to the size of a set). This predicate happens to be True for every natural number $n$ (a fact that we will prove in several different ways during the course). 
+
+We can represent predicates in Python using functions that return only Boolean values. For example the predicate "The integer $n$ is a multiple of 10" (which is True for $n = 0, \pm 10, \pm 20\, )
 
 ## Resources 
 
-(video)
+<iframe src="https://player.vimeo.com/video/598881354?h=33c858ee70" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/598881354">Screencast 2.8: Predicates</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
 - 
