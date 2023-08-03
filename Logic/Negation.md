@@ -31,14 +31,25 @@ The negation of the statement "Bob had pizza for lunch and went for a walk" is m
 | False | True  | False        |
 | False | False | False             |
 
-The negation is *not* the statement, "Bob *did not* have pizza for lunch and *did not* go for a walk". This would be the statement $(\neg P) \wedge (\neg W)$ whose truth table is 
+The negation of this statement, $\neg (P \wedge W)$, has the truth table: 
 
-| $P$   | $W$   | $(\neg P$(\neg P) \wedge (\neg W)$ |
-| ----- | ----- | ------------ |
-| True  | True  | True         |
-| True  | False | False        |
-| False | True  | False        |
-| False | False | False             |
+| $P$   | $W$   | $P \wedge W$ | $\neg (P \wedge W)$ | 
+| ----- | ----- | ------------ | ------ | 
+| True  | True  | True         | False | 
+| True  | False | False        | True | 
+| False | True  | False        | True | 
+| False | False | False             | True | 
+
+This statement in English would read, "It is not the case that Bob had pizza for lunch and went for a walk". This is awkward, so we might want to rephrase it in some way. The negation is *not* the statement, "Bob *did not* have pizza for lunch and *did not* go for a walk". This would be the statement $(\neg P) \wedge (\neg W)$ whose truth table is 
+
+| $P$   | $W$   | $(\neg P)$ | $(\neg W)$ | $(\neg P) \wedge (\neg W)$ |
+| ----- | ----- | ---------- | ---------- | -------------------------- |
+| True  | True  | False      | False      | False                      |
+| True  | False | False      | True       | False                      |
+| False | True  | True       | False       |       False                     |
+| False | False | True       | True           |         True                   |
+
+And this truth table does not have the exact opposite values as $P \wedge W$: The values differ in the second and third rows. 
 ## Resources 
 
 (video)
