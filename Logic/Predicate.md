@@ -20,7 +20,12 @@ The statement "The [[natural number]] $n$ is a perfect square" is a predicate be
 
 The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of length $n$" is a predicate because of the presence of the variable $n$ (assumed to be a [[Natural numbers|natural number]] because it refers to the size of a set). This predicate happens to be True for every natural number $n$ (a fact that we will prove in several different ways during the course). 
 
-We can represent predicates in Python using functions that return only Boolean values. For example the predicate "The integer $n$ is a multiple of 10" (which is True for $n = 0, \pm 10, \pm 20\, )
+We can represent predicates in Python using functions that return only Boolean values. For example the predicate "The integer $n$ is a multiple of 10" (which is True for $n = 0, \pm 10, \pm 20\, \dots$ and False otherwise) can be implemented like this: 
+```python
+def P(n): 
+	return n % 10 == 0
+```
+(The `%` symbol is the [[The modulus operator|modulus operator]] in Python.)
 
 ## Resources 
 
@@ -28,6 +33,5 @@ We can represent predicates in Python using functions that return only Boolean v
 <p><a href="https://vimeo.com/598881354">Screencast 2.8: Predicates</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
-- 
-
-## Practice 
+- Book section: [Predicate logic](<https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/A_Cool_Brisk_Walk_Through_Discrete_Mathematics_(Davies)/08%3A_Logic/8.2%3A_Predicate_logic>)
+- Book section: [Introduction to predicate logic](https://www.cs.odu.edu/~toida/nerzic/content/logic/pred_logic/intr_to_pred_logic.html)
