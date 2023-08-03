@@ -11,30 +11,29 @@ aliases: [contrapositive]
 
 Notes: 
 
-> [!important] **The contrapositi of a conditional statement is not always  [[logically equivalent]] to the original statement**. 
+> [!important] **The contrapositive of a conditional statement is always  [[logically equivalent]] to the original statement**. 
 > 
 
-To see this, here are the [[Truth tables|truth tables]] for $P \rightarrow Q$ and its converse $Q \rightarrow P$ side by side: 
+To see this, here are the [[Truth tables|truth tables]] for $P \rightarrow Q$ and its contrapositive $(\neg Q) \rightarrow (\neg P)$ side by side (with intermediate columns for the negations): 
 
-| $P$   | $Q$   | $P \rightarrow Q$ | $Q \rightarrow P$ |
-| ----- | ----- | ----------------- | ----------------- |
-| True  | True  | True              | True              |
-| True  | False | False             | **True**          |
-| False | True  | True              | **False**         |
-| False | False | True              | True                  |
+| $P$   | $Q$   | $\stackrel{\Downarrow}{P \rightarrow Q}$ | $(\neg Q)$ | $(\neg P)$ | $\stackrel{\Downarrow}{(\neg Q) \rightarrow (\neg P)}$ |
+| ----- | ----- | ----------------- | ----------------- | ------- | ------ | 
+| True  | True  | True              | False              | False | True | 
+| True  | False | False             | True          | False | False
+| False | True  | True              | False         | True | True
+| False | False | True              | True                  | True | True 
 
-The truth values in rows 2 and 3 are different. Or to take a more real-life example, the conditional statement "If $x > 0$ then $x^2 > 0$" (where $x$ is a real number) is true, but its converse "If $x^2 > 0$ then $x > 0$" is not true because of the [[counterexample]] $x = -1$. 
+The original statement is in column 3 and the contrapositive in column 6 (indicated by vertical arrows). Notice the truth values are the same. 
 
-If it happens that both $P \rightarrow Q$ and $Q \rightarrow P$, then we say "$P$ [[if and only if]] $Q$". 
 ## Examples
 
-Here are some conditional statements and their converses: 
+Here are some conditional statements and their contrapositives: 
 
 | Statement                        | Converse                         |
 | -------------------------------- | -------------------------------- |
-| If it's snowing, then it's cold. | If it's cold, then it's snowing. |
-| If $x > 4$ then $x^2 > 16$.      | If $x^2 > 16$ then $x > 4$.      |
-| My coffee being hot is a consequence of it being freshly brewed. | My coffee being freshly brewed is a consequence of it being hot. |                                  |                                  |
+| If it's snowing, then it's cold. | If it's not cold, then it's not snowing. |
+| If $x > 4$ then $x^2 > 16$.      | If $x^2 \leq  16$ then $x \leq  4$.      |
+| My coffee being hot is a consequence of it being freshly brewed. | My coffee not being freshly brewed is a consequence of it not being hot. |                                  |                                  |
 
 ## Resources 
 
@@ -42,5 +41,5 @@ Here are some conditional statements and their converses:
 <p><a href="https://vimeo.com/588861844">Screencast 2.4: Converse, contrapositive, and inverse</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
-- Tutorial: [Logical converse](https://www.mathsisfun.com/definitions/converse-logic-.html)
+- Tuo
 - Tutoral: [Converse and contrapositive](https://www.cs.odu.edu/~toida/nerzic/content/logic/prop_logic/converse/converse_intro.html)
