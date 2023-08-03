@@ -1,5 +1,5 @@
 ---
-aliases: [contrapositive]
+aliases: [contrapositive, contrapositives]
 --- 
 
 #logic

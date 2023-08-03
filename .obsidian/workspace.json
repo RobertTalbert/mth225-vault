@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Inverse.md",
+                "file": "Logic/Predicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Inverse.md",
+                "file": "Logic/Predicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Inverse.md",
+                "file": "Logic/Predicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Inverse.md"
+                "file": "Logic/Predicate.md"
               }
             }
           },
@@ -269,9 +269,11 @@
   },
   "active": "0f14a3d07590fedd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Logic/Predicate.md",
+    "Logic/Inverse.md",
     "Logic/Negation.md",
     "Logic/Converse.md",
-    "Logic/Inverse.md",
     "Logic/Contrapositive.md",
     "Logic/Proof.md",
     "Logic/Mathematical induction.md",
@@ -295,8 +297,6 @@
     "Computer Arithmetic/Multiplication in binary.md",
     "Computer Arithmetic/Addition in binary.md",
     "To Do List.md",
-    "Sets and Functions/Subset.md",
-    "Sets and Functions/Outline for sets and functions.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",

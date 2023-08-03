@@ -1,5 +1,5 @@
 ---
-aliases: [converse]
+aliases: [converse, converses]
 --- 
 
 #logic

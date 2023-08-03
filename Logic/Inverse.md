@@ -1,5 +1,5 @@
 ---
-aliases: [inverse]
+aliases: [inverse, inverses]
 --- 
 
 #logic
@@ -7,7 +7,7 @@ aliases: [inverse]
 ## Definition 
 
 > [!tldr] Definition
-> The **inverse** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $(\neg P) \rightarrow (\neg Q)$. That is, we form the converse by replacing the [[Conditional statements|hypothesis]] and [[Conditional statements|conclusion]] with their [[Negation|negation]]. 
+> The **inverse** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $(\neg P) \rightarrow (\neg Q)$. That is, we form the converse by replacing the [[Conditional statements|hypothesis]] and [[Conditional statements|conclusion]] with their [[Negation|negations]]. 
 
 Notes: 
 
@@ -23,17 +23,17 @@ To see this, here are the [[Truth tables|truth tables]] for $P \rightarrow Q$ an
 | False | True  | True              | True         | False | False
 | False | False | True              | True                  | True | True 
 
-The truth values in rows 2 and 3 are different. For a more real-life example, the statement "If $x > 0$ then $x^2 > 0$" (where $x$ is a real number) is true, but its converse "If $x \leq 0$ then $x^2 \leq  0$" is not true because of the [[counterexample]] $x = -1$ (which is negative, but its )
+The truth values in rows 2 and 3 are different. For a more real-life example, the statement "If $x > 0$ then $x^2 > 0$" (where $x$ is a real number) is true, but its converse "If $x \leq 0$ then $x^2 \leq  0$" is not true because of the [[counterexample]] $x = -1$ (which is negative, but its square is not). 
 
 ## Examples
 
-Here are some conditional statements and their converses: 
+Here are some conditional statements and their inverses: 
 
 | Statement                        | Converse                         |
 | -------------------------------- | -------------------------------- |
-| If it's snowing, then it's cold. | If it's cold, then it's snowing. |
-| If $x > 4$ then $x^2 > 16$.      | If $x^2 > 16$ then $x > 4$.      |
-| My coffee being hot is a consequence of it being freshly brewed. | My coffee being freshly brewed is a consequence of it being hot. |                                  |                                  |
+| If it's snowing, then it's cold. | If it's not snowing cold, then it's not cold. |
+| If $x > 4$ then $x^2 > 16$.      | If $x \leq 4$ then $x^2 \leq 16$.      |
+| My coffee being hot is a consequence of it being freshly brewed. | My coffee not being freshly brewed is a consequence of it not being hot. |                                  |                                  |
 
 ## Resources 
 
@@ -41,5 +41,5 @@ Here are some conditional statements and their converses:
 <p><a href="https://vimeo.com/588861844">Screencast 2.4: Converse, contrapositive, and inverse</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
-- Tutorial: [Logical converse](https://www.mathsisfun.com/definitions/converse-logic-.html)
-- Tutoral: [Converse and contrapositive](https://www.cs.odu.edu/~toida/nerzic/content/logic/prop_logic/converse/converse_intro.html)
+- Tutorial: [Converse, inverse, contrapositive](https://www.varsitytutors.com/hotmath/hotmath_help/topics/converse-inverse-contrapositive)
+- Video: [Converse, inverse, contrapositive](https://www.mometrix.com/academy/converse-inverse-and-contrapositive/)

@@ -1,5 +1,5 @@
 ---
-aliases: [negation]
+aliases: [negation, negations]
 --- 
 
 #logic
