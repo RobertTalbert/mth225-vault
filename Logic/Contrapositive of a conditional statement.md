@@ -1,5 +1,5 @@
 ---
-aliases: [converse]
+aliases: [contrapositive]
 --- 
 
 #logic
@@ -7,11 +7,11 @@ aliases: [converse]
 ## Definition 
 
 > [!tldr] Definition
-> The **converse** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $Q \rightarrow P$. That is, we form the converse by switching the [[Conditional statements|hypothesis]] and [[Conditional statements|conclusion]] of the original statement and doing nothing else. 
+> The **contrapositive** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $(\neg Q) \rightarrow (\neg P)$. That is, we form the converse by replacing the [[Conditional statements|hypothesis]] of the original statement with the [[Negation|negation]] of the original conclusion, and replacing the [[Conditional statements|conclusion]] of the original statement the negation of the original hypothesis. 
 
 Notes: 
 
-> [!important] **The converse of a conditional statement is not always  [[logically equivalent]] to the original statement**. 
+> [!important] **The contrapositi of a conditional statement is not always  [[logically equivalent]] to the original statement**. 
 > 
 
 To see this, here are the [[Truth tables|truth tables]] for $P \rightarrow Q$ and its converse $Q \rightarrow P$ side by side: 

@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f14a3d07590fedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Contrapositive of a conditional statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f98060b54cea173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Negation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Converse of a conditional statement.md",
+                "file": "Logic/Contrapositive of a conditional statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Converse of a conditional statement.md",
+                "file": "Logic/Contrapositive of a conditional statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Converse of a conditional statement.md"
+                "file": "Logic/Contrapositive of a conditional statement.md"
               }
             }
           },
@@ -243,12 +267,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "335b6d831a5e5c29",
+  "active": "0f14a3d07590fedd",
   "lastOpenFiles": [
+    "Logic/Negation.md",
+    "Logic/Contrapositive of a conditional statement.md",
+    "Logic/Converse of a conditional statement.md",
     "Logic/Conditional statements.md",
     "Logic/Atomic and molecular propositions.md",
-    "Logic/Converse of a conditional statement.md",
-    "Logic/Negation.md",
     "Logic/Propositions.md",
     "Recursion and Induction/Recursion.md",
     "Computer Arithmetic/The modulus operator.md",
@@ -272,7 +297,6 @@
     "Sets and Functions/Subset.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
-    "Logic/Truth tables.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",
