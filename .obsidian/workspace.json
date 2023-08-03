@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Negation.md",
+                "file": "Logic/Converse of a conditional statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Atomic and molecular propositions.md",
+                "file": "Logic/Conditional statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Negation.md",
+                "file": "Logic/Converse of a conditional statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Negation.md",
+                "file": "Logic/Converse of a conditional statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Negation.md"
+                "file": "Logic/Converse of a conditional statement.md"
               }
             }
           },
@@ -246,9 +246,10 @@
   "active": "335b6d831a5e5c29",
   "lastOpenFiles": [
     "Logic/Conditional statements.md",
+    "Logic/Atomic and molecular propositions.md",
+    "Logic/Converse of a conditional statement.md",
     "Logic/Negation.md",
     "Logic/Propositions.md",
-    "Logic/Atomic and molecular propositions.md",
     "Recursion and Induction/Recursion.md",
     "Computer Arithmetic/The modulus operator.md",
     "Computer Arithmetic/The division algorithm.md",
@@ -272,7 +273,6 @@
     "Sets and Functions/Outline for sets and functions.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Logic/Truth tables.md",
-    "Logic/Outline for Logic.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",

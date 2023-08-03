@@ -10,6 +10,7 @@ aliases: [negation]
 > The **negation** of a [[Propositions|proposition]] is another proposition with the opposite truth values. In mathematical notation, the negation of the proposition $P$ is $\neg P$ which is pronounced "not $P$". In this way the negation is a [[connective]] that modifies only one [[Propositions|proposition]]. 
 
 Notes: 
+- In Python, the logical negation symbol is the exclamation point `!`. In Excel, it's the word `NOT`. 
 - The English phrasing of a negation is often just putting the word "not" in the original [[Propositions|proposition]], but this sometimes leads to unintelligible statements. Often, some care is needed to phrase a negation in a way that makes sense to a listener or reader. 
 - The [[Truth tables|truth table]] for the negation of a statement is built simply by reversing the truth values of the original. The basic truth table for $\neg P$ is: 
 
@@ -52,10 +53,5 @@ This statement in English would read, "It is not the case that Bob had pizza for
 And this truth table does not have the exact opposite values as $P \wedge W$: The values differ in the second and third rows. Finding a simply-phrased statement that is [[logically equivalent]] to the original is a task to be done in the course. It turns out that [[DeMorgan's Laws]] state that $\neg (P \wedge W)$ is equivalent to $(\neg P) \vee (\neg W)$, that is, "Either Bob didn't have pizza for lunch or he did not go for a walk". 
 ## Resources 
 
-<iframe src="https://player.vimeo.com/video/585958504?h=0b7769f78c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/585958504?h=0b7769f78c#t=5m28s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/585958504#t=5m28s">Screencast 2.2: Logical connectives</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-Other resources: 
-- 
-
-## Practice 
