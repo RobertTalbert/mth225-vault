@@ -40,7 +40,7 @@ The negation of this statement, $\neg (P \wedge W)$, has the truth table:
 | False | True  | False        | True | 
 | False | False | False             | True | 
 
-This statement in English would read, "It is not the case that Bob had pizza for lunch and went for a walk". This is awkward, so we might want to rephrase it in some way. The negation is *not* the statement, "Bob *did not* have pizza for lunch and *did not* go for a walk". This would be the statement $(\neg P) \wedge (\neg W)$ whose truth table is 
+This statement in English would read, "It is not the case that Bob had pizza for lunch and went for a walk". This is awkward, so we might want to rephrase it in some way. An *incorrect* way to phrase the negation is: "Bob *did not* have pizza for lunch and *did not* go for a walk". This would be the statement $(\neg P) \wedge (\neg W)$ whose truth table is 
 
 | $P$   | $W$   | $(\neg P)$ | $(\neg W)$ | $(\neg P) \wedge (\neg W)$ |
 | ----- | ----- | ---------- | ---------- | -------------------------- |
@@ -49,10 +49,11 @@ This statement in English would read, "It is not the case that Bob had pizza for
 | False | True  | True       | False       |       False                     |
 | False | False | True       | True           |         True                   |
 
-And this truth table does not have the exact opposite values as $P \wedge W$: The values differ in the second and third rows. 
+And this truth table does not have the exact opposite values as $P \wedge W$: The values differ in the second and third rows. Finding a simply-phrased statement that is [[logically equivalent]] to the original is a task to be done in the course. It turns out that [[DeMorgan's Laws]] state that $\neg (P \wedge W)$ is equivalent to $(\neg P) \vee (\neg W)$, that is, "Either Bob didn't have pizza for lunch or he did not go for a walk". 
 ## Resources 
 
-(video)
+<iframe src="https://player.vimeo.com/video/585958504?h=0b7769f78c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/585958504#t=5m28s">Screencast 2.2: Logical connectives</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
 - 
