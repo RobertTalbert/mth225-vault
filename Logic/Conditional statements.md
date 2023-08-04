@@ -1,6 +1,6 @@
 
 ---
-aliases: [conditional statement, if-then statement, hypothesis, conclusion]
+aliases: [conditional statement, if-then statement, hypothesis, conclusion, implication, Implication]
 --- 
 
 #logic 

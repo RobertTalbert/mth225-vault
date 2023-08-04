@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical equivalence.md",
+                "file": "Logic/Truth tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical equivalence.md",
+                "file": "Logic/Truth tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical equivalence.md",
+                "file": "Logic/Truth tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical equivalence.md"
+                "file": "Logic/Truth tables.md"
               }
             }
           },
@@ -210,15 +210,21 @@
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
     "Logic/Conditional statements.md",
+    "Logic/Truth tables.md",
+    "Logic/Negation of quantified predicates.md",
+    "Logic/Multivariable predicate.md",
+    "Logic/Negation.md",
+    "Logic/Mathematical induction.md",
+    "Logic/Contrapositive.md",
+    "Logic/Converse.md",
+    "Logic/Atomic and molecular propositions.md",
+    "Logic/Propositions.md",
     "Logic/Logical equivalence.md",
     "Logic/Predicate.md",
     "Logic/Truth set.md",
     "Computer Arithmetic/Natural numbers.md",
-    "Logic/Negation of quantified predicates.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Logic/Multivariable predicate.md",
-    "Logic/Negation.md",
     "Logic/Existential quantifier.md",
     "Logic/Universal quantifier.md",
     "Computer Arithmetic/Division in binary.md",
@@ -226,16 +232,10 @@
     "Logic/Theorem.md",
     "Logic/Outline for Logic.md",
     "Logic/Inverse.md",
-    "Logic/Converse.md",
-    "Logic/Contrapositive.md",
     "Assets/Images/binary-division.jpg",
-    "Logic/Propositions.md",
-    "Logic/Atomic and molecular propositions.md",
     "Recursion and Induction/Recursion.md",
     "Computer Arithmetic/The modulus operator.md",
     "Computer Arithmetic/The division algorithm.md",
-    "Untitled 9.md",
-    "Untitled 6.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
