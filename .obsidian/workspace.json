@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Universal quantifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Universal quantifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Universal quantifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Predicate.md"
+                "file": "Logic/Universal quantifier.md"
               }
             }
           },
@@ -245,10 +245,13 @@
   },
   "active": "335b6d831a5e5c29",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Logic/Universal quantifier.md",
+    "Logic/Outline for Logic.md",
+    "Logic/Predicate.md",
     "Logic/Proof.md",
     "Logic/Conditional statements.md",
     "Untitled.md",
-    "Logic/Predicate.md",
     "Logic/Negation.md",
     "Logic/Inverse.md",
     "Logic/Converse.md",
@@ -260,7 +263,6 @@
     "Computer Arithmetic/The modulus operator.md",
     "Computer Arithmetic/The division algorithm.md",
     "Untitled 9.md",
-    "Untitled 1.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -272,8 +274,6 @@
     "binary-division.jpg",
     "Untitled.jpg",
     "Computer Arithmetic/Multiplication in binary.md",
-    "Computer Arithmetic/Addition in binary.md",
-    "To Do List.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",

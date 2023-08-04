@@ -1,13 +1,13 @@
-- [ ] Propositions (statements)
-- [ ] Truth tables
-- [ ] Conditional statements 
+- [x] Propositions (statements)
+- [x] Truth tables
+- [x] Conditional statements 
 	- [ ] Hypothesis
 	- [ ] Conclusion
-- [ ] Negation in general
-- [ ] Negation of conditional statements
-- [ ] Converse
-- [ ] Contrapositive
-- [ ] Predicates
+- [x] Negation in general
+- [x] Negation of conditional statements
+- [x] Converse
+- [x] Contrapositive
+- [x] Predicates
 - [ ] Universal quantifier
 - [ ] Existential quantifier
 - [ ] Negation of quantifiers
