@@ -16,9 +16,9 @@ Notes:
 
 ## Examples 
 
-The statement "The [[natural number]] $n$ is a perfect square" is a predicate. Let $P(n)$ represent this predicate. Then $\forall n P(n)$ ("Every natural number is a perfect square") is a proposition because it has a definite truth value: False, because it's not the case that every natural number is a perfect square. 
+The statement "The [[natural number]] $n$ is a perfect square" is a predicate. Let $P(n)$ represent this predicate. Then $\forall n P(n)$ ("Every natural number is a perfect square") is its universally quantified form. It is a proposition because it has a definite truth value: False, because it's not the case that every natural number is a perfect square. 
 
-The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of length $n$" is a predicate. Let $S(n)$ represent it. Then $\forall n S(n)$ ("For each $n$, there are $2^n$ bitstrings of length $n$") is a proposition because it has a definite truth value: True, in this case. 
+The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of length $n$" is a predicate. Let $S(n)$ represent it. Then $\forall n S(n)$ ("For each $n$, there are $2^n$ bitstrings of length $n$") is its universally quantified form. It is a proposition because it has a definite truth value: True, in this case. 
 
 ## Resources 
 

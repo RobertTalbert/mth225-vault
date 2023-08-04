@@ -16,9 +16,9 @@ Notes:
 
 ## Examples 
 
-The statement "The [[natural number]] $n$ is a perfect square" is a predicate. Let $P(n)$ represent this predicate. Then $\exists n P(n)$ ("Every natural number is a perfect square") is a proposition because it has a definite truth value: False, because it's not the case that every natural number is a perfect square. 
+The statement "The [[natural number]] $n$ is a perfect square" is a predicate. Let $P(n)$ represent this predicate. Then $\exists n P(n)$ ("There exists a natural number that is a perfect square") is its existentially quantified form. It is a proposition because it has a definite truth value: True, because $n = 4$ is an example. 
 
-The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of length $n$" is a predicate. Let $S(n)$ represent it. Then $\forall n S(n)$ ("For each $n$, there are $2^n$ bitstrings of length $n$") is a proposition because it has a definite truth value: True, in this case. 
+The statement "$m$  is a perfect square" is a predicate. If $N(m)$ is this predicate, then $\exists m N(m)$ ("There is a negative integer $m$ that is a perfect square") is its existentially quantified form. It is a predicate with a definite truth value: False, because you cannot get a negative number by squaring another (real) number. 
 
 ## Resources 
 
@@ -27,4 +27,4 @@ The statement "There are $2^n$ [[Binary digits and bitstrings|bitstrings]] of le
 
 Other resources: 
 - Book section: [Quantifiers](https://www.whitman.edu/mathematics/higher_math_online/section01.02.html)
-- Video: [Universal quantifiers](https://www.google.com/search?sxsrf=AB5stBjEVnxJWiG-LgYv4giV85pYYdzW1Q:1691162063555&q=universal+quantifier&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjQ2bjQpcOAAxX1kYkEHTzkAr4Q0pQJegQICRAB&biw=1388&bih=1107&dpr=2#:~:text=Universal%20Quantifiers%20%2D%20YouTube,com%20%E2%80%BA%20watch)
+- Video: [Existential quantifiers](https://www.youtube.com/watch?v=OzLorUzIQ1U)
