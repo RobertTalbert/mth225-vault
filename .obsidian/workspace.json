@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Truth set.md",
+                "file": "Logic/Logical equivalence.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Truth set.md",
+                "file": "Logic/Logical equivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Truth set.md",
+                "file": "Logic/Logical equivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Truth set.md"
+                "file": "Logic/Logical equivalence.md"
               }
             }
           },
@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +198,7 @@
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
     "Logic/Predicate.md",
+    "Logic/Logical equivalence.md",
     "Logic/Truth set.md",
     "Computer Arithmetic/Natural numbers.md",
     "Logic/Negation of quantified predicates.md",
@@ -224,7 +224,6 @@
     "Computer Arithmetic/The division algorithm.md",
     "Untitled 9.md",
     "Untitled 6.md",
-    "Untitled 5.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
