@@ -36,6 +36,4 @@ Here are some quantified predicates with their negations, in regular English:
 
 Other resources: 
 - Book section: [Quantifiers and negations](https://math.libretexts.org/Courses/SUNY_Schenectady_County_Community_College/Discrete_Structures/02%3A_Logical_Reasoning/2.04%3A_Quantifiers_and_Negations) (with practice exercises)
-- 
-
-## Practice 
+- Video: [Predicate logic and quantifier negation](https://www.youtube.com/watch?v=gyoqX0W-NH4)

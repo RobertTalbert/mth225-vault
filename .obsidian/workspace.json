@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Negation of quantified predicates.md",
+                "file": "Logic/Truth set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0608b473d5530f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Truth set.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Negation of quantified predicates.md",
+                "file": "Logic/Truth set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Negation of quantified predicates.md",
+                "file": "Logic/Truth set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Negation of quantified predicates.md"
+                "file": "Logic/Truth set.md"
               }
             }
           },
@@ -184,16 +196,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f1031c166c89d02",
+  "active": "0608b473d5530f4a",
   "lastOpenFiles": [
+    "Logic/Predicate.md",
+    "Logic/Truth set.md",
+    "Computer Arithmetic/Natural numbers.md",
+    "Logic/Negation of quantified predicates.md",
     "Untitled 1.md",
     "Untitled.md",
     "Logic/Multivariable predicate.md",
-    "Logic/Negation of quantified predicates.md",
     "Logic/Negation.md",
     "Logic/Existential quantifier.md",
     "Logic/Universal quantifier.md",
-    "Logic/Predicate.md",
     "Computer Arithmetic/Division in binary.md",
     "Logic/Proof.md",
     "Logic/Theorem.md",
@@ -211,8 +225,6 @@
     "Untitled 9.md",
     "Untitled 6.md",
     "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
