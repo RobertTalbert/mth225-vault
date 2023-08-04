@@ -18,8 +18,15 @@ Notes:
 	- The negation of "There exists an $x$ such that $P(x)$ is true", is the statement "For all $x$, $P(x)$ is false."
 	- The negation of "For all $x$, $P(x)$ is true", is the statement "There exists an $x$ such that $P(x)$ is false."
 - Note that in each case we not only negate the predicate, but change the quantifier. 
+- Negating a quantified [[multivariable predicate]] follows the same principles. 
 
 ## Examples and Non-Examples
+
+Here are some quantified predicates with their negations, in regular English: 
+
+| Quantified predicate | Symbolic form | Negation of symbolic form | Negation in English |
+| -------------------- | ------------- | ------------------------- | ------------------- |
+|                      |               |                           |                     |
 
 ## Resources 
 
