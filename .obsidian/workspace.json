@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a1a2d3312f300f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Conditional statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -197,8 +209,9 @@
   },
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
-    "Logic/Predicate.md",
+    "Logic/Conditional statements.md",
     "Logic/Logical equivalence.md",
+    "Logic/Predicate.md",
     "Logic/Truth set.md",
     "Computer Arithmetic/Natural numbers.md",
     "Logic/Negation of quantified predicates.md",
@@ -212,7 +225,6 @@
     "Logic/Proof.md",
     "Logic/Theorem.md",
     "Logic/Outline for Logic.md",
-    "Logic/Conditional statements.md",
     "Logic/Inverse.md",
     "Logic/Converse.md",
     "Logic/Contrapositive.md",
