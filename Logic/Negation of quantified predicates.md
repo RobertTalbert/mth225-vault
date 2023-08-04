@@ -28,13 +28,14 @@ Here are some quantified predicates with their negations, in regular English:
 | -------------------------------------------------------------------- | ---------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Every MTH 225 student has red hair.                                  | $\forall x P(x)$ | $\exists x (\neg P(x))$   | There is at least one MTH 225 student who does not have red hair.                                                                      |
 | There is a student in your section of MTH 225 who is a millionaire. | $\exists x P(x)$ | $\forall x (\neg P(x))$   | Every student in your section of MTH 225 is not a millionaire. *Or:* None of the students in your section of MTH 225 are millionaires. |
-| For each student in MTH 225, there is a tutor available. | $\forall x \exists y P(x,y)$ | $\exists x \forall y ()                                                                      |                  |                           |                                                                                                                                        |
-
+| For every real number $x$, there is a real number $y$ such that $x = 2^y$. | $\forall x \exists y P(x,y)$ | $\exists x \forall y (\neg P(x,y))$ | There is a real number $x$ such that $x \neq 2^y$ for any real number $y$. 
 ## Resources 
 
-(video)
+<iframe src="https://player.vimeo.com/video/600490216?h=74ce90b919" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/600490216">Screencast 2.10: Negating quantified statements</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Other resources: 
+- Book section: [Quantifiers and negations](https://math.libretexts.org/Courses/SUNY_Schenectady_County_Community_College/Discrete_Structures/02%3A_Logical_Reasoning/2.04%3A_Quantifiers_and_Negations) (with practice exercises)
 - 
 
 ## Practice 
