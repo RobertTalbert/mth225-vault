@@ -19,6 +19,8 @@ Notes:
 | True  | False    |
 | False | True         |
 
+- Related: [[Negation of quantified predicates]]
+
 ## Examples 
 
 The negation of the statement "Bob had pizza for lunch" is "Bob did not have pizza for lunch". 

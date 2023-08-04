@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "Negation of quantified predicates.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "Negation of quantified predicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "Negation of quantified predicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Existential quantifier.md"
+                "file": "Negation of quantified predicates.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "9f1031c166c89d02",
   "lastOpenFiles": [
-    "Logic/Universal quantifier.md",
+    "Logic/Negation.md",
+    "Negation of quantified predicates.md",
     "Logic/Existential quantifier.md",
+    "Logic/Universal quantifier.md",
     "Logic/Predicate.md",
     "Computer Arithmetic/Division in binary.md",
     "Logic/Proof.md",
@@ -195,7 +197,6 @@
     "Logic/Outline for Logic.md",
     "Logic/Conditional statements.md",
     "Untitled.md",
-    "Logic/Negation.md",
     "Logic/Inverse.md",
     "Logic/Converse.md",
     "Logic/Contrapositive.md",
@@ -211,7 +212,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Logic/Mathematical induction.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
