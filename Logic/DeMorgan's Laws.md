@@ -15,8 +15,12 @@ aliases: [DeMorgan's Law, DeMorgan's laws]
 
 Notes: 
 - Sometimes "DeMorgan's Laws" are referred to in the singular, "DeMorgan's Law". 
+- These are named after British mathematician and logician [Augustus DeMorgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) . 
 
-## Examples and Non-Examples
+## Examples
+
+- The statement "It is not the case that Bob ate pizza at lunch and then went for a walk", would be equivalent to "Either Bob didn't eat pizza for lunch or Bob didn't go for a walk". 
+- If the [[universal set]] is the set of all students at your university, then the set of all students who are neither math majors nor computer science majors 
 
 ## Resources 
 
