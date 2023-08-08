@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Proof.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Predicate.md",
+                "file": "Logic/Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Predicate.md"
+                "file": "Logic/Proof.md"
               }
             }
           },
@@ -269,8 +269,9 @@
   },
   "active": "0f14a3d07590fedd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "START HERE.md",
     "Logic/Predicate.md",
+    "Untitled.md",
     "Logic/Inverse.md",
     "Logic/Negation.md",
     "Logic/Converse.md",
@@ -296,7 +297,6 @@
     "Untitled.jpg",
     "Computer Arithmetic/Multiplication in binary.md",
     "Computer Arithmetic/Addition in binary.md",
-    "To Do List.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images",
     "Assets/Templates",

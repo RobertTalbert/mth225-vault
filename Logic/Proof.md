@@ -1,5 +1,5 @@
 ---
-aliases: [proof]
+aliases: [proof, proofs]
 --- 
 
 #logic #proof 
@@ -16,6 +16,10 @@ The types of proof that you will learn in MTH 225 include:
 - As well as simply giving thorough explanations for observed phenomena. 
 
 ## Examples and Non-Examples
+
+Here is a very simple proposition: 
+
+
 
 ## Resources 
 
