@@ -47,9 +47,7 @@ But this need not be *the only* correct proof. There are as many ways to explain
 
 ## Resources 
 
-(video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-TPb8hI58k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Other resources: 
-- 
-
-## Practice 
+- Tutorial: [Introduction to mathematical arguments](https://math.berkeley.edu/~hutching/teach/proofs.pdf)

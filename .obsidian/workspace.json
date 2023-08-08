@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Proof.md",
+                "file": "Logic/Counterexample.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Proof.md",
+                "file": "Logic/Counterexample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Proof.md",
+                "file": "Logic/Counterexample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Proof.md"
+                "file": "Logic/Counterexample.md"
               }
             }
           },
@@ -304,8 +304,10 @@
   },
   "active": "da58eb8d57dec2b9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Logic/Converse.md",
+    "Logic/Counterexample.md",
     "Logic/Proof.md",
+    "conflict-files-obsidian-git.md",
     "Untitled 1.md",
     "Logic/Universal quantifier.md",
     "Logic/Truth set.md",
@@ -318,7 +320,6 @@
     "Untitled.md",
     "Logic/Inverse.md",
     "Logic/Negation.md",
-    "Logic/Converse.md",
     "Logic/Contrapositive.md",
     "Logic/Mathematical induction.md",
     "Logic/Conditional statements.md",
@@ -329,7 +330,6 @@
     "Computer Arithmetic/The division algorithm.md",
     "Untitled 9.md",
     "Untitled 6.md",
-    "Untitled 5.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
