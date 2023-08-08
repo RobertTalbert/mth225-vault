@@ -144,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Counterexample.md",
+                "file": "Logic/DeMorgan's Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Counterexample.md",
+                "file": "Logic/DeMorgan's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Counterexample.md",
+                "file": "Logic/DeMorgan's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Counterexample.md"
+                "file": "Logic/DeMorgan's Laws.md"
               }
             }
           },
@@ -304,11 +304,13 @@
   },
   "active": "da58eb8d57dec2b9",
   "lastOpenFiles": [
-    "Logic/Converse.md",
     "Logic/Counterexample.md",
+    "Logic/DeMorgan's Laws.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Logic/Converse.md",
     "Logic/Proof.md",
     "conflict-files-obsidian-git.md",
-    "Untitled 1.md",
     "Logic/Universal quantifier.md",
     "Logic/Truth set.md",
     "Logic/Negation of quantified predicates.md",
@@ -317,7 +319,6 @@
     "Logic/Existential quantifier.md",
     "START HERE.md",
     "Logic/Predicate.md",
-    "Untitled.md",
     "Logic/Inverse.md",
     "Logic/Negation.md",
     "Logic/Contrapositive.md",
@@ -329,7 +330,6 @@
     "Computer Arithmetic/The modulus operator.md",
     "Computer Arithmetic/The division algorithm.md",
     "Untitled 9.md",
-    "Untitled 6.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
