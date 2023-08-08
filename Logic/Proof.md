@@ -36,7 +36,12 @@ This list of examples provides supporting evidence that the proposition is true,
 > [!important] IMPORTANT
 > A finite list of examples is not a proof for a global statement about an infinite number of things. 
 
-To prove the proposition, we provide a *proof* that explains why the proposition is true for all integers. **There is typically more than one way to prove a proposition.** The str
+To prove the proposition, we provide a *proof* that explains why the proposition is true for all integers. **There is typically more than one way to prove a proposition.** Often the strategy and outline of the proof is given by the form of the proposition. In this case, the proposition is a [[Conditional statements|conditional statement]]. These are true in all cases except where the [[Conditional statements|hypothesis]] is true and the [[Conditional statements|conclusion]] is false. So an effective argument (known as "direct proof") is to **assume the hypothesis is true, then show that the conclusion must be true**. 
+
+
+> [!NOTE] Proof
+> Assume that $n$ is any even integer. This means that $n$ is two times some other integer, so $n = 2k$ for some integer $k$. We want to show that $n^2$ is even, that is, $n^2$ is two times some integer, $n^2 = 2m$. Now square both sides of this equation: $n^2 = (2k)^2$. The right side is equal to $4k^2$ which is equal to $2(2k^2)$. The number in parentheses, $2k^2$, is an integer because squaring one integer gives another integer. If we let $m = 2k^2$ we now have $n^2 = 2m$ and this is what we wanted to show. 
+
 
 
 

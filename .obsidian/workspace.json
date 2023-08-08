@@ -142,10 +142,11 @@
             "id": "da58eb8d57dec2b9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Logic/Multivariable predicate.md",
-                "staged": true
+                "file": "Logic/Proof.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -228,6 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logic/Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,6 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logic/Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +268,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logic/Proof.md"
+              }
             }
           },
           {
