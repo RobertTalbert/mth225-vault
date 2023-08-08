@@ -20,7 +20,7 @@ The following are atomic propositions:
 
 The following are molecular propositions: 
 * Bob ate pizza for lunch and then went for a walk. (Uses a conjunction) 
-* Bob did not eat pizza for lunch. (Uses a negation)
+* Bob did not eat pizza for lunch. (Uses a [[negation]])
 * If Bob eats pizza for lunch, he will not have pizza for dinner. ([[Conditional statements|Conditional statement]] with a negation in its conclusion)
 
 

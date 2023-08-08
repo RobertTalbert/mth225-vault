@@ -7,18 +7,19 @@ aliases: [truth table, truth tables]
 ## Definition 
 
 > [!tldr] Definition
-> A **truth table** is a table that separates a logical proposition into its atomic statements, lists all possible combination of truth values for those atomic statements, and then determines the truth value of the proposition in each case. 
+> A **truth table** is a table that separates a logical [[Propositions|proposition]] into its [[Atomic and molecular propositions|atomic statements]], lists all possible combination of truth values for those atomic statements, and then determines the truth value of the proposition in each case. 
 
 Notes: 
 - If a proposition has $n$ atomic propositions that make it up, its truth table will have $2^n$ rows (not counting a header row), one for each combination of truth values of the atomic propositions. 
 - The truth tables for the four basic connectives are: 
 
-Negation ("not"): 
+[[Negation]] ("not"): 
+
 | $P$ | $\neg P$ | 
 | :--: | :--: | 
 | True | False | 
 
-Conjunction ("and"): 
+[[Conjunction]] ("and"): 
 
 | $P$ | $Q$ | $P \wedge Q$ | 
 | :--: | :--: | :------: |
@@ -27,7 +28,7 @@ Conjunction ("and"):
 | False | True | False | 
 | False | False | False | 
 
-Disjunction ("or"): 
+[[Disjunction]] ("or"): 
 
 | $P$ | $Q$ | $P \vee Q$ | 
 | :--: | :--: | :------: |
@@ -36,7 +37,7 @@ Disjunction ("or"):
 | False | True | True | 
 | False | False | False | 
 
-Implication ("if-then"): 
+[[Conditional statements|Implication]] ("if-then"): 
 
 
 | $P$ | $Q$ | $P \rightarrow Q$ | 
@@ -108,7 +109,7 @@ Now build up the main statement first with a column for $A \wedge B$:
 
 Then add the final column for the main proposition $(A \wedge B) \rightarrow C$: 
 
-| $A$ | $A$ | $\stackrel{\Downarrow}{C}$ | $\stackrel{\Downarrow}{A \wedge B}$ | $(A \wedge B) \rightarrow C$ 
+| $A$ | $A$ | $\stackrel{\Downarrow}{C}$ | $\stackrel{\Downarrow}{A \wedge B}$ | $(A \wedge B) \rightarrow C$ | 
 | :---: | :---: | :---: | :----: | :---: | 
 | True | True | True | True | True | 
 | True | False | True | False | True | 
@@ -118,6 +119,8 @@ Then add the final column for the main proposition $(A \wedge B) \rightarrow C$:
 | True | False | False | False | True | 
 | False | True | False | False | True | 
 | False | False | False | False | True | 
+
+
 
 ## Resources
 

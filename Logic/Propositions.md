@@ -11,7 +11,7 @@ aliases: [proposition, propositions, statement, statements]
 
 Notes: 
 - Propositions are sometimes just called **statements**. 
-- Propositions are different from predicates in that a predicate is a statement whose truth value depends on one or more variables. A proposition has no such dependencies. 
+- Propositions are different from [[Predicate|predicates]] in that a [[predicate]] is a statement whose truth value depends on one or more variables. A proposition has no such dependencies. 
 
 
 ## Examples and Non-Examples
@@ -25,9 +25,7 @@ The following are propositions:
 The following are *not* propositions: 
 - *Grand Rapids is a beautiful city*. (Subjective opinion)
 - *Look at that!* (Not a declarative sentence -- does not assert something factual)
-- *The number $n$ is an even number.* (Not fixed -- the statement is true for some values of $n$ and false for others. This is instead a predicate.)
-
-
+- *The number $n$ is an even number.* (Not fixed -- the statement is true for some values of $n$ and false for others. This is instead a [[predicate]].)
 
 ## Resources 
 

@@ -1,6 +1,6 @@
 
 ---
-aliases: [conditional statement, if-then statement, hypothesis, conclusion]
+aliases: [conditional statement, if-then statement, hypothesis, conclusion, implication, Implication]
 --- 
 
 #logic 
@@ -33,9 +33,9 @@ Notes:
 > [!important] When are conditional statements false? 
 > Conditional statements are false only in one case: When the hypothesis is true but the conclusion is false. (That is, the consequence does not follow from the condition.)
 
-* The negation of a conditional statement is *not* another conditional statement, rather it is the proposition $P \vee (\neg Q)$. This is because the truth table for $P \vee (\neg Q)$ is 
+* The negation of a conditional statement is *not* another conditional statement, rather it is the proposition $P \wedge (\neg Q)$. This is because the truth table for $P \wedge (\neg Q)$ is 
 
-| $P$ | $Q$ | $P \vee (\neg Q)$ | 
+| $P$ | $Q$ | $P \wedge (\neg Q)$ | 
 | -- | -- | ---- |
 | T | T | F | 
 | T | F | T | 
