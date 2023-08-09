@@ -7,7 +7,7 @@ aliases: [conditional statement, if-then statement, hypothesis, conclusion, impl
 ## Definition 
 
 > [!tldr] Definition
-> A **conditional statement** is a [[Propositions|proposition]] that has the form "If $A$, then $B$" where $A$ and $B$ are [[Atomic and molecular propositions|atomic statements]]. The proposition $A$ in the "if" part is called the **hypothesis** of the conditional statement, and the proposition $B$ in the "then" part is called the **conclusion**. 
+> A **conditional statement** is a [[Propositions|proposition]] that has the form "If $A$, then $B$" where $A$ and $B$ are [[Propositions|propositions]]. The proposition $A$ in the "if" part is called the **hypothesis** of the conditional statement, and the proposition $B$ in the "then" part is called the **conclusion**. 
 > 
 > The conditional statement "If $A$ then $B$" is written in mathematical notation as $A \rightarrow B$. 
 
