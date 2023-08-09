@@ -1,5 +1,5 @@
 ---
-aliases: [conjunction]
+aliases: [disjunction]
 --- 
 
 #logic
@@ -7,19 +7,18 @@ aliases: [conjunction]
 ## Definition 
 
 > [!tldr] Definition
-> A **conjunction** is a logical [[Connectives|connective]] joining two [[Propositions|propositions]], which results in a new proposition that is true only when both propositions are true. It is the logical version of the english word "and". The notation for a conjunction is the symbol $\wedge$, and we pronounced $A \wedge B$ as "$A$ and $B$". 
+> A **disjunction** is a logical [[Connectives|connective]] joining two [[Propositions|propositions]], which results in a new proposition that is true only when one or both of the two propositions is true. It is the logical version of the english word "or". The notation for a conjunction is the symbol $\vee$, and we pronounced $A \vee B$ as "$A$ or $B$". 
 
 Notes: 
-- The [[Truth tables|truth table]] for the conjunction $A \wedge B$ is: 
+- The [[Truth tables|truth table]] for the conjunction $A \vee B$ is: 
 
 | $A$   | $B$   | $A \wedge B$ |
 | ----- | ----- | ------------ |
 | True  | True  | True         |
-| True  | False | False        |
-| False | True  | False        |
+| True  | False | True        |
+| False | True  | True        |
 | False | False | False             |
-
-Again, $A \wedge B$ is true only when both $A$ and $B$ are true. 
+Again, $A \vee B$ is true only when *either* $A$ *or* $B$, **or both**, is true. Because of this, we refer to disjunction sometimes as an *inclusive "or"*. 
 
 - In Python, the conjunction is implemented by just the word `and`. 
 - In other languages, the conjunction is frequently indicated by `&&`. 

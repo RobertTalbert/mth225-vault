@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Disjunction.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Disjunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Disjunction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Connectives.md"
+                "file": "Disjunction.md"
               }
             }
           },
@@ -221,9 +221,10 @@
   },
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
+    "Logic/Connectives.md",
+    "Disjunction.md",
     "Conjunction.md",
     "Untitled.md",
-    "Logic/Connectives.md",
     "Logic/Theorem.md",
     "Logic/Universal quantifier.md",
     "Logic/Existential quantifier.md",
@@ -247,7 +248,6 @@
     "Logic/Predicate.md",
     "Logic/Truth set.md",
     "Computer Arithmetic/Natural numbers.md",
-    "Untitled 1.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
