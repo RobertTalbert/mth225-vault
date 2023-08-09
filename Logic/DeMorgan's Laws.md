@@ -20,13 +20,10 @@ Notes:
 ## Examples
 
 - The statement "It is not the case that Bob ate pizza at lunch and then went for a walk", would be equivalent to "Either Bob didn't eat pizza for lunch or Bob didn't go for a walk". 
-- If the [[universal set]] is the set of all students at your university, then the set of all students who are neither math majors nor computer science majors 
+- If the [[universal set]] is the set of all students at your university, then the set of all students who are neither math majors nor computer science majors, is the complement of the set of all students who are either math or CS majors. 
 
 ## Resources 
 
-(video)
+- Video: [DeMorgan's Law](https://www.youtube.com/watch?v=K3Y_d2Efvbc) (for logic) 
+- Video: [How to show DeMorgan's Laws for sets are true with a Venn diagram](https://www.youtube.com/watch?v=QKkd2CaJ-WI)
 
-Other resources: 
-- 
-
-## Practice 
