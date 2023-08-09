@@ -25,7 +25,7 @@ Notes:
 
 The negation of the statement "Bob had pizza for lunch" is "Bob did not have pizza for lunch". 
 
-The negation of the statement "Bob had pizza for lunch and went for a walk" is more complicated. If we let $P$ represent the statement "Bob had pizza for lunch" and $W$ "Bob went for a walk" then the original statement is the [[conjunction]] $P \wedge W$. Its truth table is 
+The negation of the statement "Bob had pizza for lunch and went for a walk" is more complicated. If we let $P$ represent the statement "Bob had pizza for lunch" and $W$ "Bob went for a walk" then the original statement is the [[Conjunction]] $P \wedge W$. Its truth table is 
 
 | $P$   | $W$   | $P \wedge W$ |
 | ----- | ----- | ------------ |

@@ -21,7 +21,7 @@ Notes:
 
 Again, $A \vee B$ is true only when *either* $A$ *or* $B$, **or both**, is true. 
 
-- Because we include the condition that $A$ and $B$ are both true as a situation where $A \vee B$ is true, we refer to disjunction sometimes as an *inclusive "or"*. Compare this with the [[exclusive or]]. 
+- Because we include the condition that $A$ and $B$ are both true as a situation where $A \vee B$ is true, we refer to disjunction sometimes as an *inclusive "or"*. Compare this with the [[Exclusive OR]]. 
 - In Python, the disjunction is implemented by just the word `or`. 
 - In other languages, the disjunction is frequently indicated by `||` ("double pipe").  
 ## Resources 

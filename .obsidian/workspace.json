@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjunction.md",
+                "file": "Logic/Conjunction.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Logic/Biconditional statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af83bc1b9c320850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Disjunction.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Logic/Biconditional statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Logic/Biconditional statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Connectives.md"
+                "file": "Logic/Biconditional statement.md"
               }
             }
           },
@@ -221,9 +233,11 @@
   },
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
-    "Disjunction.md",
+    "Logic/Exclusive OR.md",
+    "Logic/Biconditional statement.md",
+    "Logic/Disjunction.md",
+    "Logic/Conjunction.md",
     "Logic/Connectives.md",
-    "Conjunction.md",
     "Untitled.md",
     "Logic/Theorem.md",
     "Logic/Universal quantifier.md",
@@ -246,8 +260,6 @@
     "Logic/Propositions.md",
     "Logic/Logical equivalence.md",
     "Logic/Predicate.md",
-    "Logic/Truth set.md",
-    "Computer Arithmetic/Natural numbers.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
