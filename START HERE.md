@@ -6,12 +6,17 @@ Each article has a **graph view** that visually shows the interconnections betwe
 
 ![[graphview.jpg|300]]
 
-Each article in the vault is a node in this network (or "graph"), and there is an edge between any two nodes if there is a link from one article to the other. To jump to any article connected to [[Predicate]], just click on the node. Nodes in the graph that are greyed out (like "codomain" above) indicate articles that have not yet been written. Please note, the vault is constantly changing and 
+Each article in the vault is a node in this network (or "graph"), and there is an edge between  two nodes if there is a link from one article to the other. To jump to any connected article, just click on its node. Nodes in the graph that are greyed out (like "codomain" above) indicate articles that have not yet been written. 
 
-There is a secondary textbook for MTH 225 -- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin that you can use to go along with this vault in case you need a more traditional textbook approach. However, this textbook does not cover all the topics in MTH 225, for example there is no coverage of computer arithmetic. 
+Please note, the vault is constantly changing and so the graph view for an article today may not be the same tomorrow. Articles are being added, edited, or removed on a daily basis. See the bottom of this page for the most recent changelog. 
 
-Each article 
+There is a secondary textbook for MTH 225 -- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin that you can use to go along with this vault in case you prefer a more traditional textbook approach or just want a second viewpoint on course concepts. However, this textbook does not cover all the topics in MTH 225, for example there is no coverage of computer arithmetic. 
 
+> [!important] To report an issue or suggest an addition or edit
+> Use the [MTH 225 Vault Form](https://docs.google.com/forms/d/e/1FAIpQLSc6KV6Uk9CSC9X4FvTKU9IY2so2bhftelHFRoDTvOo6pfUYAQ/viewform) to do any of the following: 
+
+
+## Changelog
 
 
 
