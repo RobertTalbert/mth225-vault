@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disjunction.md",
+                "file": "Logic/Connectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disjunction.md",
+                "file": "Logic/Connectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disjunction.md",
+                "file": "Logic/Connectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disjunction.md"
+                "file": "Logic/Connectives.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
-    "Logic/Connectives.md",
     "Disjunction.md",
+    "Logic/Connectives.md",
     "Conjunction.md",
     "Untitled.md",
     "Logic/Theorem.md",
