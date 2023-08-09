@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Truth tables.md",
+                "file": "Logic/Proof.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Truth tables.md",
+                "file": "Logic/Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Truth tables.md",
+                "file": "Logic/Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Truth tables.md"
+                "file": "Logic/Proof.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
-    "Logic/Conditional statements.md",
     "Logic/Truth tables.md",
+    "Logic/Conditional statements.md",
     "Logic/Negation of quantified predicates.md",
     "Logic/Multivariable predicate.md",
     "Logic/Negation.md",
