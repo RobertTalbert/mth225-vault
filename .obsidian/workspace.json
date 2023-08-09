@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Theorem.md",
+                "file": "Logic/Connectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Theorem.md",
+                "file": "Logic/Connectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Theorem.md",
+                "file": "Logic/Connectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Theorem.md"
+                "file": "Logic/Connectives.md"
               }
             }
           },
@@ -209,6 +209,8 @@
   },
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
+    "Logic/Theorem.md",
+    "Logic/Connectives.md",
     "Logic/Universal quantifier.md",
     "Logic/Existential quantifier.md",
     "START HERE.md",
@@ -234,8 +236,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Computer Arithmetic/Division in binary.md",
-    "Logic/Theorem.md",
-    "Logic/Outline for Logic.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
