@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Conjunction.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc2c84581af2aa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Connectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,10 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0608b473d5530f4a",
+  "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
-    "Logic/Theorem.md",
+    "Conjunction.md",
+    "Untitled.md",
     "Logic/Connectives.md",
+    "Logic/Theorem.md",
     "Logic/Universal quantifier.md",
     "Logic/Existential quantifier.md",
     "START HERE.md",
@@ -234,8 +248,6 @@
     "Logic/Truth set.md",
     "Computer Arithmetic/Natural numbers.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Computer Arithmetic/Division in binary.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
