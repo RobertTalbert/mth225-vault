@@ -14,31 +14,17 @@ There is a secondary textbook for MTH 225 -- [Discrete Mathematics: An Open Intr
 
 > [!important] To report an issue or suggest an addition or edit
 > Use the [MTH 225 Vault Form](https://docs.google.com/forms/d/e/1FAIpQLSc6KV6Uk9CSC9X4FvTKU9IY2so2bhftelHFRoDTvOo6pfUYAQ/viewform) to do any of the following: 
-
+> 
+> **Suggest an addition or edit** including
+> - Requests for additional articles
+> - Suggestions for information or links to add to existing articles 
+> - Suggestions for improvements to the layout or formatting of the vault
+>   
+> **Report an issue** such as
+> - Dead or incorrect links to external websites
+> - Factual or computational errors 
+> - Significant typographical errors 
+>   
+> Responses to the form will be addressed once per week and changes will be reported in the changelog below. 
 
 ## Changelog
-
-
-
-
-
-
-
-
-
-
-
-Outline for this page 
-
-- Notes on the site and its purpose 
-	- What it is 
-	- Who it's for 
-	- Where to find things
-	- Other links
-		- Syllabus
-		- Blackboard 
-		- Github
-- How to use this page 
-	- Links
-	- Notes
-	- Graph

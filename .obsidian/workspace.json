@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Logic/Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Logic/Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Logic/Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Logic/Theorem.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "0608b473d5530f4a",
   "lastOpenFiles": [
+    "Logic/Universal quantifier.md",
+    "Logic/Existential quantifier.md",
+    "START HERE.md",
     "Assets/Images/graphview.jpg",
     "Logic/Proof.md",
     "conflict-files-obsidian-git.md",
@@ -230,8 +233,6 @@
     "Computer Arithmetic/Natural numbers.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Logic/Existential quantifier.md",
-    "Logic/Universal quantifier.md",
     "Computer Arithmetic/Division in binary.md",
     "Logic/Theorem.md",
     "Logic/Outline for Logic.md",
