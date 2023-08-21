@@ -40,4 +40,4 @@ Other resources:
 ## Practice 
 
 - [This tutorial has some interactive practice exercises at the end](https://www.mathgoodies.com/lessons/sets/set-builder-notation). 
-- 
+- [General practice worksheet on sets that includes set-builder notation practice](https://www.cabrini.edu/globalassets/pdfs-website/math-resource-center/math-111-practice-test-chapter-2-answers.pdf). 

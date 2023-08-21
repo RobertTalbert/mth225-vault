@@ -18,7 +18,8 @@ Notes
 * The word "distinct" in the definition indicates that **sets cannot contain duplicate items**. For example $\{2,2,2,2,2\}$ is not a properly-written set. This set is the same as $\{2\}$ and should be written this way, without duplicates. 
 ## Examples and Non-Examples
 
-$\{ n \in \mathbb{N} \, : \, $n$ \text{is even and} \, n < 7}$. 
+- The set of all letters in the word "valley" could be written as $\{v,a,l,e,y\}$. 
+- The kinds of ob
 
 ## Resources 
 
