@@ -15,7 +15,7 @@ Note that **for our purposes, the number $0$ is included in the natural numbers*
 
 Some examples of natural numbers include $10$, $99999$, and $0$. 
 
-Some non-[[integers]] include: 
+Some examples of non-natural numbers include: 
 - $-12$ (negative) 
 - $1/2$ (not a whole nbumber)
 - $\sqrt{5}$ (also not a [[Integers|whole number]]) 

@@ -14,4 +14,4 @@ Notes:
 - The weight of the bitstring is the number of $1$ bits it has. 
 ## Examples 
 
-The [[base 2 representation]] of the positive ([[Base 10 representation|base 10]]) [[Integers|integer]] $214$, is $11010110$. This is a bitstring of length 8 and weight 5. 
+The [[base 2 representation]] of the positive ([[Base 10 representation|base 10]]) [[Integers|integer]] $214$, is $11010110$. This is a bitstring of length 8 and [[Weight of a bitstring|weight]] 5. 
