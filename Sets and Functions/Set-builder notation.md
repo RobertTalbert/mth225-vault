@@ -15,9 +15,12 @@ aliases: [set-builder notation, set builder notation]
 >   Examples of each form are below. 
 
 Note: 
-- A closely related Python concept is the [list comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp), w
+- A closely related Python concept is the [list comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp), where a list is defined in terms of rules and formulas rather than explicitly listing the elements. For example the list `[0,3,6,9]` is generated from the list comprehension `[x for x in range(10) if x % 3 == 0]`. This is equivalent to the set, in set-builder notation, of $\{x \in \{0,1,2,\dots,9\} \, : \, 3 \ \text{divides} \ x\}$. 
 
 ## Examples and Non-Examples
+
+- Domain/filter: The set $\{ x \in \mathbb{N} \, : \, x^2 < 100 \}$ takes the natural numbers as its universal set (or "domain") and filters out everything except those natural numbers whose square is less than 100. In roster notation, this set is equal to $\{0,1,2,3,4,5,6,7,8,9}
+
 
 ## Resources 
 
