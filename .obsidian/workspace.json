@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Counting/Weight of a bitstring.md",
+                "file": "Sets and Functions/Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counting/Weight of a bitstring.md",
+                "file": "Sets and Functions/Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counting/Weight of a bitstring.md",
+                "file": "Sets and Functions/Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counting/Weight of a bitstring.md"
+                "file": "Sets and Functions/Set.md"
               }
             }
           },
@@ -245,15 +245,17 @@
   },
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
-    "Computer Arithmetic/Binary digits and bitstrings.md",
+    "Logic/Conjunction.md",
+    "Sets and Functions/Set.md",
+    "Sets and Functions/Domain.md",
     "Counting/Weight of a bitstring.md",
+    "Computer Arithmetic/Binary digits and bitstrings.md",
     "Logic/Conditional statements.md",
     "Logic/Predicate.md",
     "Computer Arithmetic/Natural numbers.md",
     "Logic/Universal quantifier.md",
     "Untitled.md",
     "Logic/Biconditional statement.md",
-    "Logic/Conjunction.md",
     "Logic/Atomic and molecular propositions.md",
     "connective.md",
     "Logic/Connectives.md",
@@ -270,8 +272,6 @@
     "Logic/Truth tables.md",
     "Logic/Negation of quantified predicates.md",
     "Logic/Multivariable predicate.md",
-    "Logic/Negation.md",
-    "Logic/Mathematical induction.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
