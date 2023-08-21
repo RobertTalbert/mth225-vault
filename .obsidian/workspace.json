@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Set and set elements.md",
+                "file": "Sets and Functions/Set-builder notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Set and set elements.md",
+                "file": "Sets and Functions/Set-builder notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Set and set elements.md",
+                "file": "Sets and Functions/Set-builder notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Set and set elements.md"
+                "file": "Sets and Functions/Set-builder notation.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
-    "Logic/Conjunction.md",
     "Sets and Functions/Set and set elements.md",
+    "Sets and Functions/Set-builder notation.md",
+    "Logic/Conjunction.md",
     "Sets and Functions/Domain.md",
     "Counting/Weight of a bitstring.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
@@ -186,7 +187,6 @@
     "Logic/Counterexample.md",
     "Logic/Truth tables.md",
     "Logic/Negation of quantified predicates.md",
-    "Logic/Multivariable predicate.md",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
