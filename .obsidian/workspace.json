@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "335b6d831a5e5c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Universal quantifier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f1031c166c89d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Truth set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0608b473d5530f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Conjunction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd0c83464ba9466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Predicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a1a2d3312f300f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Conditional statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc2c84581af2aa19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af83bc1b9c320850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Disjunction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54eda845b44a52e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Sets and Functions/Set and set elements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Set.md",
+                "file": "Sets and Functions/Set and set elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Set.md",
+                "file": "Sets and Functions/Set and set elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Set.md"
+                "file": "Sets and Functions/Set and set elements.md"
               }
             }
           },
@@ -246,7 +161,7 @@
   "active": "cc2c84581af2aa19",
   "lastOpenFiles": [
     "Logic/Conjunction.md",
-    "Sets and Functions/Set.md",
+    "Sets and Functions/Set and set elements.md",
     "Sets and Functions/Domain.md",
     "Counting/Weight of a bitstring.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
