@@ -14,7 +14,7 @@ Notes
 	* As a symbol, usually a capital letter ($A$, $X$, etc.)
 	* For some commonly-used sets we use a special letter -- for example $\mathbb{N}$ denotes the set of all [[Natural numbers]] and $\mathbb{Z}$ denotes the set of all [[Integers]]. 
 	* In roster notation, where we list the items of the set explicitly within curly braces, for example $\{0, 2, 4, 6\}$.
-	* In set-builder notation, where we describe the set using rules for deciding what its elements are, for example $\{n \in \mathbb{N} \, : \, n \ \text{is even and} \ 0 \leq n < 7\}$. This set is equal to $\{0,2,4,6\}$ 
+	* In [[Set-builder notation|set-builder notation]], where we describe the set using rules for deciding what its elements are, for example $\{n \in \mathbb{N} \, : \, n \ \text{is even and} \ 0 \leq n < 7\}$. This set is equal to $\{0,2,4,6\}$ 
 * The word "distinct" in the definition indicates that **sets cannot contain duplicate items**. For example $\{2,2,2,2,2\}$ is not a properly-written set. This set is the same as $\{2\}$ and should be written this way, without duplicates. 
 ## Examples and Non-Examples
 
