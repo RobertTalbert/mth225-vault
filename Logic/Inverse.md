@@ -7,7 +7,7 @@ aliases: [inverse, inverses]
 ## Definition 
 
 > [!tldr] Definition
-> The **inverse** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $(\neg P) \rightarrow (\neg Q)$. That is, we form the converse by replacing the [[Conditional statements|hypothesis]] and [[Conditional statements|conclusion]] with their [[Negation|negations]]. 
+> The **inverse** of the [[Conditional statements|conditional statement]] $P \rightarrow Q$ is the conditional statement $(\neg P) \rightarrow (\neg Q)$. That is, we form the inverse by replacing the [[Conditional statements|hypothesis]] and [[Conditional statements|conclusion]] with their [[Negation|negations]]. 
 
 Notes: 
 

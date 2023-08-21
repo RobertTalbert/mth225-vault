@@ -8,55 +8,91 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fb84aa0d61444f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Arithmetic/Division in binary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8919f6c4ac89d750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c3dd989c3efe630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Arithmetic/The modulus operator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e18cc882d4811a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Propositions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a608754cf90e306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Arithmetic/The division algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b514ae5445a03b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Proof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "335b6d831a5e5c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Universal quantifier.md",
+                "file": "Logic/Converse.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f1031c166c89d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Truth set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0608b473d5530f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Conjunction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd0c83464ba9466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Predicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a1a2d3312f300f6",
+            "id": "41a63abea475d18e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,43 +104,55 @@
             }
           },
           {
-            "id": "cc2c84581af2aa19",
+            "id": "0f14a3d07590fedd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Biconditional statement.md",
+                "file": "Logic/Proof.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af83bc1b9c320850",
+            "id": "647578467ae974e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Disjunction.md",
+                "file": "Logic/Proof.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54eda845b44a52e7",
+            "id": "fe3527dcc1fc768b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Connectives.md",
+                "file": "Logic/Inverse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f98060b54cea173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Negation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -133,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Biconditional statement.md",
+                "file": "Logic/Inverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Biconditional statement.md",
+                "file": "Logic/Inverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Biconditional statement.md"
+                "file": "Logic/Inverse.md"
               }
             }
           },
@@ -223,11 +271,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,41 +287,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "648326dff836a8ba",
+  "active": "fe3527dcc1fc768b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Logic/Biconditional statement.md",
-    "Logic/Conditional statements.md",
-    "Logic/Conjunction.md",
-    "Logic/Atomic and molecular propositions.md",
-    "connective.md",
-    "Logic/Connectives.md",
+    "Logic/Logical equivalence.md",
+    "Logic/DeMorgan's Laws.md",
     "Logic/Exclusive OR.md",
     "Logic/Disjunction.md",
-    "Logic/Theorem.md",
-    "Logic/Universal quantifier.md",
-    "Logic/Existential quantifier.md",
-    "START HERE.md",
+    "Logic/Connectives.md",
+    "Logic/Conjunction.md",
+    "Logic/Biconditional statement.md",
     "Assets/Images/graphview.jpg",
+    "Logic/Counterexample.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Logic/Converse.md",
     "Logic/Proof.md",
     "conflict-files-obsidian-git.md",
-    "Logic/DeMorgan's Laws.md",
-    "Logic/Counterexample.md",
-    "Logic/Truth tables.md",
+    "Logic/Universal quantifier.md",
+    "Logic/Truth set.md",
     "Logic/Negation of quantified predicates.md",
     "Logic/Multivariable predicate.md",
+    "Logic/Existential quantifier.md",
+    "START HERE.md",
+    "Logic/Predicate.md",
+    "Logic/Inverse.md",
     "Logic/Negation.md",
-    "Logic/Mathematical induction.md",
     "Logic/Contrapositive.md",
-    "Logic/Converse.md",
-    "Logic/Propositions.md",
-    "Logic/Logical equivalence.md",
-    "Assets/Images/binary-division.jpg",
+    "Logic/Mathematical induction.md",
+    "Logic/Conditional statements.md",
+    "Logic/Atomic and molecular propositions.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
