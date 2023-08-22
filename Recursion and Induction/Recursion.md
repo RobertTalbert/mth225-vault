@@ -17,7 +17,7 @@ Notes:
 
 ## Examples
 
-### The Fibonacci sequence 
+### The [[Fibonacci sequence]]
 
 The *Fibonacci sequence* is a sequence of [[integers]] defined recursively as follows: 
 - Base case: The first two Fibonacci numbers, $F_0$ and $F_1$ are defined directly: We declare $F_0 =1$ and also $F_1 = 1$. 

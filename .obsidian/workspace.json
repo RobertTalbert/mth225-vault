@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Fibonacci sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Fibonacci sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Fibonacci sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
+                "file": "Recursion and Induction/Fibonacci sequence.md"
               }
             }
           },
@@ -219,16 +219,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "648326dff836a8ba",
+  "active": "988381297bd7813c",
   "lastOpenFiles": [
+    "Recursion and Induction/Untitled.md",
+    "Recursion and Induction/Fibonacci sequence.md",
+    "Recursion and Induction/Recursion.md",
+    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Function.md",
     "Recursion and Induction/Closed formula.md",
     "Recursion and Induction/Sequence.md",
     "Sets and Functions/Set and set elements.md",
-    "Recursion and Induction/Fibonacci sequence.md",
-    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Domain.md",
-    "Recursion and Induction/Untitled.md",
     "Sets and Functions/Outline for sets and functions.md",
     "Sets and Functions/Empty set.md",
     "Sets and Functions/Special sets.md",
@@ -246,7 +247,6 @@
     "Logic/Connectives.md",
     "Logic/Exclusive OR.md",
     "Logic/Disjunction.md",
-    "Logic/Theorem.md",
     "Assets/Images/graphview.jpg",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
