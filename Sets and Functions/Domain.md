@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [domain]
 --- 
 
 #sets-functions 
