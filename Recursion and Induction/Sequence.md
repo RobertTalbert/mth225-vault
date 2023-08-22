@@ -21,13 +21,13 @@ Notes:
 Here are some sequences: 
 
 - $1, 1, 2, 3, 5, 8, 13, 21, 34, \dots$ is the [[Fibonacci sequence]]. 
-- 
+- $1, 3, 6, 10, 15, 21, \dots$ is the sequence of triangular numbers. 
+- $3, 1, 4, 1, 5, 9, \dots$ is the sequence of digits of $\pi$. 
 
 ## Resources 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/635492325?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 5.1: Sequences"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/635492325?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 5.1: Sequences"></iframe></div>
 
 Other resources: 
-- 
-
-## Practice 
+- Tutorial: [Sequences](https://www.mathsisfun.com/algebra/sequences-series.html)
+- [Khan Academy unit on sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences)
