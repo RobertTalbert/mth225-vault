@@ -7,7 +7,7 @@ aliases: [recurrence relation, recurrence relations]
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> A **recurrence relation** is a 
 
 (blurb)
 

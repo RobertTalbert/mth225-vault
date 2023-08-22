@@ -80,14 +80,6 @@
             }
           },
           {
-            "id": "5bdedb65a102613d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "988381297bd7813c",
             "type": "leaf",
             "state": {
@@ -100,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence relation.md",
+                "file": "Closed formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence relation.md",
+                "file": "Closed formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recurrence relation.md"
+                "file": "Closed formula.md"
               }
             }
           },
@@ -239,7 +231,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "988381297bd7813c",
+  "active": "3ff0a3007f56b3e2",
   "lastOpenFiles": [
     "Recurrence relation.md",
     "Closed formula.md",
