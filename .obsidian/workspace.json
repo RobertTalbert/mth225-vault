@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recursion.md"
+                "file": "README.md"
               }
             }
           },
@@ -221,11 +221,11 @@
   },
   "active": "988381297bd7813c",
   "lastOpenFiles": [
+    "Recursion and Induction/Recursion.md",
     "START HERE.md",
     "README.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "Recursion and Induction/Untitled.md",
-    "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Function.md",
     "Recursion and Induction/Closed formula.md",
