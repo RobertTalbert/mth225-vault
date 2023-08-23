@@ -12,6 +12,8 @@ Please note, the vault is constantly changing and so the graph view for an artic
 
 There is a secondary textbook for MTH 225 -- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin that you can use to go along with this vault in case you prefer a more traditional textbook approach or just want a second viewpoint on course concepts. However, this textbook does not cover all the topics in MTH 225, for example there is no coverage of computer arithmetic. 
 
+The articles in this vault are also available in the public GitHub repository: https://github.com/RobertTalbert/mth225-vault
+
 > [!important] To report an issue or suggest an addition or edit
 > Use the [MTH 225 Vault Form](https://docs.google.com/forms/d/e/1FAIpQLSc6KV6Uk9CSC9X4FvTKU9IY2so2bhftelHFRoDTvOo6pfUYAQ/viewform) to do any of the following: 
 > 
