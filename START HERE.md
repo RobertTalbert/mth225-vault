@@ -14,6 +14,8 @@ There is a secondary textbook for MTH 225 -- [Discrete Mathematics: An Open Intr
 
 The articles in this vault are also available in the public GitHub repository: https://github.com/RobertTalbert/mth225-vault
 
+**All files on this vault are licensed under a Creative Commons Attribution-NonCommercial 4.0 International license.** Click here for details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
 > [!important] To report an issue or suggest an addition or edit
 > Use the [MTH 225 Vault Form](https://docs.google.com/forms/d/e/1FAIpQLSc6KV6Uk9CSC9X4FvTKU9IY2so2bhftelHFRoDTvOo6pfUYAQ/viewform) to do any of the following: 
 > 

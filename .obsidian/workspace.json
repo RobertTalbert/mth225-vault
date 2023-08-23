@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Recursion and Induction/Recursion.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,6 +221,8 @@
   },
   "active": "988381297bd7813c",
   "lastOpenFiles": [
+    "START HERE.md",
+    "README.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "Recursion and Induction/Untitled.md",
     "Recursion and Induction/Recursion.md",
@@ -245,8 +247,6 @@
     "Logic/Atomic and molecular propositions.md",
     "connective.md",
     "Logic/Connectives.md",
-    "Logic/Exclusive OR.md",
-    "Logic/Disjunction.md",
     "Assets/Images/graphview.jpg",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
