@@ -30,7 +30,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3e951a17f3533f89",
+        "type": "tabs",
+        "children": [
           {
             "id": "a729eb47c1385eae",
             "type": "leaf",
@@ -43,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codomain.md",
+                "file": "Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codomain.md",
+                "file": "Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codomain.md"
+                "file": "Range.md"
               }
             }
           },
@@ -184,13 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d9263e7ed8d3151",
+  "active": "a729eb47c1385eae",
   "lastOpenFiles": [
-    "Sets and Functions/Function.md",
     "Codomain.md",
     "Range.md",
+    "Sets and Functions/Function.md",
     "Untitled.md",
-    "Pasted image 20230828102320.png",
+    "simple-function-diagram.png",
     "Pasted image 20230828102253.png",
     "Logic/Negation.md",
     "Logic/Inverse.md",
