@@ -23,7 +23,7 @@ Notes:
 - In order for a rule of assignment to be a valid function according to this definition, two things must happen: 
 	- Every point in $A$ (the [[Domain|domain]] of $f$) must actually have an output; that is, there can be no elements of $A$ that are unassigned or uncomputable. 
 	- No point in $A$ can be sent to two different outputs. 
-- However notice in the examples above, and below, that **it is within the definition for two different inputs to be sent to the same output** (a "collision"). We just cannot send *one* input to *two or more* outputs ("splitting"). 
+- However notice in the examples above, and below, that **it is within the definition for two different inputs to be sent to the same output** (a "collision"). We just cannot send *one* input to *two or more* outputs ("splitting").
 
 ## Examples and Non-Examples
 
@@ -35,11 +35,12 @@ Some examples are shown above; here are a few more.
 Some examples of assignments or mappings that are *not* functions: 
 - The mapping $g: \mathbb{R} \rightarrow \mathbb{R}$ given by $g(x) = \sqrt{x}$ is not a valid function because some inputs do not have outputs, for example $x=-1$. This number does not have an "output" because $g(-1)$ is not a real number; it has nothing to which it is assigned in the [[Codomain|codomain]]. 
 - The mapping  $h: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $h(0) = p$, $h(1) = a$, $h(2) = b$ is not a function because the output for $0$ does not exist in the set $\{a,b,c\}$. 
-- The mapping $k: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $
+- The mapping $k: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $k(0) = a$, $k(1) = b$, $k(2) = c$, $k(1) = a$ is not a function because the input $1$ is assigned to two different outputs. 
+- The mapping that matches each person to their phone number is not a function, because some people have more than one phone number, causing some inputs to "split" into different outputs. 
 
 ## Resources 
 
-(video)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/614432178?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 3.8: Functions"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Other resources: 
 - 
