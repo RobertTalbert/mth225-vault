@@ -30,14 +30,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3e951a17f3533f89",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "a729eb47c1385eae",
             "type": "leaf",
@@ -50,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Range.md",
+                "file": "Codomain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Range.md",
+                "file": "Codomain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Range.md"
+                "file": "Codomain.md"
               }
             }
           },
@@ -169,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a729eb47c1385eae",
+  "active": "3d9263e7ed8d3151",
   "lastOpenFiles": [
-    "Codomain.md",
-    "Range.md",
     "Sets and Functions/Function.md",
+    "Range.md",
+    "Codomain.md",
     "Untitled.md",
     "simple-function-diagram.png",
     "Pasted image 20230828102253.png",
