@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d383e977e6f06f66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +163,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "d383e977e6f06f66",
   "lastOpenFiles": [
-    "Assets/Images/triangular-visual.png",
     "Recursion and Induction/Recurrence relation.md",
+    "Assets/Images/triangular-visual.png",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Codomain.md",
     "Assets/Images/simple-function-diagram.png",
