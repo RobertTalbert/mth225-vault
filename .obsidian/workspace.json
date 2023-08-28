@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc2c84581af2aa19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Set-builder notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36439cb22fa48f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursion and Induction/Sequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c4b78f023b5a6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Domain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff0a3007f56b3e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursion and Induction/Closed formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df09fc50336128c4",
+            "id": "0f98060b54cea173",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "988381297bd7813c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sets and Functions/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sets and Functions/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Sets and Functions/Function.md"
               }
             }
           },
@@ -203,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,41 +154,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "988381297bd7813c",
+  "active": "0f98060b54cea173",
   "lastOpenFiles": [
-    "Recursion and Induction/Recursion.md",
-    "START HERE.md",
-    "README.md",
-    "Recursion and Induction/Fibonacci sequence.md",
-    "Recursion and Induction/Untitled.md",
-    "Recursion and Induction/Recurrence relation.md",
-    "Sets and Functions/Function.md",
-    "Recursion and Induction/Closed formula.md",
-    "Recursion and Induction/Sequence.md",
-    "Sets and Functions/Set and set elements.md",
-    "Sets and Functions/Domain.md",
-    "Sets and Functions/Outline for sets and functions.md",
-    "Sets and Functions/Empty set.md",
-    "Sets and Functions/Special sets.md",
+    "Logic/Negation.md",
+    "Logic/Inverse.md",
     "Sets and Functions/Set-builder notation.md",
-    "Logic/Conjunction.md",
+    "Sets and Functions/Set and set elements.md",
+    "Sets and Functions/Function.md",
+    "Sets and Functions/Empty set.md",
+    "Sets and Functions/Domain.md",
+    "Recursion and Induction/Sequence.md",
+    "Recursion and Induction/Recurrence relation.md",
+    "Recursion and Induction/Fibonacci sequence.md",
+    "Recursion and Induction/Closed formula.md",
+    "README.md",
     "Counting/Weight of a bitstring.md",
-    "Computer Arithmetic/Binary digits and bitstrings.md",
-    "Logic/Conditional statements.md",
-    "Logic/Predicate.md",
-    "Computer Arithmetic/Natural numbers.md",
-    "Logic/Universal quantifier.md",
-    "Logic/Biconditional statement.md",
-    "Logic/Atomic and molecular propositions.md",
-    "connective.md",
+    "Logic/Logical equivalence.md",
+    "Logic/DeMorgan's Laws.md",
+    "Logic/Exclusive OR.md",
+    "Logic/Disjunction.md",
     "Logic/Connectives.md",
+    "Logic/Conjunction.md",
+    "Logic/Biconditional statement.md",
     "Assets/Images/graphview.jpg",
-    "Assets/Images/binary-division.jpg",
+    "Logic/Counterexample.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Logic/Converse.md",
+    "Logic/Proof.md",
+    "conflict-files-obsidian-git.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
