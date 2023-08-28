@@ -17,7 +17,7 @@ Notes:
 	- *Tables or lists*. For example $g: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $g(0) = c$, $g(1) = a$, $g(2) = b$ is a function, defined by explicitly listing the outputs assigned to each input. 
 	- *Verbal descriptions.* For example, define the function $p: \mathbb{N} \rightarrow \mathbb{N}$ by assigning $n$ to the $n$th digit of $\pi$. So $p(0) = 3$, $p(1) = 1$, $p(2) = 4$, $p(3) = 1$, etc. 
 	- *Graphs or diagrams*. For example the diagram below defines a function from $A = \{-2,0,3,5\}$ to $B = \{-4,-3,4\}$: 
-![[simple-function-diagram.png|400]]
+![[simple-function-diagram.png|300]]
 ([Source](https://mathbooks.unl.edu/PreCalculus/Intro-to-Functions.html))
 
 - In order for a rule of assignment to be a valid function according to this definition, two things must happen: 
