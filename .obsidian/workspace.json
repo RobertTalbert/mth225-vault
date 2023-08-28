@@ -11,9 +11,11 @@
             "id": "4bec7c0353d2518f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/triangular-visual.png"
+                "file": "Recursion and Induction/Recurrence relation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/triangular-visual.png",
+                "file": "Recursion and Induction/Recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/triangular-visual.png",
+                "file": "Recursion and Induction/Recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/triangular-visual.png"
+                "file": "Recursion and Induction/Recurrence relation.md"
               }
             }
           },
@@ -156,10 +158,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "648326dff836a8ba",
+  "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Recursion and Induction/Recurrence relation.md",
     "Assets/Images/triangular-visual.png",
+    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Codomain.md",
     "Assets/Images/simple-function-diagram.png",
