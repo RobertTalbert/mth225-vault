@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24cd5ac5afd25ed1",
+        "id": "003f496540f6e39b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f98060b54cea173",
+            "id": "4bec7c0353d2518f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Function.md",
+                "file": "Recursion and Induction/Recurrence relation.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3d9263e7ed8d3151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Codomain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a729eb47c1385eae",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/simple-function-diagram.png"
               }
             }
           }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Function.md",
+                "file": "Recursion and Induction/Recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Function.md",
+                "file": "Recursion and Induction/Recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Function.md"
+                "file": "Recursion and Induction/Recurrence relation.md"
               }
             }
           },
@@ -180,14 +158,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f98060b54cea173",
+  "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
+    "Sets and Functions/Subset.md",
+    "Sets and Functions/Codomain.md",
     "Assets/Images/simple-function-diagram.png",
-    "Assets/Images/Pasted image 20230718094622.png",
     "Sets and Functions/Function.md",
+    "Assets/Images/Pasted image 20230718094622.png",
     "Untitled.md",
     "Sets and Functions/Range.md",
-    "Sets and Functions/Codomain.md",
     "Pasted image 20230828102253.png",
     "Logic/Negation.md",
     "Logic/Inverse.md",
@@ -210,7 +189,6 @@
     "Logic/Biconditional statement.md",
     "Assets/Images/graphview.jpg",
     "Logic/Counterexample.md",
-    "Logic/Converse.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images",
