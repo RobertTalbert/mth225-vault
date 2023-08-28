@@ -15,6 +15,8 @@ Notes:
 
 ## Examples and Non-Examples
 
+
+
 ## Resources 
 
 (video)

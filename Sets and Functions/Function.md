@@ -30,7 +30,12 @@ Notes:
 Some examples are shown above; here are a few more. 
 
 - The function $ceil: \mathbb{R} \rightarrow \mathbb{Z}$ takes a real number (floating point number) as input, and the output assigned is the integer you get when you round the input up. For example $ceil(9.22) = 10$. This is a function because every input does receive an output, and no input gets more than one. (However there are lots of collisions, where different inputs are sent to the same output; for example every number greater than 9 and less than or equal to 10 will be sent to 10.)
-- 
+- The function $f: \mathbb{R} \rightarrow \mathbb{R}$ defined as the formula $f(x) = x^2$ is a function, since every number can be squared and no number has more than one square. (Again however there are collisions, since $f(1) = f(-1)$.)
+
+Some examples of assignments or mappings that are *not* functions: 
+- The mapping $g: \mathbb{R} \rightarrow \mathbb{R}$ given by $g(x) = \sqrt{x}$ is not a valid function because some inputs do not have outputs, for example $x=-1$. This number does not have an "output" because $g(-1)$ is not a real number; it has nothing to which it is assigned in the [[Codomain|codomain]]. 
+- The mapping  $h: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $h(0) = p$, $h(1) = a$, $h(2) = b$ is not a function because the output for $0$ does not exist in the set $\{a,b,c\}$. 
+- The mapping $k: \{0,1,2\} \rightarrow \{a,b,c\}$ defined by $
 
 ## Resources 
 

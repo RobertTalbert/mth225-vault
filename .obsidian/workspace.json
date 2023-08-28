@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codomain.md",
+                "file": "Sets and Functions/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codomain.md",
+                "file": "Sets and Functions/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codomain.md"
+                "file": "Sets and Functions/Function.md"
               }
             }
           },
@@ -184,10 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d9263e7ed8d3151",
+  "active": "0f98060b54cea173",
   "lastOpenFiles": [
-    "Sets and Functions/Function.md",
     "Codomain.md",
+    "Sets and Functions/Function.md",
     "Range.md",
     "Untitled.md",
     "Pasted image 20230828102320.png",
