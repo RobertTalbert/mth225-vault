@@ -11,11 +11,9 @@
             "id": "4bec7c0353d2518f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/triangular-visual.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Assets/Images/triangular-visual.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Assets/Images/triangular-visual.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
+                "file": "Assets/Images/triangular-visual.png"
               }
             }
           },
@@ -158,8 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "648326dff836a8ba",
   "lastOpenFiles": [
+    "Recursion and Induction/Recurrence relation.md",
+    "Assets/Images/triangular-visual.png",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Codomain.md",
     "Assets/Images/simple-function-diagram.png",
@@ -175,7 +175,6 @@
     "Sets and Functions/Empty set.md",
     "Sets and Functions/Domain.md",
     "Recursion and Induction/Sequence.md",
-    "Recursion and Induction/Recurrence relation.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "Recursion and Induction/Closed formula.md",
     "README.md",
