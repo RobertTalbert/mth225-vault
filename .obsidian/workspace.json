@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Sets and Functions/Roster notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "d383e977e6f06f66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sets and Functions/Set-builder notation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Sets and Functions/Roster notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Sets and Functions/Roster notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
+                "file": "Sets and Functions/Roster notation.md"
               }
             }
           },
@@ -180,8 +184,12 @@
   },
   "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Recursion and Induction/Closed formula.md",
+    "Sets and Functions/Set.md",
+    "Sets and Functions/Roster notation.md",
+    "Sets and Functions/Set-builder notation.md",
+    "Untitled.md",
     "Recursion and Induction/Recurrence relation.md",
+    "Recursion and Induction/Closed formula.md",
     "Recursion and Induction/Geometric sequence.md",
     "Untitled 1.md",
     "Assets/Images/triangular-visual.png",
@@ -194,8 +202,6 @@
     "Pasted image 20230828102253.png",
     "Logic/Negation.md",
     "Logic/Inverse.md",
-    "Sets and Functions/Set-builder notation.md",
-    "Sets and Functions/Set and set elements.md",
     "Sets and Functions/Empty set.md",
     "Sets and Functions/Domain.md",
     "Recursion and Induction/Sequence.md",
@@ -208,9 +214,7 @@
     "Logic/Disjunction.md",
     "Logic/Connectives.md",
     "Logic/Conjunction.md",
-    "Logic/Biconditional statement.md",
     "Assets/Images/graphview.jpg",
-    "Logic/Counterexample.md",
     "binary-division.jpg",
     "Untitled.jpg",
     "Assets/Images",

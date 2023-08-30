@@ -7,7 +7,7 @@ aliases: [codomain]
 ## Definition 
 
 > [!tldr] Definition
-> The **codomain** of a [[Function|function]] is the [[Set and set elements|set]] consisting of all allowable outputs of that function. In standard function notation, if $f: A \rightarrow B$ is a function then the set $B$ is the codomain. 
+> The **codomain** of a [[Function|function]] is the [[Set|set]] consisting of all allowable outputs of that function. In standard function notation, if $f: A \rightarrow B$ is a function then the set $B$ is the codomain. 
 
 Notes: 
 - The codomain of $f$ contains the [[Range|range]] of the function as a [[Subset|subset]], but the two are not necessarily equal. See examples below. 

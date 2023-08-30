@@ -6,7 +6,7 @@ aliases: [range]
 ## Definition 
 
 > [!tldr] Definition
-> The **range** of a [[Function|function]] is the [[Set and set elements|set]] consisting of all actual outputs of that function. 
+> The **range** of a [[Function|function]] is the [[Set|set]] consisting of all actual outputs of that function. 
 
 Notes: 
 - The range of $f$ is a [[Subset|subset]] of, but is not necessarily equal to, the [[Codomain|codomain]] of $f$. See below for examples where they are different. 

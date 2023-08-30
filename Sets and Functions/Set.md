@@ -1,5 +1,5 @@
 ---
-aliases: [sets, set, element, elements, roster notation]
+aliases: [sets, set, element, elements]
 --- 
 
 #sets-functions 

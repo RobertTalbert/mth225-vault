@@ -7,7 +7,7 @@ aliases: [functions, function]
 ## Definition 
 
 > [!tldr] Definition
-> A **function** is a rule that accepts input from one [[Set and set elements|set]] and produces output in another set, so that every input is assigned to one and only one output. If the inputs come from from the set $A$ and the outputs come from the set $B$, and the name of the function is $f$, then we write $f: A \rightarrow B$. 
+> A **function** is a rule that accepts input from one [[Set|set]] and produces output in another set, so that every input is assigned to one and only one output. If the inputs come from from the set $A$ and the outputs come from the set $B$, and the name of the function is $f$, then we write $f: A \rightarrow B$. 
 
 Notes: 
 - In the notation above ($f: A \rightarrow B$) the set $A$ is the [[Domain|domain]] of the function and the set $B$ is the [[Codomain]]. 
@@ -21,7 +21,7 @@ Notes:
 ([Source](https://mathbooks.unl.edu/PreCalculus/Intro-to-Functions.html))
 
 - In order for a rule of assignment to be a valid function according to this definition, two things must happen: 
-	- Every point in $A$ (the [[Domain|domain]] of $f$) must actually have an output; that is, there can be no [[Set and set elements|elements]] of $A$ that are unassigned or uncomputable. 
+	- Every point in $A$ (the [[Domain|domain]] of $f$) must actually have an output; that is, there can be no [[Set|elements]] of $A$ that are unassigned or uncomputable. 
 	- No point in $A$ can be sent to two different outputs. 
 - However notice in the examples above, and below, that **it is within the definition for two different inputs to be sent to the same output** (a "collision"). We just cannot send *one* input to *two or more* outputs ("splitting").
 
