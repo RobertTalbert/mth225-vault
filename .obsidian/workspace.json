@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Roster notation.md",
+                "file": "Sets and Functions/Universal set.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Roster notation.md",
+                "file": "Sets and Functions/Universal set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Roster notation.md",
+                "file": "Sets and Functions/Universal set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Roster notation.md"
+                "file": "Sets and Functions/Universal set.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8321c68b2e60740",
+  "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Sets and Functions/Set-builder notation.md",
     "Sets and Functions/Roster notation.md",
+    "Sets and Functions/Universal set.md",
+    "Sets and Functions/Set-builder notation.md",
     "Sets and Functions/Set.md",
     "Untitled.md",
     "Recursion and Induction/Recurrence relation.md",
@@ -212,7 +213,6 @@
     "Logic/Exclusive OR.md",
     "Logic/Disjunction.md",
     "Logic/Connectives.md",
-    "Logic/Conjunction.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
