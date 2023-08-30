@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "a8321c68b2e60740",
   "lastOpenFiles": [
     "Sets and Functions/Set-builder notation.md",
     "Sets and Functions/Roster notation.md",

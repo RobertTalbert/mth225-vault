@@ -13,14 +13,14 @@ Notes
 	* In words, for example "the set of all current MTH 225 students at Grand Valley State University"
 	* As a symbol, usually a capital letter ($A$, $X$, etc.)
 	* For some commonly-used sets we use a special letter -- for example $\mathbb{N}$ denotes the set of all [[Natural numbers]] and $\mathbb{Z}$ denotes the set of all [[Integers]]. 
-	* In **roster notation**, where we list the items of the set explicitly within curly braces, for example $\{0, 2, 4, 6\}$.
+	* In **[[roster notation]]**, where we list the items of the set explicitly within curly braces, for example $\{0, 2, 4, 6\}$.
 	* In [[Set-builder notation|set-builder notation]], where we describe the set using rules for deciding what its elements are, for example $\{n \in \mathbb{N} \, : \, n \ \text{is even and} \ 0 \leq n < 7\}$. This set is equal to $\{0,2,4,6\}$ 
 * The word "distinct" in the definition indicates that **sets cannot contain duplicate items**. For example $\{2,2,2,2,2\}$ is not a properly-written set. This set is the same as $\{2\}$ and should be written this way, without duplicates. 
 ## Examples and Non-Examples
 
 - The set of all letters in the word "valley" could be written as $\{v,a,l,e,y\}$. The ordering of the elements doesn't matter; but again we do not allow duplicate items. 
 - There is no restriction on the types of objects allowed in a set. For example, $\{1, x, \{10,11\}, \emptyset\}$ is a set with four elements: The number $1$, the letter $x$, a two-element set, and the [[empty set]]. 
-- Sets can be either finite or infinite. Finite sets, if they are small, are often just written in roster notation. 
+- Sets can be either finite or infinite. Finite sets, if they are small, are often just written in [[roster notation]]. 
 - If the elements of a set have a pattern, we usually use dots ($\dots$) to indicate this. For example $\{3, 6, 9, 12, \dots, 96, 99\}$ is the set of all positive [[integers]] less than 100 that are multiples of 3. You could also write this set in [[Set-builder notation|set-builder notation]] as $\{a \in \mathbb{N} \, : \, 0 < a < 100 \ \text{and} \ a \% 3 = 0\}$.
 - Infinite sets that continue a pattern forever in the positive or negative $\infty$ direction also use dots. For example the set of all integer multiples of 10 is $\{\dots, -30, -20, -10, 0, 10, 20, 30, \dots\}$ 
 ## Resources 
