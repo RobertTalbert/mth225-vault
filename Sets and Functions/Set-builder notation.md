@@ -9,8 +9,8 @@ aliases: [set-builder notation, set builder notation]
 > [!tldr] Definition
 > **Set-builder notation** is a way of writing a [[Set|set]] where the set is defined by the rules that its elements must satisfy in order to be [[Set|elements]] of the set. Set-builder notation has two forms: 
 > 
-> - ("*Domain/filter*") The universal set from which elements are selected is given first, then a [[Predicate|predicate]] that filters out all but the elements of the set. 
-> - ("*Formula/domain*") A formula is given first, then a universal set on which the formula is applied. 
+> - ("*Domain/filter*") The [[universal set]] from which elements are selected is given first, then a [[Predicate|predicate]] that filters out all but the elements of the set. 
+> - ("*Formula/domain*") A formula is given first, then a [[universal set]] on which the formula is applied. 
 >   
 >   Examples of each form are below. 
 
@@ -19,7 +19,7 @@ Note:
 
 ## Examples 
 
-- Domain/filter: The set $\{ x \in \mathbb{N} \, : \, x^2 < 100 \}$ takes the natural numbers as its universal set (or "domain") and filters out everything except those natural numbers whose square is less than 100. In [[roster notation]], this set is equal to $\{0,1,2,3,4,5,6,7,8,9\}$. This way of writing a set is helpful when you are selecting elements from a larger group using rules that can be expressed through predicates. 
+- Domain/filter: The set $\{ x \in \mathbb{N} \, : \, x^2 < 100 \}$ takes the natural numbers as its [[universal set]] (or "domain") and filters out everything except those natural numbers whose square is less than 100. In [[roster notation]], this set is equal to $\{0,1,2,3,4,5,6,7,8,9\}$. This way of writing a set is helpful when you are selecting elements from a larger group using rules that can be expressed through predicates. 
 - Domain/filter: The set $\{a \in \mathbb{Z} \, : \, |a| \leq 1 \}$ is the set $\{-1, 0, 1\}$. 
 - Formula/domain: The set $\{x^2 \, : \, x \in \mathbb{N}\}$ takes the formula $x^2$ and "maps" it over the set of all natural numbers. The resulting set in [[roster notation]] is $\{0, 1, 4, 9, 16, 25, 36, 49, \dots \}$. This way of writing a set is helpful when the elements of the set can be easily expressed through mathematical computations or constructions. 
 - Formula/domain: The set $\{(t, t+1) \, : \ t \in \mathbb{N}\}$ takes each natural number and creates a pair or "tuple" with the natural number in the first coordinate and the next natural number in the second coordinate. It is equal to the set $\{(0,1), (1,2), (2,3), (3,4), \dots \}$. 
