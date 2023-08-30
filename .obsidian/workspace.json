@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometric sequence.md",
+                "file": "Recursion and Induction/Geometric sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,9 +178,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "648326dff836a8ba",
   "lastOpenFiles": [
-    "Geometric sequence.md",
+    "Recursion and Induction/Geometric sequence.md",
     "Untitled 1.md",
     "Recursion and Induction/Recurrence relation.md",
     "Assets/Images/triangular-visual.png",
