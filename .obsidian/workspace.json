@@ -116,23 +116,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8321c68b2e60740",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Recursion and Induction/Geometric sequence.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "00391fd10cede494",
             "type": "leaf",
             "state": {
@@ -193,11 +176,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "00391fd10cede494",
   "lastOpenFiles": [
-    "Recursion and Induction/Sequence.md",
+    "recursively.md",
     "Recursion and Induction/Geometric sequence.md",
-    "Recursion and Induction/Untitled.md",
+    "Recursion and Induction/Arithmetic sequence.md",
+    "Untitled 2.md",
+    "Recursion and Induction/Sequence.md",
     "Sets and Functions/Universal set.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
@@ -225,8 +210,6 @@
     "Counting/Weight of a bitstring.md",
     "Logic/Logical equivalence.md",
     "Logic/DeMorgan's Laws.md",
-    "Logic/Exclusive OR.md",
-    "Logic/Disjunction.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
