@@ -17,8 +17,8 @@ Notes:
 
 - The cardinality of the set $\{10, x, 4/5\}$ is $3$. 
 - The cardinality of the set $\{\emptyset, \{1,2,3\}, 4, \{5,6\}\}$ is $4$. 
-- The cardinality of $\{n \in \mathbb{N} \, : \, 24 \, \% \, n = 0 \}$ is 
-- The cardinality of $\{x^2 \, : \, x \in }
+- The cardinality of $\{n \in \mathbb{N} \, : \, 24 \, \% \, n = 0 \}$ is $8$. That's because this set that is given in [[Set-builder notation|set-builder notation]] would, in [[Roster notation|roster notation]], be $\{1, 2, 3, 4, 6, 8, 12, 24\}$. 
+- The cardinality of $\{x^2 \, : \, x \in \mathbb{N}\}$ is infinite. 
 
 ## Resources 
 
@@ -26,6 +26,3 @@ Notes:
 
 - Tutorial: [Cardinality](https://www.cuemath.com/algebra/cardinality/)
 - Video: [What is the cardinality of a set?](https://www.youtube.com/watch?v=SY0ixs-_IGc)
-
-
-## Practice 

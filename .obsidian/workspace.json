@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Cardinality.md",
+                "file": "Sets and Functions/Power set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Cardinality.md"
+                "file": "Sets and Functions/Power set.md"
               }
             }
           },
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Cardinality.md",
+                "file": "Sets and Functions/Power set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84a45363a8c996b4",
+  "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Sets and Functions/Power set.md",
     "Sets and Functions/Cardinality.md",
+    "Sets and Functions/Power set.md",
     "Recursion and Induction/Arithmetic sequence.md",
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
