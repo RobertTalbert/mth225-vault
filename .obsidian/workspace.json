@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Geometric sequence.md",
+                "file": "Sets and Functions/Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Geometric sequence.md",
+                "file": "Sets and Functions/Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Geometric sequence.md"
+                "file": "Sets and Functions/Cardinality.md"
               }
             }
           },
@@ -154,6 +154,23 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "20e7e6d27e4c4c44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sets and Functions/Cardinality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -176,11 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00391fd10cede494",
+  "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "recursively.md",
-    "Recursion and Induction/Geometric sequence.md",
     "Recursion and Induction/Arithmetic sequence.md",
+    "Sets and Functions/Cardinality.md",
+    "Recursion and Induction/Geometric sequence.md",
+    "recursively.md",
     "Untitled 2.md",
     "Recursion and Induction/Sequence.md",
     "Sets and Functions/Universal set.md",
@@ -209,7 +227,6 @@
     "README.md",
     "Counting/Weight of a bitstring.md",
     "Logic/Logical equivalence.md",
-    "Logic/DeMorgan's Laws.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
