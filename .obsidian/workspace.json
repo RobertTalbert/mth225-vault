@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Cardinality.md",
+                "file": "Sets and Functions/Power set.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Cardinality.md",
+                "file": "Sets and Functions/Power set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Cardinality.md"
+                "file": "Sets and Functions/Power set.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Cardinality.md",
+                "file": "Sets and Functions/Power set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,9 @@
   },
   "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Recursion and Induction/Arithmetic sequence.md",
     "Sets and Functions/Cardinality.md",
+    "Sets and Functions/Power set.md",
+    "Recursion and Induction/Arithmetic sequence.md",
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
     "Untitled 2.md",
@@ -226,7 +227,6 @@
     "Recursion and Induction/Fibonacci sequence.md",
     "README.md",
     "Counting/Weight of a bitstring.md",
-    "Logic/Logical equivalence.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
