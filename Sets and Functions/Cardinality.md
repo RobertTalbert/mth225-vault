@@ -16,13 +16,16 @@ Notes:
 ## Examples 
 
 - The cardinality of the set $\{10, x, 4/5\}$ is $3$. 
-- 
+- The cardinality of the set $\{\emptyset, \{1,2,3\}, 4, \{5,6\}\}$ is $4$. 
+- The cardinality of $\{n \in \mathbb{N} \, : \, 24 \, \% \, n = 0 \}$ is 
+- The cardinality of $\{x^2 \, : \, x \in }
 
 ## Resources 
 
-(video)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/606573917?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 3.5: Power set and cardinality"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Other resources: 
-- 
+- Tutorial: [Cardinality](https://www.cuemath.com/algebra/cardinality/)
+- Video: [What is the cardinality of a set?](https://www.youtube.com/watch?v=SY0ixs-_IGc)
+
 
 ## Practice 

@@ -19,13 +19,11 @@ Notes:
 - If $A = \{1,2\}$, then $\mathcal{P}(A) = \{\emptyset, \{1\}, \{2\}, \{1,2\} \}$. 
 - If $B$ = $\{x,y,z\}$ then $\mathcal{P}(B) = \{\emptyset, \{x\}, \{y\}, \{z\}, \{x,y\}, \{x,z\}, \{y,z\}, \{x,y,z\}\}$. 
 - The power set of the empty set $\mathcal{P}(\emptyset)$ is $\{ \emptyset \}$. That is, $\mathcal{P}(\emptyset)$ is not empty, but contains one element -- namely the empty set itself. 
-
+- The power set of an infinite set is difficult to write in [[Roster notation|roster notation]], so usually we don't. Instead it is merely understood that the power set contains all possible subsets of the base set. For example $\{1,2,3\} \in \mathcal{P}(\mathbb{Z})$. 
 
 ## Resources 
 
-(video)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/606573917?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 3.5: Power set and cardinality"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Other resources: 
-- 
-
-## Practice 
+-
