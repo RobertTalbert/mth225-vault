@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bec7c0353d2518f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Conditional statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b2c170a9ca22f05",
             "type": "leaf",
             "state": {
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Recursion and Induction/Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Conditional statements.md"
+                "file": "Recursion and Induction/Sequence.md"
               }
             }
           },
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Recursion and Induction/Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec7c0353d2518f",
+  "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
-    "Logic/Truth tables.md",
+    "Logic/Existential quantifier.md",
     "Logic/Conditional statements.md",
+    "Logic/Truth tables.md",
     "Sets and Functions/Power set.md",
     "Sets and Functions/Cardinality.md",
     "Recursion and Induction/Arithmetic sequence.md",
@@ -238,7 +227,6 @@
     "Logic/Inverse.md",
     "Sets and Functions/Empty set.md",
     "Sets and Functions/Domain.md",
-    "Recursion and Induction/Fibonacci sequence.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
