@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Power set.md",
+                "file": "Logic/Conditional statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Power set.md",
+                "file": "Logic/Conditional statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Power set.md"
+                "file": "Logic/Conditional statements.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Power set.md",
+                "file": "Logic/Conditional statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +207,8 @@
   },
   "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
-    "Sets and Functions/Cardinality.md",
     "Sets and Functions/Power set.md",
+    "Sets and Functions/Cardinality.md",
     "Recursion and Induction/Arithmetic sequence.md",
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
