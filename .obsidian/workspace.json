@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Existential quantifier.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Existential quantifier.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,8 @@
   },
   "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
-    "Recursion and Induction/Sequence.md",
     "Logic/Existential quantifier.md",
+    "Recursion and Induction/Sequence.md",
     "Logic/Conditional statements.md",
     "Logic/Truth tables.md",
     "Sets and Functions/Power set.md",

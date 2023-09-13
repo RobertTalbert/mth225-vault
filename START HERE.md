@@ -32,3 +32,5 @@ The articles in this vault are also available in the public GitHub repository: h
 > Responses to the form will be addressed once per week and changes will be reported in the changelog below. 
 
 ## Changelog
+### 2023-09-13
+- Typo corrections to the [[Truth tables|truth tables]] and [[Existential quantifier|existential quantifier]] articles 
