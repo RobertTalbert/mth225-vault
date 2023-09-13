@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "Logic/Existential quantifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "Logic/Existential quantifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Sequence.md"
+                "file": "Logic/Existential quantifier.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "Logic/Existential quantifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,7 @@
   },
   "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
+    "Recursion and Induction/Sequence.md",
     "Logic/Existential quantifier.md",
     "Logic/Conditional statements.md",
     "Logic/Truth tables.md",
@@ -204,7 +205,6 @@
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
     "Untitled 2.md",
-    "Recursion and Induction/Sequence.md",
     "Sets and Functions/Universal set.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
