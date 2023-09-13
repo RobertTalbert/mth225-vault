@@ -15,9 +15,10 @@ Notes:
 
 [[Negation]] ("not"): 
 
-| $P$ | $\neg P$ | 
-| :--: | :--: | 
-| True | False | 
+|  $P$  | $\neg P$ |
+|:-----:|:--------:|
+| True  |  False   |
+| False |        True  |
 
 [[Conjunction]] ("and"): 
 
