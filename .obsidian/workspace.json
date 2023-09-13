@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Logic/Truth tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Logic/Truth tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Conditional statements.md"
+                "file": "Logic/Truth tables.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Conditional statements.md",
+                "file": "Logic/Truth tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,7 @@
   },
   "active": "4bec7c0353d2518f",
   "lastOpenFiles": [
+    "Logic/Conditional statements.md",
     "Sets and Functions/Power set.md",
     "Sets and Functions/Cardinality.md",
     "Recursion and Induction/Arithmetic sequence.md",
@@ -238,7 +239,6 @@
     "Sets and Functions/Domain.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "README.md",
-    "Counting/Weight of a bitstring.md",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
     "Untitled.jpg",
