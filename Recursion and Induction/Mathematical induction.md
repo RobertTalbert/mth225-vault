@@ -29,9 +29,14 @@ By playing with examples, we see this function returns the sequence $3, 6, 12, 2
 
 Here is an example of just setting up the framework for a proof of this conjecture: 
 
-First of all, the predicate $P(n)$ in this case is the claim that "$f(n)$ as computed by the Python code is equal to $3 \cdot 2^n$". 
-
-**Base case:** We need to demonstrate directly that the predicate is true in the smallest possible case, which here is $n=0$. Well, on the one hand $f(0)$ is 3 because the Python code explicitly says to return 3 when the input
+> [!NOTE] Framework for an induction proof
+> First of all, the predicate $P(n)$ in this case is the claim that "$f(n)$ as computed by the Python code is equal to $3 \cdot 2^n$". 
+> 
+> **Base case:** We need to demonstrate directly that the predicate is true in the smallest possible case, which here is $n=0$. Well, on the one hand $f(0)$ is 3 because the Python code explicitly says to return 3 when the input is 0. On the other hand $3 \cdot 2^0 = 3 \cdot 1 = 3$. Since the two are equal, the predicate is true in the base case. 
+> 
+> **Inductive hypothesis:** Assume that $f(k) = 3 \cdot 2^k$ for some natural number. 
+> 
+> **Inductive step:** We would now need to prove that $f(k+1) = 3 \cdot 2^{k+1}$. 
 
 
 Here are two complete examples of proof by mathematical induction: 
@@ -50,6 +55,14 @@ Here are two complete examples of proof by mathematical induction:
 > Now we already assumed that $k^3 + 2k$ was a multiple of 3, and clearly the last three terms are multiples of 3 because 3 is a factor on each. Therefore $(k+1)^3 + 2(k+1)$ is a sum of multiples of 3, which makes the entire expression a multiple of 3. 
 > 
 > That ends the proof.   
+
+> [!NOTE] **Claim:** The sum $1 + 2 + 3 + \dots + n$ is equal to $\dfrac{n(n+1)}{2}$ for all $n \geq 1$. 
+> 
+> **Proof:** First, to prove the base case, note the smallest case for which this statement is claimed to be true is $n=1$. In this case, the sum has only one term and is equal to $1$. On the other hand $\dfrac{1(1+1)}{2} = \frac{2}{2} = 1$. Since these are equal, the base case holds. 
+> 
+> Now assume the induction hypothesis: $1 + 2 
+
+N
 
 ## Resources 
 
