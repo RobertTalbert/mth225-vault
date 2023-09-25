@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complement.md",
+                "file": "Sets and Functions/Complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complement.md",
+                "file": "Sets and Functions/Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complement.md"
+                "file": "Sets and Functions/Complement.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complement.md",
+                "file": "Sets and Functions/Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,8 @@
   "active": "885620856f401b03",
   "lastOpenFiles": [
     "Sets and Functions/Intersection.md",
-    "Complement.md",
+    "Sets and Functions/Complement.md",
+    "Assets/Images/complement.png",
     "Sets and Functions/Set difference.md",
     "Assets/Images/set difference.png",
     "Sets and Functions/Subset.md",
@@ -262,7 +263,6 @@
     "Assets/Images/Pasted image 20230718094622.png",
     "Pasted image 20230828102253.png",
     "Assets/Images/graphview.jpg",
-    "binary-division.jpg",
     "Assets/Images",
     "Assets/Templates",
     "Counting",
