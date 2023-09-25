@@ -1,5 +1,5 @@
 ---
-aliases: [difference]
+aliases: [difference, set difference]
 --- 
 
 #sets-functions 

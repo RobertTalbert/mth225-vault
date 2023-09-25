@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Set difference.md",
+                "file": "Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Set difference.md"
+                "file": "Complement.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Set difference.md",
+                "file": "Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,13 +225,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "416d66635fb0332a",
+  "active": "885620856f401b03",
   "lastOpenFiles": [
     "Sets and Functions/Intersection.md",
+    "Complement.md",
     "Sets and Functions/Set difference.md",
     "Assets/Images/set difference.png",
     "Sets and Functions/Subset.md",
-    "Complement.md",
     "Sets and Functions/Universal set.md",
     "START HERE.md",
     "Sets and Functions/Union.md",
