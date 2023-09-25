@@ -67,13 +67,15 @@ Here are two complete examples of proof by mathematical induction:
 > On the left, we have $1 + 2 + 3 + \cdots k + (k+1)$. If we group the first $k$ terms together we have $(1 + 2 + 3 + \cdots + k) + (k+1)$ and the inductive hypothesis says that the sum inside the parentheses is $\frac{k(k+1)}{2}$. Therefore the left side is $\frac{k(k+1)}{2} + k+1$. Using some algebra, this is equal to $\dfrac{k^2 + k}{2} + \dfrac{2k+2}{2}$. Adding the fractions gives $\dfrac{k^2 + 3k + 2}{2}$. Factoring the numerator gives $\dfrac{(k+1)(k+2)}{2}$. And this is equal to $\dfrac{(k+1)(k+1+1)}{2}$ which is what we wanted to show. 
 > 
 
-
-
 ## Resources 
 
-(video)
+* [Text/web tutorial on induction](https://hackmd.io/QtgTZTnRQkeQYoe8BObF4A?view)
 
-Other resources: 
-- 
+Below are several induction videos made for MTH 210 (Communicating in Mathematics) at Grand Valley State University. They are dated but possibly useful. 
 
-## Practice 
+- [The traveler and the strange staircase](https://www.youtube.com/watch?v=9LwAtbXSB3A&list=PL2419488168AE7001&index=51&pp=iAQB)
+- [Mathematical induction part 1](https://www.youtube.com/watch?v=JTj6ID4-084&list=PL2419488168AE7001&index=52&pp=iAQB)
+- [Mathematical induction part 2](https://www.youtube.com/watch?v=1H0gg3fMYVA&list=PL2419488168AE7001&index=53&pp=iAQB)
+- [Mathematical induction Example with integer division](https://www.youtube.com/watch?v=ayX6PxB3z40&list=PL2419488168AE7001&index=54&pp=iAQB)
+- [Mathematical induction Example with an inequality](https://www.youtube.com/watch?v=upzROTcbAnk&list=PL2419488168AE7001&index=55&pp=iAQB)
+- [Mathematical induction Example from Calculus](https://www.youtube.com/watch?v=GQ9fUZxmN8I&list=PL2419488168AE7001&index=56&pp=iAQB)
