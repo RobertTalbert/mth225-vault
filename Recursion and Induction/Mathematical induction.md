@@ -60,9 +60,14 @@ Here are two complete examples of proof by mathematical induction:
 > 
 > **Proof:** First, to prove the base case, note the smallest case for which this statement is claimed to be true is $n=1$. In this case, the sum has only one term and is equal to $1$. On the other hand $\dfrac{1(1+1)}{2} = \frac{2}{2} = 1$. Since these are equal, the base case holds. 
 > 
-> Now assume the induction hypothesis: $1 + 2 
+> Now assume the induction hypothesis: $1 + 2 + 3 + \cdots + k = \dfrac{k(k+1)}{2}$ for some $k$. 
+> 
+> We want to prove that $1 + 2 + 3 + \cdots k + (k+1) = \dfrac{(k+1)(k+1+1)}{2}$. 
+> 
+> On the left, we have $1 + 2 + 3 + \cdots k + (k+1)$. If we group the first $k$ terms together we have $(1 + 2 + 3 + \cdots + k) + (k+1)$ and the inductive hypothesis says that the sum inside the parentheses is $\frac{k(k+1)}{2}$. Therefore the left side is $\frac{k(k+1)}{2} + k+1$. Using some algebra, this is equal to $\dfrac{k^2 + k}{2} + \dfrac{2k+2}{2}$. Adding the fractions gives $\dfrac{k^2 + 3k + 2}{2}$. Factoring the numerator gives $\dfrac{(k+1)(k+2)}{2}$. And this is equal to $\dfrac{(k+1)(k+1+1)}{2}$ which is what we wanted to show. 
+> 
 
-N
+
 
 ## Resources 
 
