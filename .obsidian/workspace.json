@@ -18,65 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "885620856f401b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Complement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "601f2350b899c01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Intersection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d209b120409d75de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Universal set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20452327f598bdea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "416d66635fb0332a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Set difference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Complement.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Complement.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -183,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Complement.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,9 +168,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "885620856f401b03",
+  "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
+    "Untitled.md",
     "START HERE.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "Sets and Functions/Complement.md",
     "Sets and Functions/Intersection.md",
     "Assets/Images/complement.png",
@@ -241,7 +187,6 @@
     "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
     "Computer Arithmetic/Natural numbers.md",
-    "Untitled 3.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Logic/Existential quantifier.md",
     "Recursion and Induction/Sequence.md",
@@ -252,7 +197,6 @@
     "Recursion and Induction/Arithmetic sequence.md",
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
-    "Untitled 2.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Sets and Functions/Roster notation.md",
