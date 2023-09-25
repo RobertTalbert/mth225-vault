@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Intersection.md",
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "885620856f401b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Intersection.md",
+                "file": "Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Intersection.md"
+                "file": "Complement.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Intersection.md",
+                "file": "Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +205,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b2c170a9ca22f05",
+  "active": "885620856f401b03",
   "lastOpenFiles": [
-    "Sets and Functions/Union.md",
+    "START HERE.md",
+    "Complement.md",
     "Sets and Functions/Intersection.md",
+    "Sets and Functions/Union.md",
     "Assets/Images/intersection.png",
     "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230925103719.png",
@@ -204,7 +219,6 @@
     "Computer Arithmetic/Natural numbers.md",
     "Untitled 3.md",
     "Recursion and Induction/Outline for recursion and induction.md",
-    "START HERE.md",
     "Logic/Existential quantifier.md",
     "Recursion and Induction/Sequence.md",
     "Logic/Conditional statements.md",
