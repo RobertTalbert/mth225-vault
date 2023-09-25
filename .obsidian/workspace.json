@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "601f2350b899c01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intersection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa10ed69b1040b09",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Union.md",
+                "file": "Intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Union.md"
+                "file": "Intersection.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Union.md",
+                "file": "Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b2c170a9ca22f05",
+  "active": "601f2350b899c01b",
   "lastOpenFiles": [
-    "Sets and Functions/Subset.md",
     "Sets and Functions/Union.md",
+    "Intersection.md",
+    "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
