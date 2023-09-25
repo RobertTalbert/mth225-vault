@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set difference.md",
+                "file": "Sets and Functions/Set difference.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set difference.md",
+                "file": "Sets and Functions/Set difference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set difference.md"
+                "file": "Sets and Functions/Set difference.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set difference.md",
+                "file": "Sets and Functions/Set difference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,12 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "648326dff836a8ba",
+  "active": "416d66635fb0332a",
   "lastOpenFiles": [
-    "set difference.png",
     "Sets and Functions/Intersection.md",
+    "Sets and Functions/Set difference.md",
+    "Assets/Images/set difference.png",
     "Sets and Functions/Subset.md",
-    "Set difference.md",
     "Complement.md",
     "Sets and Functions/Universal set.md",
     "START HERE.md",
@@ -263,7 +263,6 @@
     "Pasted image 20230828102253.png",
     "Assets/Images/graphview.jpg",
     "binary-division.jpg",
-    "Untitled.jpg",
     "Assets/Images",
     "Assets/Templates",
     "Counting",
