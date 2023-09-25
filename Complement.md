@@ -2,12 +2,11 @@
 aliases: [complement]
 --- 
 
-
-
+#sets-functions 
 ## Definition 
 
 > [!tldr] Definition
-> Contents
+> If $A$ is a set inside a **
 
 (blurb)
 

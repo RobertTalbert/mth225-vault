@@ -54,9 +54,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d209b120409d75de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets and Functions/Universal set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20452327f598bdea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "416d66635fb0332a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set difference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complement.md",
+                "file": "Set difference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complement.md"
+                "file": "Set difference.md"
               }
             }
           },
@@ -163,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complement.md",
+                "file": "Set difference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "885620856f401b03",
+  "active": "416d66635fb0332a",
   "lastOpenFiles": [
-    "START HERE.md",
+    "Set difference.md",
     "Complement.md",
+    "Sets and Functions/Universal set.md",
+    "START HERE.md",
     "Sets and Functions/Intersection.md",
     "Sets and Functions/Union.md",
     "Assets/Images/intersection.png",
@@ -229,14 +263,12 @@
     "Recursion and Induction/Geometric sequence.md",
     "recursively.md",
     "Untitled 2.md",
-    "Sets and Functions/Universal set.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Sets and Functions/Roster notation.md",
     "Sets and Functions/Set-builder notation.md",
     "Sets and Functions/Set.md",
     "Untitled.md",
-    "Recursion and Induction/Recurrence relation.md",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/simple-function-diagram.png",
     "Assets/Images/Pasted image 20230718094622.png",
