@@ -25,7 +25,7 @@ def f(n):
 	else: return 2*f(n-1)
 ```
 
-By playing with examples, we see this function returns the sequence $3, 6, 12, 24, 48, \dots$. So we might conjecture that **For all natural numbers $n$, $f(n) = 3 \cdot 2^n$.** 
+By playing with examples, we see this function returns the [[sequence]] $3, 6, 12, 24, 48, \dots$. So we might conjecture that **For all natural numbers $n$, $f(n) = 3 \cdot 2^n$.** 
 
 Here is an example of just setting up the framework for a proof of this conjecture: 
 

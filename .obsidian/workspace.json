@@ -181,7 +181,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -195,11 +195,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b2c170a9ca22f05",
+  "active": "20e7e6d27e4c4c44",
   "lastOpenFiles": [
     "Computer Arithmetic/Natural numbers.md",
     "Recursion and Induction/Mathematical induction.md",
