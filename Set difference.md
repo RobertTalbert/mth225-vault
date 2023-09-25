@@ -11,6 +11,7 @@ aliases: [difference]
 > In [[Set-builder notation|set-builder notation]], $A \setminus B = \{ x \, : \, x \in A \ \text{and} \ x \not \in B\}$. 
 
 A visual representation of $A \setminus B$ is this Venn diagram: 
+![[set difference.png]]
 ## Examples and Non-Examples
 
 ## Resources 
