@@ -20,7 +20,7 @@ A visual representation of $A \cup B$ is this Venn diagram:
 
 ## Examples 
 - If $A = \{1,2,3,4\}$ and $B = \{1,3,5,7,9\}$ then $A \cup B = \{1,2,3,4,5,7,9\}$. Note that although $3$ appears in both sets, we do not list it twice in the union -- because no duplicates are allowed inside a set. 
-- If $A = \{n \, : \, n \ \text{is odd and greater than 3}\}$ and $B =  \{n \, : \, n \ \text{is even and greater than 3}\}$ then $A \cup B = \{4,5,6,7,8,\dots\}$. 
+- If $A = \{n \in \mathbb{N} \, : \, n \ \text{is odd and greater than 3}\}$ and $B =  \{n \in \mathbb{N}  \, : \, n \ \text{is even and greater than 3}\}$ then $A \cup B = \{4,5,6,7,8,\dots\}$. 
 
 ## Resources 
 <iframe src="https://player.vimeo.com/video/606600971?h=e256db4c8a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intersection.md",
+                "file": "Sets and Functions/Intersection.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intersection.md",
+                "file": "Sets and Functions/Intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intersection.md"
+                "file": "Sets and Functions/Intersection.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intersection.md",
+                "file": "Sets and Functions/Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,8 @@
   "active": "601f2350b899c01b",
   "lastOpenFiles": [
     "Sets and Functions/Union.md",
-    "Intersection.md",
+    "Sets and Functions/Intersection.md",
+    "Assets/Images/intersection.png",
     "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Recursion and Induction/Recursion.md",
@@ -222,7 +223,6 @@
     "Sets and Functions/Set.md",
     "Untitled.md",
     "Recursion and Induction/Recurrence relation.md",
-    "Recursion and Induction/Closed formula.md",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/simple-function-diagram.png",
     "Assets/Images/Pasted image 20230718094622.png",
@@ -236,7 +236,6 @@
     "Recursion and Induction",
     "Sets and Functions",
     "Computer Arithmetic",
-    "Assets/Images/mth225-logo.png",
     "Assets",
     "untitled folder",
     "Test canvas.canvas",
