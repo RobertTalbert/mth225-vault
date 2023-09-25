@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Mathematical induction.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Mathematical induction.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Mathematical induction.md"
+                "file": "Recursion and Induction/Recursion.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Mathematical induction.md",
+                "file": "Recursion and Induction/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20e7e6d27e4c4c44",
+  "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
-    "Computer Arithmetic/Natural numbers.md",
     "Recursion and Induction/Mathematical induction.md",
+    "Computer Arithmetic/Natural numbers.md",
     "Untitled 3.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "START HERE.md",

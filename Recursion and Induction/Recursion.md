@@ -66,7 +66,8 @@ Many other examples of recursion are found throughout mathematics and computing,
 
 ## Resources 
 
-(video)
+<iframe src="https://gvsu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=568ac590-eb95-4fb6-b329-b08100f1ef15&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 
 Other resources: 
 - Video: [Recursion simply explained with code examples](https://www.youtube.com/watch?v=m1Fjdnj_Mds)
