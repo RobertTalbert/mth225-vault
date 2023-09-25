@@ -18,10 +18,23 @@ aliases: [induction, mathematical induction, Induction, inductive hypothesis]
 
 ## Examples 
 
+Consider the Python function
+```python
+def f(n): 
+	if n == 0: return 3
+	else: return 2*f(n-1)
+```
+
+By playing with examples, we see this function returns the sequence $3, 6, 12, 24, 48, \dots$. So we might conjecture that **For all natural numbers $n$, $f(n) = 3 \cdot 2^n$.** 
+
+Here is an example of just setting up the framework for a proof of this conjecture: 
+
+First of all, the predicate $P(n)$ in this case is the claim that "$f(n)$ as computed by the Python code is equal to $3 \cdot 2^n$". 
+
+**Base case:** We need to demonstrate directly that the predicate is true in the smallest possible case, which here is $n=0$. Well, on the one hand $f(0)$ is 3 because the Python code explicitly says to return 3 when the input
 
 
-
-Here are two examples of proof by mathematical induction: 
+Here are two complete examples of proof by mathematical induction: 
 
 > [!NOTE] **Claim:** For all natural numbers $n$, the number $n^3 + 2n$ is divisible by $3$. 
 > 
