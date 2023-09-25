@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Union.md",
+                "file": "Sets and Functions/Intersection.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "601f2350b899c01b",
+  "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
     "Sets and Functions/Union.md",
     "Sets and Functions/Intersection.md",
