@@ -13,55 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "Sets and Functions/Union.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d383e977e6f06f66",
+            "id": "aa10ed69b1040b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Set-builder notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a6e0237c83cc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursion and Induction/Geometric sequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a45363a8c996b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Cardinality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa1386ff45c0df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Arithmetic/Natural numbers.md",
+                "file": "Sets and Functions/Subset.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "Sets and Functions/Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recursion.md"
+                "file": "Sets and Functions/Union.md"
               }
             }
           },
@@ -174,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recursion.md",
+                "file": "Sets and Functions/Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +159,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,6 +181,10 @@
   },
   "active": "6b2c170a9ca22f05",
   "lastOpenFiles": [
+    "Pasted image 20230925103719.png",
+    "Sets and Functions/Subset.md",
+    "Sets and Functions/Union.md",
+    "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
     "Computer Arithmetic/Natural numbers.md",
     "Untitled 3.md",
@@ -242,12 +209,8 @@
     "Untitled.md",
     "Recursion and Induction/Recurrence relation.md",
     "Recursion and Induction/Closed formula.md",
-    "Untitled 1.md",
     "Assets/Images/triangular-visual.png",
-    "Sets and Functions/Subset.md",
-    "Sets and Functions/Codomain.md",
     "Assets/Images/simple-function-diagram.png",
-    "Sets and Functions/Function.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Pasted image 20230828102253.png",
     "Assets/Images/graphview.jpg",
