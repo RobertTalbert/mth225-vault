@@ -13,7 +13,15 @@ aliases: [union]
 
 A visual representation of $A \cup B$ is this Venn diagram: 
 ![[Pasted image 20230925103719.png]]
-## Examples and Non-Examples
+
+
+**Notes:**
+- If $A \subseteq B$ (that is, $A$ is a [[Subset|subset]] of $B$) then $A \cup B = B$. 
+## Examples 
+- If $A = \{1,2,3,4\}$ and $B = \{1,3,5,7,9\}$ then $A \cup B = \{1,2,3,4,5,7,9\}$. Note that although $3$ appears in both sets, we do not list it twice in the union -- because no duplicates are allowed inside a set. 
+- If $A = \{n \, : \, }
+
+
 
 ## Resources 
 
