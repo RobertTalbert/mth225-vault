@@ -11,8 +11,12 @@
             "id": "06efb20e139089eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sets and Functions/Cartesian product.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sets and Functions/Cartesian product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sets and Functions/Cartesian product.md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sets and Functions/Cartesian product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +170,7 @@
   },
   "active": "06efb20e139089eb",
   "lastOpenFiles": [
+    "Sets and Functions/Cartesian product.md",
     "START HERE.md",
     "Untitled.md",
     "Untitled 3.md",
@@ -193,7 +202,6 @@
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Sets and Functions/Roster notation.md",
     "Sets and Functions/Set-builder notation.md",
-    "Sets and Functions/Set.md",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/simple-function-diagram.png",
     "Assets/Images/Pasted image 20230718094622.png",
