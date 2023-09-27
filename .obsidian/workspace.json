@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sets and Functions/Symmetric difference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c4ac41e8c4b4128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sets and Functions/Cartesian product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11901413ab1d285e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets and Functions/Union.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Cartesian product.md",
+                "file": "Sets and Functions/Symmetric difference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Cartesian product.md"
+                "file": "Sets and Functions/Symmetric difference.md"
               }
             }
           },
@@ -126,14 +150,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Cartesian product.md",
+                "file": "Sets and Functions/Symmetric difference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -170,6 +194,9 @@
   },
   "active": "06efb20e139089eb",
   "lastOpenFiles": [
+    "Pasted image 20230927084845.png",
+    "Sets and Functions/Union.md",
+    "Sets and Functions/Symmetric difference.md",
     "Sets and Functions/Cartesian product.md",
     "START HERE.md",
     "Untitled.md",
@@ -182,7 +209,6 @@
     "Assets/Images/set difference.png",
     "Sets and Functions/Subset.md",
     "Sets and Functions/Universal set.md",
-    "Sets and Functions/Union.md",
     "Assets/Images/intersection.png",
     "Assets/Images/Pasted image 20230925103719.png",
     "Recursion and Induction/Recursion.md",
@@ -200,8 +226,6 @@
     "recursively.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
-    "Sets and Functions/Roster notation.md",
-    "Sets and Functions/Set-builder notation.md",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/simple-function-diagram.png",
     "Assets/Images/Pasted image 20230718094622.png",

@@ -41,6 +41,8 @@ You can practice this concept for finite sets using Python's list data structure
 3. Then enter in $A$ and $B$ as Python lists in the following code and run it. Check the results against your work by hand. 
 
 ```python
-A = # Put your set A here as a list, using the [ ] delimiterse
-B = # Put your set B here
+A = # Put your set A here as a list, using the [ ] delimiters
+B = # Put your set B here as a list, using the [ ] delimiters
+product = [(a,b) for a in A for b in B]
+print(product)
 ```
