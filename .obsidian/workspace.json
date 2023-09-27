@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Symmetric difference.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Symmetric difference.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Symmetric difference.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Symmetric difference.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,10 +194,10 @@
   },
   "active": "06efb20e139089eb",
   "lastOpenFiles": [
-    "Sets and Functions/Union.md",
     "Sets and Functions/Symmetric difference.md",
-    "Pasted image 20230927084845.png",
     "Sets and Functions/Cartesian product.md",
+    "Sets and Functions/Union.md",
+    "Assets/Images/symmetric difference.png",
     "START HERE.md",
     "Untitled.md",
     "Untitled 3.md",
