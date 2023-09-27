@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Domain.md",
+                "file": "Sets and Functions/Range.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Domain.md",
+                "file": "Sets and Functions/Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Domain.md"
+                "file": "Sets and Functions/Range.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Domain.md",
+                "file": "Sets and Functions/Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,6 +193,8 @@
   },
   "active": "06efb20e139089eb",
   "lastOpenFiles": [
+    "Sets and Functions/Codomain.md",
+    "Sets and Functions/Domain.md",
     "Sets and Functions/Function.md",
     "START HERE.md",
     "Sets and Functions/Symmetric difference.md",
@@ -223,8 +224,6 @@
     "Sets and Functions/Power set.md",
     "Sets and Functions/Cardinality.md",
     "Recursion and Induction/Arithmetic sequence.md",
-    "Recursion and Induction/Geometric sequence.md",
-    "recursively.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
