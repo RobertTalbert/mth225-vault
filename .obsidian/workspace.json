@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sets and Functions/Injective.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sets and Functions/Injective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sets and Functions/Injective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Sets and Functions/Injective.md"
               }
             }
           },
@@ -196,6 +196,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "54479bb085723b62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -221,9 +231,10 @@
   },
   "active": "988381297bd7813c",
   "lastOpenFiles": [
+    "README.md",
+    "Sets and Functions/Injective.md",
     "Recursion and Induction/Recursion.md",
     "START HERE.md",
-    "README.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "Recursion and Induction/Untitled.md",
     "Recursion and Induction/Recurrence relation.md",
@@ -246,7 +257,6 @@
     "Logic/Biconditional statement.md",
     "Logic/Atomic and molecular propositions.md",
     "connective.md",
-    "Logic/Connectives.md",
     "Assets/Images/graphview.jpg",
     "Assets/Images/binary-division.jpg",
     "binary-division.jpg",
