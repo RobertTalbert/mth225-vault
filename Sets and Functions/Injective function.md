@@ -1,5 +1,5 @@
 ---
-aliases: [injective, injection, one-to-one]
+aliases: [injective, injection, one-to-one, Injective]
 --- 
 
 #sets-functions 
