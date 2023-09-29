@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06efb20e139089eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Range.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c4ac41e8c4b4128",
             "type": "leaf",
             "state": {
@@ -109,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Range.md",
+                "file": "Sets and Functions/Cartesian product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Range.md"
+                "file": "Sets and Functions/Cartesian product.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Range.md",
+                "file": "Sets and Functions/Cartesian product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "06efb20e139089eb",
+  "active": "9c4ac41e8c4b4128",
   "lastOpenFiles": [
+    "Sets and Functions/Range.md",
     "Sets and Functions/Codomain.md",
     "Sets and Functions/Domain.md",
     "Sets and Functions/Function.md",
@@ -223,7 +212,6 @@
     "Logic/Truth tables.md",
     "Sets and Functions/Power set.md",
     "Sets and Functions/Cardinality.md",
-    "Recursion and Induction/Arithmetic sequence.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
