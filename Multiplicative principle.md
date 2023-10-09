@@ -10,13 +10,13 @@ aliases: [multiplicative principle, multiplication principle, Multiplication Pri
 > The **multiplicative principle** of counting states that if an event $A$ can occur in $m$ ways, and another event $B$ can occur in $n$ different ways, then the number of ways for $A$ and $B$ to happen simultaneously is $m \cdot n$. 
 
 Notes: 
-* The multiplicative principle is used when counting the number of outcomes of a process where the steps in the process are independent of each other
-*
+* The multiplicative principle is used when counting the number of outcomes of a process where the steps in the process are independent of each other and we know the number of outcomes of each step. 
+* The multiplicative principle can be extended to more than two events. 
 
 ## Examples and Non-Examples
 
-- Suppose a university's student ID number system assigns students a random five-digit number. How many ID numbers end in an odd number (1,3,5,7,9)? There are five odd numbers that could work as the ending digit, and only one can actually happen. So we can count the number of ways the ID could end in a 1, the number of ways it could end in a 3, and so on. For each possible odd ending, there are 10000 possible choices for the first four digits (for example 00001, 00011, 00021, ..., 99991). So the total number of options is $5 \times 10000 = 50,000$. (Note this makes sense, because the total number of ID's possible at all is 100,000 and exactly half of those will end in an odd number.)
-- Using the same student ID setup, how many ID numbers either start with an odd number *or* end in an odd number? The Additive Principle doesn't apply here, because the events are not [[Intersection|disjoint]]; it's possible for an ID number to both start and end in an odd number, like 58831. So we need the [[Principle of Inclusion and Exclusion]] for this. 
+- (*The "license plate" problem*) The license plate numbers in a certain state consist of three letters (A through Z) and three digits (0 through 9). How many possible license plate numbers are there? Think of choosing a license plate number as a six-step process: Choose the first letter, then the second, then the third; then choose the first digit, then the second, then the third. There are $26$ ways to choose each letter (and the choice of a letter in one step doesn't influence the choice in the next step); and there are $10$ ways to choose each digit. So the total number of license plate numbers is $26 \cdot 26 \cdot 26 \cdot 10 \cdot 10 \cdot 10 = 17, 576, 000$. 
+- What if no duplicates of either letters or digits were allowed? It's still a six-step process. There are 26 choices for the first letter, now 25 for the second, and 24 for the third; likewise there are 10 choices for the first digit, now 9 for the second, and 8 for the third. The total number of license plate numbers is therefore $26 \
 
 
 ## Resources 
