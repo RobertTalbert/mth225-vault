@@ -17,6 +17,11 @@ Notes:
 
 ## Examples and Non-Examples
 
+- How many natural numbers between 1 and 1000 (including 1 and 1000) are either even, or are multiples of 3? First, note that the [[Additive principle]] doesn't apply directly here since being even and being a multiple of 3 are not [[Intersection|disjoint]] events: It's possible for a number to be both even and a multiple of 3, for example the numbers 6 or 30. So the answer to the question is: 
+
+> (The count of even numbers from 1 to 1000) + (The count of multiples of 3 from 1 to 1000) - (The count of numbers that are both even and multiples of 3 from 1 to 1000)
+
+Exactly half of the numbers from 1 to 1000 are even, so there are 500 of those. 
 
 
 ## Resources 
