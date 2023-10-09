@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,11 +206,12 @@
   },
   "active": "c6e4d92d8ad458bf",
   "lastOpenFiles": [
-    "Combinatorics/Multiplicative principle.md",
-    "Combinatorics/Principle of Inclusion and Exclusion.md",
-    "Combinatorics/Additive principle.md",
     "Untitled 1.md",
     "Untitled.md",
+    "START HERE.md",
+    "Combinatorics/Principle of Inclusion and Exclusion.md",
+    "Combinatorics/Multiplicative principle.md",
+    "Combinatorics/Additive principle.md",
     "Combinatorics/Outline for Counting.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
@@ -220,7 +221,6 @@
     "Sets and Functions/Codomain.md",
     "Sets and Functions/Domain.md",
     "Sets and Functions/Function.md",
-    "START HERE.md",
     "Sets and Functions/Symmetric difference.md",
     "Sets and Functions/Union.md",
     "Assets/Images/symmetric difference.png",
