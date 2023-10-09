@@ -11,9 +11,11 @@
             "id": "9c4ac41e8c4b4128",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/Pasted image 20230925103719.png"
+                "file": "Counting/Additive principle.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Pasted image 20230925103719.png",
+                "file": "Counting/Additive principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Pasted image 20230925103719.png"
+                "file": "Counting/Additive principle.md"
               }
             }
           },
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Pasted image 20230925103719.png",
+                "file": "Counting/Additive principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +181,10 @@
   },
   "active": "9c4ac41e8c4b4128",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Counting/Additive principle.md",
+    "Counting/Outline for Counting.md",
+    "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
     "Sets and Functions/Injective function.md",
     "Sets and Functions/Cartesian product.md",
@@ -190,7 +196,6 @@
     "Sets and Functions/Symmetric difference.md",
     "Sets and Functions/Union.md",
     "Assets/Images/symmetric difference.png",
-    "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Sets and Functions/Complement.md",
@@ -201,7 +206,6 @@
     "Sets and Functions/Subset.md",
     "Sets and Functions/Universal set.md",
     "Assets/Images/intersection.png",
-    "Assets/Images/Pasted image 20230925103719.png",
     "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
     "Computer Arithmetic/Natural numbers.md",
@@ -209,7 +213,6 @@
     "Logic/Existential quantifier.md",
     "Recursion and Induction/Sequence.md",
     "Logic/Conditional statements.md",
-    "Logic/Truth tables.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
