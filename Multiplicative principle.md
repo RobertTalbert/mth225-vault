@@ -1,5 +1,5 @@
 ---
-aliases: [additive principle, addition principle, Addition Principle]
+aliases: [multiplicative principle, multiplication principle, Multiplication Principle]
 --- 
 
 #combinatorics
@@ -7,11 +7,11 @@ aliases: [additive principle, addition principle, Addition Principle]
 ## Definition 
 
 > [!tldr] Definition
-> The **additive principle** of counting states that if an event $A$ can occur in $m$ ways, and an event $B$ can occur in $n$ ways, and there is no way for $A$ and $B$ to happen at the same time, then the event "$A$ or $B$" can occur in $m+n$ ways. 
+> The **multiplicative principle** of counting states that if an event $A$ can occur in $m$ ways, and another event $B$ can occur in $n$ different ways, then the number of ways for $A$ and $B$ to happen simultaneously is $m \cdot n$. 
 
 Notes: 
-* If it *is* possible for $A$ and $B$ to occur at the same time, the number of ways that the event "$A$ or $B$" can happen is given by the [[Principle of Inclusion and Exclusion]]. 
-* The Additive Principle can be extended to more than two events.For example, if $A$, $B$, and $C$ are events and no two of them can happen at the same time, and the number of outcomes of each are $m$, $n$, and $p$, then the number of ways $A$ or $B$ or $C$ could occur is $m + n + p$. 
+* The multiplicative principle is used when counting the number of outcomes of a process where the steps in the process are independent of each other
+*
 
 ## Examples and Non-Examples
 
