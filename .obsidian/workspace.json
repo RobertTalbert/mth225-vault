@@ -35,8 +35,12 @@
             "id": "e5f43a0b1894bb54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Combinatorics/Multiplicative principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -52,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md",
+                "file": "Combinatorics/Multiplicative principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md"
+                "file": "Combinatorics/Multiplicative principle.md"
               }
             }
           },
@@ -159,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Principle of Inclusion and Exclusion.md",
+                "file": "Combinatorics/Multiplicative principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6e4d92d8ad458bf",
+  "active": "e5f43a0b1894bb54",
   "lastOpenFiles": [
-    "Combinatorics/Additive principle.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
+    "Combinatorics/Additive principle.md",
     "Untitled 1.md",
     "Combinatorics/Multiplicative principle.md",
     "Untitled.md",
