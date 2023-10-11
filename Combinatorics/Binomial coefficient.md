@@ -12,6 +12,7 @@ aliases: [binomial coefficient]
 **Notes:**
 
 - Please note, $\binom{n}{k}$ is *not* a fraction. For example $\binom{10}{2}$ does not equal $5$. 
+- The binomial coefficient is sometimes notated as $C(n,k)$. 
 - The binomial coefficient $\binom{n}{k}$ also represents: 
 	- The number of [[Binary digits and bitstrings|bitstrings]] with length $n$ and [[Weight of a bitstring|weight]] $k$ 
 	- The number of $k$-element [[Subset|subsets]] of an $n$-element set 
@@ -32,11 +33,13 @@ Here, the exclamation point in $n!$ is the [[Factorial|factorial function]].
 
 ## Resources 
 
-The following videos cover the binomial coefficient from first principles: 
+The following videos cover the binomial coefficient from first principles. These build on each other, so each video beyond the first references all the ones before it, so watching them out of order could lead to confusion: 
 - [Counting subsets and strings](https://vimeo.com/714228019)
-- Counting $k$-element subsets
+- [Counting $k$-element subsets](https://vimeo.com/714228019)
+- [Counting $n$-bit strings of weight $k$](https://vimeo.com/618985119)
+- [Why counting subsets and counting bitstrings are the same](https://vimeo.com/714227663)
+- [The Binomial Coefficient](https://vimeo.com/621554165)
+
 
 Other resources: 
-- 
-
-## Practice 
+- Tutorial: [Use the Binomial Theorem](https://courses.lumenlearning.com/waymakercollegealgebra/chapter/use-the-binomial-theorem/) 

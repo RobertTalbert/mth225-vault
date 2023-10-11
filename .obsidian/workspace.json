@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,8 +218,8 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
-    "Combinatorics/Factorial.md",
     "Combinatorics/Binomial coefficient.md",
+    "Combinatorics/Factorial.md",
     "START HERE.md",
     "Untitled 1.md",
     "Untitled.md",

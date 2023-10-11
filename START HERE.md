@@ -33,6 +33,11 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ## Changelog
 
+
+### 2023-10-11
+
+- Added articles for [[Factorial]] and [[Binomial coefficient]]. 
+
 ### 2023-10-09
 
 - Added articles for [[Additive principle]], [[Principle of Inclusion and Exclusion]], and [[Multiplicative principle]]. 

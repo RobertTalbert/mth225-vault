@@ -52,5 +52,8 @@ def factorial(n):
 
 ## Resources 
 
+<iframe src="https://player.vimeo.com/video/626473882?h=92e0a801af" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/626473882">Screencast 4.8: Rearrangements and k-permutations</a> from <a href="https://vimeo.com/user132700952">Robert Talbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 - Tutorial: [Factorials](https://www.mathsisfun.com/numbers/factorial.html)
 - Website: [Properties of the factorial, examples, practice exercises](https://testbook.com/maths/factorial-properties#:~:text=Differential%20Equations%20here.-,Factorials%20Properties,(n%E2%88%921)!)
