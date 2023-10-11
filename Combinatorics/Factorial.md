@@ -35,15 +35,22 @@ def factorial(n):
 ```
 ## Examples 
 
-- Her
+- Here is a table with the first several values of the factorial: 
 
-| $n$ 
+| $n$ | $n!$                             |
+| --- | -------------------------------- |
+| 0   | 1 (by definition)                |
+| 1   | 1                                |
+| 2   | $1 \cdot 2 = 2$                  |
+| 3   | $1 \cdot 2 \cdot 3 = 6$          |
+| 4   | $1 \cdot 2 \cdot 3 \cdot 4 = 24$ |
+| 5   | $120$                            |
+| 6   | $720$                                 |
+
+- **How many ways are there to reorder the sequence of colors** 🔴🟡🟢 ? Answer: This is a group of 3 distinct objects and we are rearranging them, so there are $3! = 6$ rearrangements. Those are: 🔴🟡🟢 , 🔴🟢🟡, 🟢🔴🟡, 🟢🟡🔴, 🟡🟢🔴, and 🟡🔴🟢. 
+
 
 ## Resources 
 
-(video)
-
-Other resources: 
-- 
-
-## Practice 
+- Tutorial: [Factorials](https://www.mathsisfun.com/numbers/factorial.html)
+- Website: Properties of the factorial
