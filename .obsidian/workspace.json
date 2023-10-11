@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Binomial coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Binomial coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Combinatorics/Binomial coefficient.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Binomial coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,9 +206,10 @@
   },
   "active": "c6e4d92d8ad458bf",
   "lastOpenFiles": [
+    "START HERE.md",
+    "Combinatorics/Binomial coefficient.md",
     "Untitled 1.md",
     "Untitled.md",
-    "START HERE.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
     "Combinatorics/Multiplicative principle.md",
     "Combinatorics/Additive principle.md",
@@ -237,7 +238,6 @@
     "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
     "Computer Arithmetic/Natural numbers.md",
-    "Recursion and Induction/Outline for recursion and induction.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
