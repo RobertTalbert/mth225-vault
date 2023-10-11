@@ -27,11 +27,14 @@ Here, the exclamation point in $n!$ is the [[Factorial|factorial function]].
 - Because $\displaystyle{\binom{n}{k}}$ is the number of ways to select $k$ objects from a group of $n$ objects, $\displaystyle{\binom{5}{5}} = 1$. There is only one way to take a group of 5 objects and select all 5. The closed formula above also says this, but remember the binomial coefficient solves a counting problem. 
 - More generally, $\displaystyle{\binom{n}{n}} = 1$ for all $n \geq 0$. 
 - For the same reason, $\displaystyle{\binom{n}{0}} = 1$ for any $n \geq 0$ because there is only one way to select nothing from a group of $n$ objects. 
-- **How many ways are there to choose three letters from the alphabet A..Z without duplication?** This question
+- **How many 8-bit strings are there with exactly 5 `1` bits?** This is asking, *how many 8-bit strings have [[Weight of a bitstring|weight]] 5?* The answer is $\displaystyle{\binom{8}{5} = \frac{8!}{5! \cdot 3!}} = 56$. 
+- **How many ways are there to choose three letters from the alphabet A..Z without duplication if we don't care about the ordering of the letters?** This is the same question as: **How many three-element subsets are there of a 26-element set?** The answer to both is $\displaystyle{\binom{26}{3} = \frac{26!}{3! \cdot 23!}} = 2600$. 
 
 ## Resources 
 
-(video)
+The following videos cover the binomial coefficient from first principles: 
+- [Counting subsets and strings](https://vimeo.com/714228019)
+- Counting $k$-element subsets
 
 Other resources: 
 - 
