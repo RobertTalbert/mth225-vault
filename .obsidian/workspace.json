@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "Combinatorics/Binomial coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Factorial.md"
+                "file": "Combinatorics/Binomial coefficient.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "Combinatorics/Binomial coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6e4d92d8ad458bf",
+  "active": "d3fe99d2326adede",
   "lastOpenFiles": [
-    "Combinatorics/Binomial coefficient.md",
     "Combinatorics/Factorial.md",
+    "Combinatorics/Binomial coefficient.md",
     "START HERE.md",
     "Untitled 1.md",
     "Untitled.md",

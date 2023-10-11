@@ -22,7 +22,12 @@ $$\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$$
 $$\binom{n}{k} = \frac{n!}{k! (n-k)!}$$
 Here, the exclamation point in $n!$ is the [[Factorial|factorial function]]. 
 
-## Examples and Non-Examples
+## Examples 
+
+- Because $\displaystyle{\binom{n}{k}}$ is the number of ways to select $k$ objects from a group of $n$ objects, $\displaystyle{\binom{5}{5}} = 1$. There is only one way to take a group of 5 objects and select all 5. The closed formula above also says this, but remember the binomial coefficient solves a counting problem. 
+- More generally, $\displaystyle{\binom{n}{n}} = 1$ for all $n \geq 0$. 
+- For the same reason, $\displaystyle{\binom{n}{0}} = 1$ for any $n \geq 0$ because there is only one way to select nothing from a group of $n$ objects. 
+- **How many ways are there to choose three letters from the alphabet A..Z without duplication?** This question
 
 ## Resources 
 

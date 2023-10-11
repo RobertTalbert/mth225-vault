@@ -53,4 +53,4 @@ def factorial(n):
 ## Resources 
 
 - Tutorial: [Factorials](https://www.mathsisfun.com/numbers/factorial.html)
-- Website: Properties of the factorial
+- Website: [Properties of the factorial, examples, practice exercises](https://testbook.com/maths/factorial-properties#:~:text=Differential%20Equations%20here.-,Factorials%20Properties,(n%E2%88%921)!)
