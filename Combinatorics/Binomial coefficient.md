@@ -16,8 +16,11 @@ aliases: [binomial coefficient]
 	- The number of [[Binary digits and bitstrings|bitstrings]] with length $n$ and [[Weight of a bitstring|weight]] $k$ 
 	- The number of $k$-element [[Subset|subsets]] of an $n$-element set 
 	- The coefficient on $x^ky^{n-k}$ in the expansion of $(x+y)^n$
-- The binomial coefficient $\binom{n}{k}$ can be computed [[Recursion|recursively]] using the [[Recurrence relation|recurrence relation]]
-
+- The binomial coefficient $\binom{n}{k}$ can be computed [[Recursion|recursively]] when $n \geq 1$ and $k \geq 1$, using the [[Recurrence relation|recurrence relation]]: 
+$$\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$$
+- The binomial coefficient $\binom{n}{k}$ can be computed directly using the closed formula
+$$\binom{n}{k} = \frac{n!}{k! (n-k)!}$$
+Here, the exclamation point in $n!$ is the [[Factorial|factorial function]]. 
 
 ## Examples and Non-Examples
 

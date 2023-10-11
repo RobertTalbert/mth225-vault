@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Combinatorics/Factorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3fe99d2326adede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Combinatorics/Binomial coefficient.md",
                 "mode": "source",
                 "source": false
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "Combinatorics/Factorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md"
+                "file": "Combinatorics/Factorial.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "Combinatorics/Factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +218,9 @@
   },
   "active": "c6e4d92d8ad458bf",
   "lastOpenFiles": [
-    "START HERE.md",
     "Combinatorics/Binomial coefficient.md",
+    "Combinatorics/Factorial.md",
+    "START HERE.md",
     "Untitled 1.md",
     "Untitled.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
@@ -237,7 +250,6 @@
     "Assets/Images/intersection.png",
     "Recursion and Induction/Recursion.md",
     "Recursion and Induction/Mathematical induction.md",
-    "Computer Arithmetic/Natural numbers.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
