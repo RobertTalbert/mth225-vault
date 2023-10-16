@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "Combinatorics/Additive principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md"
+                "file": "Combinatorics/Additive principle.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "Combinatorics/Additive principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
