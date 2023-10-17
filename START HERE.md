@@ -33,8 +33,21 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ## Changelog
 
+<<<<<<< HEAD
 ### 2023-10-04
 - Added articles for [[Injective]], [[Surjective]], and [[Bijective]]. 
+=======
+
+### 2023-10-11
+
+- Added articles for [[Factorial]] and [[Binomial coefficient]]. 
+
+### 2023-10-09
+
+- Added articles for [[Additive principle]], [[Principle of Inclusion and Exclusion]], and [[Multiplicative principle]]. 
+- Changed title of "Counting" folder to "Combinatorics".
+
+>>>>>>> origin/main
 ### 2023-09-26
 * Added articles for [[Recursion and Induction/Mathematical induction|Mathematical induction]], [[Union]], [[Intersection]], [[Set difference]], [[Complement]], [[Cartesian product]], and [[Symmetric difference]] and corrected typos 
 * Added video to [[Recursion]]

@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":green_circle:",
+    ":red_circle:",
+    ":yellow_circle:"
+  ]
+}

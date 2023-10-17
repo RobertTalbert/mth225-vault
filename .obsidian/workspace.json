@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6749405eb4f2ff1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Sequence.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,12 +193,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e36439cb22fa48f2",
+  "active": "6749405eb4f2ff1a",
   "lastOpenFiles": [
+    "Sets and Functions/Injective function.md",
+    "Recursion and Induction/Sequence.md",
+    "conflict-files-obsidian-git.md",
+    "Combinatorics/Weight of a bitstring.md",
+    "Combinatorics/Principle of Inclusion and Exclusion.md",
+    "Combinatorics/Outline for Counting.md",
+    "Combinatorics/Multiplicative principle.md",
+    "Combinatorics/Factorial.md",
+    "Combinatorics/Binomial coefficient.md",
+    "Combinatorics/Additive principle.md",
+    "Combinatorics",
     "Sets and Functions/Domain.md",
     "Recursion and Induction/Closed formula.md",
     "Sets and Functions/Function.md",
-    "conflict-files-obsidian-git.md",
     "Sets and Functions/Injective.md",
     "START HERE.md",
     "Sets and Functions/Bijective.md",
@@ -199,7 +221,6 @@
     "Assets/Images/not-surj.png",
     "Assets/Images/non-injective.png",
     "Assets/Images/injective1.png",
-    "Recursion and Induction/Sequence.md",
     "Sets and Functions/Universal set.md",
     "Sets and Functions/Union.md",
     "Sets and Functions/Symmetric difference.md",
@@ -208,14 +229,6 @@
     "Sets and Functions/Roster notation.md",
     "Sets and Functions/Range.md",
     "Sets and Functions/Power set.md",
-    "Sets and Functions/Intersection.md",
-    "Sets and Functions/Complement.md",
-    "Sets and Functions/Codomain.md",
-    "Sets and Functions/Cartesian product.md",
-    "Sets and Functions/Cardinality.md",
-    "Recursion and Induction/Mathematical induction.md",
-    "Recursion and Induction/Geometric sequence.md",
-    "Recursion and Induction/Arithmetic sequence.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
     "Assets/Images/symmetric difference.png",
