@@ -7,7 +7,7 @@ aliases: [predicate, predicates]
 ## Definition 
 
 > [!tldr] Definition
-> A **predicate** is a [[Propositions|proposition]] without a definite, fixed truth value but instead its truth value depends on the value of one or more variables. Alternatively, a predicate is a [[Function]] that takes in one or more variables as input, and whose outputs are the values `True` or `False`. (That is, its [[codomain]] is the [[Set and set elements]] `{True, False}`.)
+> A **predicate** is a [[Propositions|proposition]] without a definite, fixed truth value but instead its truth value depends on the value of one or more variables. Alternatively, a predicate is a [[Function]] that takes in one or more variables as input, and whose outputs are the values `True` or `False`. (That is, its [[Codomain]] is the [[Set]] `{True, False}`.)
 
 Notes: 
 - The truth value of a predicate is undetermined until all variables have been given inputs. By assigning values to the inputs we are [[quantifying]] the predicate. 

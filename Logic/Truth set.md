@@ -6,7 +6,7 @@ aliases: [truth sets]
 ## Definition 
 
 > [!tldr] Definition
-> The **truth set** of a [[Predicate|predicate]] $P(x)$ is the [[Set and set elements]] of all values of $x$ that make the predicate true. 
+> The **truth set** of a [[Predicate|predicate]] $P(x)$ is the [[Set]] of all values of $x$ that make the predicate true. 
 
 Notes: 
 - The truth set of a predicate is always a subset of (and is sometimes equal to) the [[domain]] of the predicate. 

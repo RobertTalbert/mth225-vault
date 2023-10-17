@@ -1,5 +1,8 @@
 ---
-aliases: [natural number, nonnegative integers]
+aliases:
+  - natural number
+  - nonnegative integers
+  - natural numbers
 ---
 #computer-arithmetic 
 

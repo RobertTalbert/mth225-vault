@@ -32,3 +32,11 @@ The articles in this vault are also available in the public GitHub repository: h
 > Responses to the form will be addressed once per week and changes will be reported in the changelog below. 
 
 ## Changelog
+
+### 2023-10-04
+- Added articles for [[Injective]], [[Surjective]], and [[Bijective]]. 
+### 2023-09-26
+* Added articles for [[Recursion and Induction/Mathematical induction|Mathematical induction]], [[Union]], [[Intersection]], [[Set difference]], [[Complement]], [[Cartesian product]], and [[Symmetric difference]] and corrected typos 
+* Added video to [[Recursion]]
+### 2023-09-13
+- Typo corrections to the [[Truth tables|truth tables]] and [[Existential quantifier|existential quantifier]] articles 

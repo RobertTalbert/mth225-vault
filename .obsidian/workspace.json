@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "988381297bd7813c",
+            "id": "fb856695f6c777e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Injective.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "right": {
     "id": "1a4a2bc639c7be39",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Injective.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Injective.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Injective.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -229,47 +229,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "988381297bd7813c",
+  "active": "fb856695f6c777e4",
   "lastOpenFiles": [
-    "README.md",
-    "Sets and Functions/Injective.md",
-    "Recursion and Induction/Recursion.md",
-    "START HERE.md",
-    "Recursion and Induction/Fibonacci sequence.md",
-    "Recursion and Induction/Untitled.md",
-    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Function.md",
-    "Recursion and Induction/Closed formula.md",
-    "Recursion and Induction/Sequence.md",
-    "Sets and Functions/Set and set elements.md",
+    "conflict-files-obsidian-git.md",
+    "Sets and Functions/Injective.md",
+    "START HERE.md",
+    "Sets and Functions/Bijective.md",
     "Sets and Functions/Domain.md",
-    "Sets and Functions/Outline for sets and functions.md",
-    "Sets and Functions/Empty set.md",
-    "Sets and Functions/Special sets.md",
+    "Sets and Functions/Surjective.md",
+    "Assets/Images/surj-not-inj.png",
     "Sets and Functions/Set-builder notation.md",
-    "Logic/Conjunction.md",
-    "Counting/Weight of a bitstring.md",
-    "Computer Arithmetic/Binary digits and bitstrings.md",
-    "Logic/Conditional statements.md",
-    "Logic/Predicate.md",
-    "Computer Arithmetic/Natural numbers.md",
-    "Logic/Universal quantifier.md",
-    "Logic/Biconditional statement.md",
-    "Logic/Atomic and molecular propositions.md",
-    "connective.md",
-    "Assets/Images/graphview.jpg",
-    "Assets/Images/binary-division.jpg",
-    "binary-division.jpg",
-    "Untitled.jpg",
     "Assets/Images/Pasted image 20230718094622.png",
+    "Assets/Images/Pasted image 20230925103719.png",
+    "Assets/Images/graphview.jpg",
+    "Assets/Images/not-surj.png",
+    "Assets/Images/non-injective.png",
+    "Assets/Images/injective1.png",
+    "Recursion and Induction/Sequence.md",
+    "Sets and Functions/Universal set.md",
+    "Sets and Functions/Union.md",
+    "Sets and Functions/Symmetric difference.md",
+    "Sets and Functions/Set.md",
+    "Sets and Functions/Set difference.md",
+    "Sets and Functions/Roster notation.md",
+    "Sets and Functions/Range.md",
+    "Sets and Functions/Power set.md",
+    "Sets and Functions/Intersection.md",
+    "Sets and Functions/Complement.md",
+    "Sets and Functions/Codomain.md",
+    "Sets and Functions/Cartesian product.md",
+    "Sets and Functions/Cardinality.md",
+    "Recursion and Induction/Mathematical induction.md",
+    "Recursion and Induction/Geometric sequence.md",
+    "Recursion and Induction/Arithmetic sequence.md",
+    "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
+    "Assets/Images/triangular-visual.png",
+    "Assets/Images/symmetric difference.png",
+    "README.md",
     "Assets/Images",
     "Assets/Templates",
     "Counting",
     "Recursion and Induction",
     "Sets and Functions",
     "Computer Arithmetic",
-    "Assets/Images/mth225-logo.png",
-    "mth225-logo.png",
     "Assets",
     "untitled folder",
     "Test canvas.canvas",

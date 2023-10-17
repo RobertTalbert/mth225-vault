@@ -24,6 +24,6 @@ Notes
 
 
 Other resources: 
-- 
+- Video: [Determine a closed formula for a given sequence](https://www.youtube.com/watch?v=4YxqncJCack)
 
 ## Practice 

@@ -1,8 +1,7 @@
 [
   "table-editor-obsidian",
   "custom-sort",
-  "obsidian-git",
   "url-into-selection",
-  "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

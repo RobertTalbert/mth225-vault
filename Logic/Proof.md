@@ -11,7 +11,7 @@ aliases: [proof, proofs]
 
 The types of proof that you will learn in MTH 225 include: 
 
-- Proof using mathematical induction 
+- Proof using [[Recursion and Induction/Mathematical induction|mathematical induction]] 
 - Combinatorial proof
 - As well as simply giving thorough explanations for observed phenomena. 
 
