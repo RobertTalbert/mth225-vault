@@ -33,6 +33,9 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ## Changelog
 
+### 2023-10-17
+
+- Fixed link to video in [[Binomial coefficient]]. 
 
 ### 2023-10-11
 

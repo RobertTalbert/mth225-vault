@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinatorics/Binomial coefficient.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Additive principle.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Additive principle.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Additive principle.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20e7e6d27e4c4c44",
+  "active": "9b881a7693f66873",
   "lastOpenFiles": [
-    "Recursion and Induction/Recurrence relation.md",
     "Combinatorics/Binomial coefficient.md",
+    "Combinatorics/Additive principle.md",
+    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Subset.md",
     "Computer Arithmetic/Integers.md",
     "Combinatorics/Weight of a bitstring.md",
@@ -243,7 +245,6 @@
     "Untitled.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
     "Combinatorics/Multiplicative principle.md",
-    "Combinatorics/Additive principle.md",
     "Combinatorics/Outline for Counting.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
