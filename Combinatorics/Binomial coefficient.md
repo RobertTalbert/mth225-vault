@@ -35,7 +35,7 @@ Here, the exclamation point in $n!$ is the [[Factorial|factorial function]].
 
 The following videos cover the binomial coefficient from first principles. These build on each other, so each video beyond the first references all the ones before it, so watching them out of order could lead to confusion: 
 - [Counting subsets and strings](https://vimeo.com/714228019)
-- [Counting $k$-element subsets](https://vimeo.com/714228019)
+- [Counting $k$-element subsets](https://vimeo.com/714225614)
 - [Counting $n$-bit strings of weight $k$](https://vimeo.com/618985119)
 - [Why counting subsets and counting bitstrings are the same](https://vimeo.com/714227663)
 - [The Binomial Coefficient](https://vimeo.com/621554165)
