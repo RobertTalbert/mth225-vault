@@ -1,4 +1,7 @@
 [
   "table-editor-obsidian",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-git",
+  "url-into-selection",
+  "templater-obsidian"
 ]
