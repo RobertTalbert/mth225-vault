@@ -33,6 +33,11 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ## Changelog
 
+### 2023-10-19
+
+Added articles: [[Permutation]], [[k-Permutation]], [[License plate problem]]. 
+
+
 <<<<<<< HEAD
 ### 2023-10-04
 - Added articles for [[Injective]], [[Surjective]], and [[Bijective]]. 

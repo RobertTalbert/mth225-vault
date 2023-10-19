@@ -1,13 +1,4 @@
 [
   "table-editor-obsidian",
-  "custom-sort",
-  "url-into-selection",
-<<<<<<< HEAD
-  "templater-obsidian",
-  "obsidian-git"
-=======
-  "dataview",
-  "templater-obsidian",
   "emoji-shortcodes"
->>>>>>> origin/main
 ]

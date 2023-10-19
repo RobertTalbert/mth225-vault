@@ -25,26 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Sequence.md",
+                "file": "Combinatorics/License plate problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6749405eb4f2ff1a",
+            "id": "d03c0e55b5eb695a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Combinatorics/Permutation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b133c74e397e1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,24 +157,6 @@
             }
           },
           {
-            "id": "e0b6f68a334f4dc3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          },
-          {
-            "id": "b5aff26e395cb96a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "54479bb085723b62",
             "type": "leaf",
             "state": {
@@ -171,9 +165,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a3ecf9903f7edf77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START HERE.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,17 +191,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "6749405eb4f2ff1a",
+  "active": "4b133c74e397e1e6",
   "lastOpenFiles": [
+    "Combinatorics/k-Permutation.md",
+    "Combinatorics/License plate problem.md",
+    "Assets/Images/licenseplate.png",
+    "Combinatorics/Permutation.md",
+    "permutat.md",
+    "Untitled.md",
+    "Sets and Functions/Set-builder notation.md",
+    "conflict-files-obsidian-git.md",
     "Sets and Functions/Injective function.md",
     "Recursion and Induction/Sequence.md",
-    "conflict-files-obsidian-git.md",
     "Combinatorics/Weight of a bitstring.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
     "Combinatorics/Outline for Counting.md",
@@ -214,7 +222,6 @@
     "Sets and Functions/Bijective.md",
     "Sets and Functions/Surjective.md",
     "Assets/Images/surj-not-inj.png",
-    "Sets and Functions/Set-builder notation.md",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/graphview.jpg",
@@ -223,15 +230,8 @@
     "Assets/Images/injective1.png",
     "Sets and Functions/Universal set.md",
     "Sets and Functions/Union.md",
-    "Sets and Functions/Symmetric difference.md",
-    "Sets and Functions/Set.md",
-    "Sets and Functions/Set difference.md",
-    "Sets and Functions/Roster notation.md",
-    "Sets and Functions/Range.md",
-    "Sets and Functions/Power set.md",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png",
     "Assets/Images/triangular-visual.png",
-    "Assets/Images/symmetric difference.png",
     "Assets/Images",
     "Assets/Templates",
     "Counting",
