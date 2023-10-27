@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Arithmetic sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Arithmetic sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Recursion and Induction/Arithmetic sequence.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Arithmetic sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,9 +231,18 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
-    "Combinatorics/Dots and dividers.md",
-    "START HERE.md",
+    "sortspec.md",
+    "Recursion and Induction/Arithmetic sequence.md",
     "Untitled.md",
+    "Logic/Outline for Logic.md",
+    "Computer Arithmetic/Outline for Computer Arithmetic.md",
+    "Combinatorics/Outline for Counting.md",
+    "Recursion and Induction/Closed formula.md",
+    "Recursion and Induction/Mathematical induction.md",
+    "Recursion and Induction/Outline for recursion and induction.md",
+    "Recursion and Induction/Recurrence relation.md",
+    "START HERE.md",
+    "Combinatorics/Dots and dividers.md",
     "Combinatorics/k-Permutation.md",
     "Combinatorics/Permutation.md",
     "Combinatorics/License plate problem.md",
@@ -248,22 +257,13 @@
     "Assets/Images/injective1.png",
     "Combinatorics/Binomial coefficient.md",
     "Combinatorics/Additive principle.md",
-    "Recursion and Induction/Recurrence relation.md",
     "Sets and Functions/Subset.md",
     "Computer Arithmetic/Integers.md",
     "Combinatorics/Weight of a bitstring.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Combinatorics/Factorial.md",
-    "Untitled 1.md",
-    "Combinatorics/Principle of Inclusion and Exclusion.md",
-    "Combinatorics/Multiplicative principle.md",
-    "Combinatorics/Outline for Counting.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
-    "Sets and Functions/Injective function.md",
-    "Sets and Functions/Cartesian product.md",
-    "Sets and Functions/Range.md",
-    "Sets and Functions/Codomain.md",
     "Assets/Images/symmetric difference.png",
     "Assets/Images/complement.png",
     "Assets/Images/set difference.png",

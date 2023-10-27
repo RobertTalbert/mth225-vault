@@ -1,3 +1,0 @@
-- [ ] Recursive sequences
-- [ ] Closed formulas
-- [ ] 
