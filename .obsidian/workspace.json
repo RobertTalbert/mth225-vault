@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Arithmetic sequence.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "counter",
+                "query": "bar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Arithmetic sequence.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Arithmetic sequence.md"
+                "file": "Combinatorics/Dots and dividers.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Arithmetic sequence.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +232,7 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
+    "Combinatorics/Additive principle.md",
     "sortspec.md",
     "Recursion and Induction/Arithmetic sequence.md",
     "Untitled.md",
@@ -256,7 +258,6 @@
     "Assets/Images/non-injective.png",
     "Assets/Images/injective1.png",
     "Combinatorics/Binomial coefficient.md",
-    "Combinatorics/Additive principle.md",
     "Sets and Functions/Subset.md",
     "Computer Arithmetic/Integers.md",
     "Combinatorics/Weight of a bitstring.md",
