@@ -78,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bbeaefe7b0b7f827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,13 +225,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bbeaefe7b0b7f827",
+  "active": "d3fe99d2326adede",
   "lastOpenFiles": [
-    "START HERE.md",
+    "Untitled.md",
+    "Combinatorics/k-Permutation.md",
+    "Combinatorics/Permutation.md",
+    "Combinatorics/License plate problem.md",
+    "Assets/Images/licenseplate.png",
     "conflict-files-obsidian-git.md",
+    "START HERE.md",
     "Sets and Functions/Surjective.md",
     "Sets and Functions/Injective.md",
     "Sets and Functions/Bijective.md",
@@ -260,7 +254,6 @@
     "Computer Arithmetic/Binary digits and bitstrings.md",
     "Combinatorics/Factorial.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Combinatorics/Principle of Inclusion and Exclusion.md",
     "Combinatorics/Multiplicative principle.md",
     "Combinatorics/Outline for Counting.md",
@@ -271,13 +264,9 @@
     "Sets and Functions/Range.md",
     "Sets and Functions/Codomain.md",
     "Sets and Functions/Domain.md",
-    "Sets and Functions/Function.md",
-    "Sets and Functions/Symmetric difference.md",
-    "Sets and Functions/Union.md",
     "Assets/Images/symmetric difference.png",
     "Assets/Images/complement.png",
     "Assets/Images/set difference.png",
-    "Assets/Images/intersection.png",
     "Assets/Images/venn-diagram-of-universal-set-1627631133.png.sb-0a91eb07-IVCx0D",
     "Assets/Images",
     "Assets/Templates",
