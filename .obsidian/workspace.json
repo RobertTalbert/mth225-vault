@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,6 +231,8 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
+    "Logic/Mathematical induction.md",
+    "Combinatorics/Dots and dividers.md",
     "Combinatorics/Additive principle.md",
     "sortspec.md",
     "Recursion and Induction/Arithmetic sequence.md",
@@ -244,7 +245,6 @@
     "Recursion and Induction/Outline for recursion and induction.md",
     "Recursion and Induction/Recurrence relation.md",
     "START HERE.md",
-    "Combinatorics/Dots and dividers.md",
     "Combinatorics/k-Permutation.md",
     "Combinatorics/Permutation.md",
     "Combinatorics/License plate problem.md",
@@ -262,7 +262,6 @@
     "Computer Arithmetic/Integers.md",
     "Combinatorics/Weight of a bitstring.md",
     "Computer Arithmetic/Binary digits and bitstrings.md",
-    "Combinatorics/Factorial.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images/symmetric difference.png",
