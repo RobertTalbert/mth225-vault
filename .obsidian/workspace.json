@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets and Functions/Set.md",
+                "file": "Assets/Templates/Entry template.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets and Functions/Set.md",
+                "file": "Assets/Templates/Entry template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets and Functions/Set.md"
+                "file": "Assets/Templates/Entry template.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets and Functions/Set.md",
+                "file": "Assets/Templates/Entry template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,7 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
+    "Sets and Functions/Set.md",
     "Combinatorics/Dots and dividers.md",
     "Logic/Mathematical induction.md",
     "Combinatorics/Additive principle.md",
@@ -261,7 +262,6 @@
     "Sets and Functions/Subset.md",
     "Computer Arithmetic/Integers.md",
     "Combinatorics/Weight of a bitstring.md",
-    "Computer Arithmetic/Binary digits and bitstrings.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images/symmetric difference.png",
