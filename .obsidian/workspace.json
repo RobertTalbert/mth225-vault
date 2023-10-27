@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Combinatorics/Dots and dividers.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Combinatorics/Dots and dividers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,13 +231,14 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
+    "START HERE.md",
+    "Combinatorics/Dots and dividers.md",
     "Untitled.md",
     "Combinatorics/k-Permutation.md",
     "Combinatorics/Permutation.md",
     "Combinatorics/License plate problem.md",
     "Assets/Images/licenseplate.png",
     "conflict-files-obsidian-git.md",
-    "START HERE.md",
     "Sets and Functions/Surjective.md",
     "Sets and Functions/Injective.md",
     "Sets and Functions/Bijective.md",
@@ -263,7 +264,6 @@
     "Sets and Functions/Cartesian product.md",
     "Sets and Functions/Range.md",
     "Sets and Functions/Codomain.md",
-    "Sets and Functions/Domain.md",
     "Assets/Images/symmetric difference.png",
     "Assets/Images/complement.png",
     "Assets/Images/set difference.png",
