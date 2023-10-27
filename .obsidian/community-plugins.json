@@ -1,9 +1,7 @@
 [
   "table-editor-obsidian",
-  "custom-sort",
+  "emoji-shortcodes",
   "obsidian-git",
   "url-into-selection",
-  "dataview",
-  "templater-obsidian",
-  "emoji-shortcodes"
+  "templater-obsidian"
 ]
