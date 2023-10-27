@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinatorics/Dots and dividers.md",
+                "file": "Sets and Functions/Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Dots and dividers.md",
+                "file": "Sets and Functions/Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Dots and dividers.md"
+                "file": "Sets and Functions/Set.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Dots and dividers.md",
+                "file": "Sets and Functions/Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,8 @@
   },
   "active": "d3fe99d2326adede",
   "lastOpenFiles": [
-    "Logic/Mathematical induction.md",
     "Combinatorics/Dots and dividers.md",
+    "Logic/Mathematical induction.md",
     "Combinatorics/Additive principle.md",
     "sortspec.md",
     "Recursion and Induction/Arithmetic sequence.md",
