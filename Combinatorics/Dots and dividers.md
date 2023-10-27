@@ -13,9 +13,16 @@ aliases: [dots and dividers, stars and bars]
 > 3. Each distribution is now representable as a sequence of dots and dividers, which can be translated into [[Binary digits and bitstrings|bitstrings]] in which each dot is a `0` and each divider is a `1`. 
 > 4. The number of those bitstrings, and hence the number distributions, can then be counted with the [[Binomial coefficient|binomial coefficient]]. 
 
+**Notes:**
+- This method goes by other names including *stars and bars*; *balls and bars*; and *sticks and stones*. 
+
 ## Examples 
 
-**Problem:** How many wa
+> [!example]
+> **Problem:** How many ways are there to distribute ten identical 20-dollar bills to three children? 
+> **Solution:** Model each distribution using dots and dividers with each bill represented by a dot, and each change between children as a divider. For example, giving the first child 2 bills, the second child 5 bills, and the third child 3 bills would be represented as: `**|*****|***`. Likewise the diagram `****||******` represents a distribution where the first child gets 4 bills, the second child gets none, and the third child gets 6. Each diagram corresponds to a 12-bit [[Binary digits and bitstrings|bitstring]] that has [[Weight of a bitstring|weight]] 2 because there are always 2 dividers no matter what the distribution. There are $\binom{12}{2} = 66$ of these. 
+
+
 
 ## Resources 
 
