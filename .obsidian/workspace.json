@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Recursion and Induction/Mathematical induction.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,7 @@
   },
   "active": "c6e4d92d8ad458bf",
   "lastOpenFiles": [
+    "START HERE.md",
     "Recursion and Induction/Arithmetic sequence.md",
     "Combinatorics/Factorial.md",
     "Assets/Templates/Entry template.md",
@@ -235,7 +236,6 @@
     "Recursion and Induction/Mathematical induction.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Recursion and Induction/Recurrence relation.md",
-    "START HERE.md",
     "Combinatorics/k-Permutation.md",
     "Combinatorics/Permutation.md",
     "Combinatorics/License plate problem.md",

@@ -38,6 +38,12 @@ Here is an example of just setting up the framework for a proof of this conjectu
 > 
 > **Inductive step:** We would now need to prove that $f(k+1) = 3 \cdot 2^{k+1}$. 
 
+And, here is a complete proof of the conjecture: 
+
+We will show that $f(n)$ as computed by the Python function is equal to $3 \cdot 2^n$ for all natural numbers $n$. We will prove this using mathematical induction. 
+
+First, in the base case where $n=0$: 
+
 
 Here are two complete examples of proof by mathematical induction: 
 

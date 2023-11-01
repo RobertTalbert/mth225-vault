@@ -36,7 +36,7 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ### 2023-11-01
 
-Correct typo in [[Arithmetic sequence]]. 
+Corrected typo in [[Arithmetic sequence]]. 
 ### 2023-10-27
 
 Added article: [[Dots and dividers]]. 
