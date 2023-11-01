@@ -20,3 +20,5 @@ Notes:
 - Suppose the sequence $a_n$ is given recursively by the initial condition $a_0 = 3$ and the first-order recurrence relation $a_n = 2a_{n-1}$ for $n > 0$. Then $a_1 = 2a_0 = 6$. Then $a_2 = 2a_1 = 12$. Then $a_3 = 2a_2 = 24$. Continuing this way we get the [[Geometric sequence|geometric sequence]] $3, 6, 12, 24, 48, 96, \dots$. 
 ## Resources 
 
+
+

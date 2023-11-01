@@ -82,17 +82,18 @@ Here are three complete examples of proof by mathematical induction:
 > 
 
 
-The base case is $n=0$. A set with zero elements is the [[Empty set|empty set]], and there is only one subset of this, namely the empty set itself. So the base case holds. 
+> [!NOTE] Claim: Every set with $n$ elements has $2^n$ subsets. 
+> The base case is $n=0$. A set with zero elements is the [[Empty set|empty set]], and there is only one subset of this, namely the empty set itself. So the base case holds. 
+> 
+> Now assume that for some $k > 0$, every set with $k$ elements has $2^k$ subsets. We want to show that every set with $k+1$ elements has $2^{k+1}$ subsets. 
+> 
+> Suppose that $A$ is a set with $k+1$ elements, which we can take to be just the numbers $1$ through $k+1$. That is, assume $A = \{1, 2, 3, \dots, k+1\}$.  (We can assume that $A$ is this specific set because there would be a [[Bijective|bijection]] between this set and any other set with $k+1$ elements.)  Look at the set $B = \{1, 2, \dots, k\}$. Each subset of $A$, the parent set, is one of two things: 
+> 
+> - A subset of $B$, or 
+> - One of the subsets of $B$ [[Union|union]] with the set $\{k+1\}$. 
+> 
+> Since $B$ has $k$ elements, then by the inductive hypothesis, $B$ has $2^k$ subsets. Therefore there are $2^k$ subsets of $A$ that fall into the first category (they are just subsets of $B$) and another $2^k$ subsets in the second category (they are a subset of $B$ with the number $k+1$ added in). That's $2 \cdot 2^k$ sets in all, which equals $2^{k+1}$, and this is the full number of subsets of $A$.  ⬛
 
-Now assume that for some $k > 0$, every set with $k$ elements has $2^k$ subsets. We want to show that every set with $k+1$ elements has $2^{k+1}$ subsets. 
-
-Suppose that $A$ is a set with $k+1$ elements, which we can take to be just the numbers $1$ through $k+1$. (We can assume that $A$ is this specific set because there would be a [[Bijective|bijection]] between this set and any other set with $k+1$ elements.) That is, assume $A = \{1, 2, 3, \dots, k+1\}$.  Look at the subset $B = \{1, 2, \dots, k\}$. Each subset of $A$, the parent set, is one of two things: 
-
-- A subset of $B$, or 
-- One of the subsets of $B$ 
-
-
-By the inductive hypothesis, $B$ has $2^k$ subsets because it has $k$ elements. None of these subsets of $B$ contains $k+1$ as an element. For each of these subsets, form two subsets 
 
 
 
