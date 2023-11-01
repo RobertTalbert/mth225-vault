@@ -23,13 +23,12 @@ Notes:
 $$F_n = \frac{\left(\frac{1+\sqrt{5}}{2}\right)^n - \left(\frac{1-\sqrt{5}}{2}\right)^n}{\sqrt{5}}$$
 - **Non-example:** Consider the recurrence relation: $a_0 = 2$, $a_1=5$, and for $n > 1$, $a_n = 3a_{n-1} - 2a_{n-2}$.  This produces the sequence $2, 5, 11, 23, 47, 95, ...$ The function $a(n) = 1.5n^2 + 1.5n + 2$ is *not* a solution to this recurrence relation. It produces the first three terms correctly: $a(0) = 2, a(1) = 5, a(2) = 11$. But then whereas the fourth term ($n=3$) of the sequence is $23$, the formula instead gives $a(3) = 1.5 \cdot 3^2  1.5 \cdot 3 + 2 = 20$. 
 
-Just because a formula produces the first few terms of a seque
+> [!danger] Examples are not proofs 
+> Just because a formula produces the first few terms of a recurrence relation correctly, it is not necessarily a solution to the recurrence relation. Giving examples where the formula "works" is not sufficient to prove that it's a solution. Instead this requires using a method of coming up with the formula that is known to produce correct solutions, or checking that the formula is a solution via a proof by [[Mathematical induction|mathematical induction]]. 
 
 ## Resources 
 
-(video)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/641526674?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 5.4: Solutions to recurrence relations"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Other resources: 
-- 
-
-## Practice 
+- Textbook chapter: [Solving recurrence relations](https://discrete.openmathbooks.org/dmoi2/sec_recurrence.html)
