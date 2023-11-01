@@ -36,7 +36,7 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ### 2023-11-01
 
-Corrected typo in [[Arithmetic sequence]]. 
+Corrected typo in [[Arithmetic sequence]] and added complete induction proof to the conjecture in the [[Mathematical induction]] article. 
 ### 2023-10-27
 
 Added article: [[Dots and dividers]]. 

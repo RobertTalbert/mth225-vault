@@ -40,17 +40,18 @@ Here is an example of just setting up the framework for a proof of this conjectu
 
 And, here is a complete proof of the conjecture: 
 
-We will show that $f(n)$ as computed by the Python function is equal to $3 \cdot 2^n$ for all natural numbers $n$. We will prove this using mathematical induction. 
-
-First, in the base case where $n=0$: The Python function returns $3$ in this case. And on the other hand, $3 \cdot 2^0 = 3 \cdot 1 = 3$. The code and the formula return the same result, so the base case holds. 
-
-Now assume that for some $k > 0$, $f(k)$ as computed by the Python code equals $3 \cdot 2^k$. We want to show that $f(k+1)$ as computed by the code equals $3 \cdot 2^{k+1}$. 
-
-(Note: We can assume that $k$ is strictly greater than $0$ because the case where $k=0$ was already handled in the base case.)
-
-Since $k > 0$, if we enter $k+1$ into the Python code, it will return $2 \cdot f((k+1)-1)$. This is equal to $2 \cdot f(k)$. By assumption (in the inductive hypothesis) $f(k)$ equals $3 \cdot 2^k$. So the result of entering in $k+1$ is 
-$$2 \cdot f(k) = 2 \cdot 
-
+> [!proof]
+> We will show that $f(n)$ as computed by the Python function is equal to $3 \cdot 2^n$ for all natural numbers $n$. We will prove this using mathematical induction. 
+> 
+> First, in the base case where $n=0$: The Python function returns $3$ in this case. And on the other hand, $3 \cdot 2^0 = 3 \cdot 1 = 3$. The code and the formula return the same result, so the base case holds. 
+> 
+> Now assume that for some $k > 0$, $f(k)$ as computed by the Python code equals $3 \cdot 2^k$. We want to show that $f(k+1)$ as computed by the code equals $3 \cdot 2^{k+1}$. 
+> 
+> (Note: We can assume that $k$ is strictly greater than $0$ because the case where $k=0$ was already handled in the base case.)
+> 
+> Since $k > 0$, if we enter $k+1$ into the Python code, it will return $2 \cdot f((k+1)-1)$. This is equal to $2 \cdot f(k)$ because in the parentheses, $k+1-1$ is equal to $k$. By assumption (in the inductive hypothesis) $f(k)$ equals $3 \cdot 2^k$. So the result of entering in $k+1$ is 
+> $$2 \cdot f(k) = 2 \cdot \left( 3 \cdot 2^k\right) = 3 \cdot 2^{k+1}$$
+> Therefore we've shown that entering in $k+1$ gives $3 \cdot 2^{k+1}$. This is what we wanted to show, so we can conclude that $f(n) = 3 \cdot 2^n$ for all natural numbers $n$. ⬛
 
 Here are two complete examples of proof by mathematical induction: 
 
