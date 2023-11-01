@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Factorial.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Factorial.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,13 +219,14 @@
   },
   "active": "c6e4d92d8ad458bf",
   "lastOpenFiles": [
+    "Recursion and Induction/Arithmetic sequence.md",
+    "Combinatorics/Factorial.md",
     "Assets/Templates/Entry template.md",
     "Sets and Functions/Set.md",
     "Combinatorics/Dots and dividers.md",
     "Logic/Mathematical induction.md",
     "Combinatorics/Additive principle.md",
     "sortspec.md",
-    "Recursion and Induction/Arithmetic sequence.md",
     "Untitled.md",
     "Logic/Outline for Logic.md",
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
@@ -249,7 +250,6 @@
     "Assets/Images/injective1.png",
     "Combinatorics/Binomial coefficient.md",
     "Sets and Functions/Subset.md",
-    "Computer Arithmetic/Integers.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images/symmetric difference.png",

@@ -6,7 +6,7 @@ aliases: [arithmetic sequence, arithmetic]
 ## Definition 
 
 > [!tldr] Definition
-> A [[sequence]] of numbers is said to be **arithmetic** if each number in the sequence has a common difference with the previous term. Put differently, a sequence is geometric if the difference of any two consecutive terms is constant. 
+> A [[sequence]] of numbers is said to be **arithmetic** if each number in the sequence has a common difference with the previous term. Put differently, a sequence is arithmetic if the difference of any two consecutive terms is constant. 
 
 Notes: 
 - We say that arithmetics sequences "grow at a constant rate".
