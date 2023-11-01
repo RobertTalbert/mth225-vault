@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Solution to a recurrence relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Solution to a recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
+                "file": "Recursion and Induction/Solution to a recurrence relation.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "Recursion and Induction/Solution to a recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,14 +181,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c13688e1f70aa9b",
+  "active": "648326dff836a8ba",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Recursion and Induction/Solution to a recurrence relation.md",
+    "Untitled 1.md",
+    "START HERE.md",
+    "Recursion and Induction/Sequence.md",
+    "Recursion and Induction/Recursion.md",
+    "Recursion and Induction/Recurrence relation.md",
     "Recursion and Induction/Mathematical induction.md",
     "Recursion and Induction/Geometric sequence.md",
     "Recursion and Induction/Fibonacci sequence.md",
     "Recursion and Induction/Closed formula.md",
     "Recursion and Induction/Arithmetic sequence.md",
-    "START HERE.md",
     "Sets and Functions/Cartesian product.md",
     "Sets and Functions/Union.md",
     "Combinatorics/Additive principle.md",
@@ -199,17 +205,11 @@
     "Combinatorics/Dots and dividers.md",
     "Logic/Mathematical induction.md",
     "sortspec.md",
-    "Untitled.md",
     "Logic/Outline for Logic.md",
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Combinatorics/Outline for Counting.md",
     "Recursion and Induction/Outline for recursion and induction.md",
-    "Recursion and Induction/Recurrence relation.md",
-    "Combinatorics/k-Permutation.md",
-    "Combinatorics/Permutation.md",
-    "Combinatorics/License plate problem.md",
     "Assets/Images/licenseplate.png",
-    "conflict-files-obsidian-git.md",
     "Assets/Images/surj-not-inj.png",
     "Assets/Images/not-surj.png",
     "Assets/Images/non-injective.png",
