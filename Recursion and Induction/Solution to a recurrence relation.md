@@ -19,8 +19,7 @@ Notes:
 - The recurrence relation $a_0 = 3$ and $a_n = 2a_{n-1}$ when $n > 0$ produces the sequence $3, 6, 12, 24, 48, \dots$. This is a geometric sequence that has the solution $a(n) = 3 \cdot 2^n$. 
 - The sequence $1, 3, 6, 10, 15, \dots$ given by the recurrence relation $T_1 = 1$ and $T_n = T_{n-1} + n$ when $n > 1$, has a solution given by $T(n) = \dfrac{n(n+1)}{2}$. 
 - The [[Fibonacci sequence]] $1, 1, 2, 3, 5, 8, 13, 21, \dots$ given by the recurrence relation $F_1 = 1, F_2 = 1$ and $F_n = F_{n-1} + F_{n-2}$ when $n > 2$ has the solution: 
-
-
+$$F_n = \frac{\left(\frac{1+\sqrt{5}}{2}\right)^n - \left(\frac{1-\sqrt{5}}{2}\right)^n}{\sqrt{5}}$$
 
 
 ## Resources 
