@@ -12,6 +12,7 @@ aliases: [closed formula, closed formulas]
 Notes
 - Closed formulas can be thought of as a [[Function|function]] whose [[Domain|domain]] is $\mathbb{N}$ (the set of all [[Natural numbers]]). The input to such a function is the index of the sequence. 
 - Closed formulas are one way of viewing a sequence, along with [[Recurrence relation|recurrence relations]]. 
+- There are specific methods for finding closed formulas for a sequence if the sequence is [[Arithmetic sequence|arithmetic]] or [[Geometric sequence|geometric]]. 
 ## Examples and Non-Examples
 
 - The closed formula $a_n = 3n+1$ produces the sequence $1, 4, 7, 10, 13, \dots$ (assuming the sequence is zero-indexed). 
@@ -21,9 +22,4 @@ Notes
 
 ## Resources 
 
-
-
-Other resources: 
 - Video: [Determine a closed formula for a given sequence](https://www.youtube.com/watch?v=4YxqncJCack)
-
-## Practice 

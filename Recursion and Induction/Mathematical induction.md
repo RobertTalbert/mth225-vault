@@ -53,7 +53,7 @@ And, here is a complete proof of the conjecture:
 > $$2 \cdot f(k) = 2 \cdot \left( 3 \cdot 2^k\right) = 3 \cdot 2^{k+1}$$
 > Therefore we've shown that entering in $k+1$ gives $3 \cdot 2^{k+1}$. This is what we wanted to show, so we can conclude that $f(n) = 3 \cdot 2^n$ for all natural numbers $n$. ⬛
 
-Here are two complete examples of proof by mathematical induction: 
+Here are three complete examples of proof by mathematical induction: 
 
 > [!NOTE] **Claim:** For all natural numbers $n$, the number $n^3 + 2n$ is divisible by $3$. 
 > 
@@ -80,6 +80,11 @@ Here are two complete examples of proof by mathematical induction:
 > 
 > On the left, we have $1 + 2 + 3 + \cdots k + (k+1)$. If we group the first $k$ terms together we have $(1 + 2 + 3 + \cdots + k) + (k+1)$ and the inductive hypothesis says that the sum inside the parentheses is $\frac{k(k+1)}{2}$. Therefore the left side is $\frac{k(k+1)}{2} + k+1$. Using some algebra, this is equal to $\dfrac{k^2 + k}{2} + \dfrac{2k+2}{2}$. Adding the fractions gives $\dfrac{k^2 + 3k + 2}{2}$. Factoring the numerator gives $\dfrac{(k+1)(k+2)}{2}$. And this is equal to $\dfrac{(k+1)(k+1+1)}{2}$ which is what we wanted to show. 
 > 
+
+
+The base case is $n=0$. A set with zero elements is the [[Empty set|empty set]], and there is only one subset of this, namely the 
+
+
 
 ## Resources 
 

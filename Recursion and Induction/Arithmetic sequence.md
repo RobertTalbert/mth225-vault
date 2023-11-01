@@ -2,7 +2,7 @@
 aliases: [arithmetic sequence, arithmetic]
 --- 
 
-(insert tags here) 
+#recursion-induction 
 ## Definition 
 
 > [!tldr] Definition
@@ -22,3 +22,6 @@ Notes:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/638676941?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screencast 5.3: Arithmetic and geometric sequences"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+Other resources: 
+- Tutorial: [Introduction to Arithmetic Sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/a/introduction-to-arithmetic-sequences) (Khan Academy)
+- Video: [How to find the nth term of an arithmetic sequence](https://www.youtube.com/watch?v=PStn9zHgXHU)

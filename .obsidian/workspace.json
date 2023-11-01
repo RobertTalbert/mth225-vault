@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c4ac41e8c4b4128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinatorics/Additive principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11901413ab1d285e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets and Functions/Union.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5f43a0b1894bb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinatorics/Multiplicative principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b881a7693f66873",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c13688e1f70aa9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursion and Induction/Mathematical induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combinatorics/Multiplicative principle.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combinatorics/Multiplicative principle.md"
+                "file": "Recursion and Induction/Mathematical induction.md"
               }
             }
           },
@@ -163,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinatorics/Multiplicative principle.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,23 +181,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5f43a0b1894bb54",
+  "active": "7c13688e1f70aa9b",
   "lastOpenFiles": [
-    "Recursion and Induction/Mathematical induction.md",
-    "START HERE.md",
+    "Recursion and Induction/Geometric sequence.md",
+    "Recursion and Induction/Fibonacci sequence.md",
+    "Recursion and Induction/Closed formula.md",
     "Recursion and Induction/Arithmetic sequence.md",
+    "START HERE.md",
+    "Sets and Functions/Cartesian product.md",
+    "Sets and Functions/Union.md",
+    "Combinatorics/Additive principle.md",
+    "Combinatorics/Multiplicative principle.md",
+    "Recursion and Induction/Mathematical induction.md",
     "Combinatorics/Factorial.md",
     "Assets/Templates/Entry template.md",
     "Sets and Functions/Set.md",
     "Combinatorics/Dots and dividers.md",
     "Logic/Mathematical induction.md",
-    "Combinatorics/Additive principle.md",
     "sortspec.md",
     "Untitled.md",
     "Logic/Outline for Logic.md",
     "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Combinatorics/Outline for Counting.md",
-    "Recursion and Induction/Closed formula.md",
     "Recursion and Induction/Outline for recursion and induction.md",
     "Recursion and Induction/Recurrence relation.md",
     "Combinatorics/k-Permutation.md",
@@ -229,15 +210,10 @@
     "Combinatorics/License plate problem.md",
     "Assets/Images/licenseplate.png",
     "conflict-files-obsidian-git.md",
-    "Sets and Functions/Surjective.md",
-    "Sets and Functions/Injective.md",
-    "Sets and Functions/Bijective.md",
     "Assets/Images/surj-not-inj.png",
     "Assets/Images/not-surj.png",
     "Assets/Images/non-injective.png",
     "Assets/Images/injective1.png",
-    "Combinatorics/Binomial coefficient.md",
-    "Sets and Functions/Subset.md",
     "Assets/Images/Pasted image 20230925103719.png",
     "Assets/Images/Pasted image 20230718094622.png",
     "Assets/Images/symmetric difference.png",
