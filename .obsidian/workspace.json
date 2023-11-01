@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Recurrence relation.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,8 @@
   },
   "active": "7c13688e1f70aa9b",
   "lastOpenFiles": [
-    "Recursion and Induction/Solution to a recurrence relation.md",
     "Recursion and Induction/Recurrence relation.md",
+    "Recursion and Induction/Solution to a recurrence relation.md",
     "Untitled.md",
     "Untitled 1.md",
     "START HERE.md",

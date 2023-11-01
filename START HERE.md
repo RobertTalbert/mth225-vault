@@ -38,6 +38,7 @@ The articles in this vault are also available in the public GitHub repository: h
 
 - Corrected typo in [[Arithmetic sequence]] 
 - Added two complete induction proofs in the [[Mathematical induction]] article
+- Added article: [[Solution to a recurrence relation]].
 - Did general cleanup, typo corrections, and addition of resources to the rest of the articles currently in the Recursion and Induction area. 
 ### 2023-10-27
 
