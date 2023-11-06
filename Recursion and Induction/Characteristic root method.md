@@ -26,7 +26,20 @@ This is the same as $x^2 - 5x + 6 = 0$. Factor this to get:
 $$(x-3)(x-2) = 0$$
 Therefore the characteristic roots are $x = 3$ and $x = 2$. Set up the solution to the recurrence relation: 
 $$a(n) = \alpha_1 3^n + \alpha_2 2^n$$
-Now we will use the initial conditions to find the two constants. Those conditions were $a_0 = 1$ and $a_1 = 2$. Plugging in $n = 0$ gives $a(0)$ on the left which equals $1$, and it gives $\alpha_1 3^0 + \alpha_2 2^0$ on the right which equals $\alpha_1 + \alpha_2$. Therefore $\alpha_1 + \alpha_2 = 1$. Similarly, plugging in $1$ for $n$ gives the equation  $3\alpha_1 + 2\alpha_2 = 2$. 
+Now we will use the initial conditions to find the two constants. Those conditions were $a_0 = 1$ and $a_1 = 2$. Plugging in $n = 0$ gives $a(0)$ on the left which equals $1$, and it gives $\alpha_1 3^0 + \alpha_2 2^0$ on the right which equals $\alpha_1 + \alpha_2$. Therefore $\alpha_1 + \alpha_2 = 1$. Similarly, plugging in $1$ for $n$ gives the equation  $3\alpha_1 + 2\alpha_2 = 2$. Solving this system of equations (for example through [substitution](https://www.varsitytutors.com/hotmath/hotmath_help/topics/solving-systems-of-linear-equations-using-substitution) or [elimination](https://www.mathplanet.com/education/algebra-1/systems-of-linear-equations-and-inequalities/the-elimination-method-for-solving-linear-systems)) gives $\alpha_1 = 0$ and $\alpha_2 = 1$. Therefore the solution to the recurrence relation is: 
+$$a(n) = 0 \cdot 3^n + 1 \cdot 2^n = 2^{n}$$We can reality check this by computing a few terms of the sequence using both the recurrence relation and this closed formula. Running this Python code will give the first 10 terms of the sequence: 
+```python
+def a(n): 
+    if n == 0: return 1
+    elif n == 1: return 2
+    else: 
+        return 5*a(n-1) - 6*a(n-2)
+
+[a(n) for n in range(10)]
+```
+
+This results in 
+
 ## Resources 
 
 (video)
