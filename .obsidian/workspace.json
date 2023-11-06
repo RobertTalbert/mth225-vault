@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Linear recurrence relation.md",
+                "file": "Recursion and Induction/Characteristic root method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Homogeneous recurrence relation.md",
+                "file": "Recursion and Induction/Characteristic root method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Homogeneous recurrence relation.md"
+                "file": "Recursion and Induction/Characteristic root method.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Homogeneous recurrence relation.md",
+                "file": "Recursion and Induction/Characteristic root method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c13688e1f70aa9b",
+  "active": "5605e91891937e3b",
   "lastOpenFiles": [
-    "Recursion and Induction/Linear recurrence relation.md",
     "Recursion and Induction/Homogeneous recurrence relation.md",
+    "Recursion and Induction/Characteristic root method.md",
+    "Recursion and Induction/Linear recurrence relation.md",
     "START HERE.md",
     "Recursion and Induction/Recurrence relation.md",
     "Recursion and Induction/Solution to a recurrence relation.md",
@@ -220,7 +221,6 @@
     "Logic/Mathematical induction.md",
     "sortspec.md",
     "Logic/Outline for Logic.md",
-    "Computer Arithmetic/Outline for Computer Arithmetic.md",
     "Assets/Images/licenseplate.png",
     "Assets/Images/surj-not-inj.png",
     "Assets/Images/not-surj.png",
