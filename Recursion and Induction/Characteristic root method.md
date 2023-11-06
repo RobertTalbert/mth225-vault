@@ -16,7 +16,9 @@ aliases: [characteristic root method, characteristic root technique, characteris
 > 6. Use the initial conditions of the recurrence relation to find the values of $\alpha_1, \alpha_2, \dots, \alpha_k$. This involves solving a [system of linear equations](https://www.mathsisfun.com/algebra/systems-linear-equations.html). 
 
 
-
+Notes: 
+* This method requires that the recurrence relation be [[Linear recurrence relation|linear]] and [[homogeneous]] otherwise the steps do not all apply. 
+* This description of the method only deals with the simple case where none the characteristic roots are zero, and none are repeated. If one of those is the case, the general form of the solution in step 5 above is different. 
 ## Example
 
 Consider the second-[[Recurrence relation|order]] [[Linear recurrence relation|linear]] [[Homogeneous recurrence relation|homogeneous]] recurrence relation: $a_0 = 1, a_1 = 2$; and for $n > 1$, $a_n = 5a_{n-1} - 6a_{n-2}$. This recurrence relation is already in "standard form" with the highest term isolated on the left. Replace $a_n$ with $x^n$ and similarly for the other terms to get: 
@@ -38,8 +40,12 @@ def a(n):
 [a(n) for n in range(10)]
 ```
 
-This results in 
+This gives `[1, 2, 4, 8, 16, 32, 64, 128, 256, 512]`. The following code will find the first ten terms using the closed formula: 
 
+```python
+[2**n for n in range(10)]
+```
+Doing so will show that the recurrence relation and the closed formula agree. That's not a [[Proof|proof]] that the solution is correct; but it's a good, "quick and dirty" check that will surface immediate  errors that might have occurred. 
 ## Resources 
 
 (video)
