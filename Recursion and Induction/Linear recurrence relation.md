@@ -10,7 +10,7 @@ aliases: [linear]
 > A recurrence relation is **linear** if the prior terms used in the recurrence relation are combined only through addition of constant multiples of those terms. 
 
 Notes: 
-- A homogeneous linear recurrence relation can be solved using the characteristic root method. 
+- A [[Homogeneous recurrence relation|homogeneous]] linear recurrence relation can be solved using the characteristic root method. 
 
 ## Examples and Non-Examples
 
@@ -23,9 +23,5 @@ Notes:
 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=4c6Bg2GJvQw)
 
-Other resources: 
-- 
-
-## Practice 
