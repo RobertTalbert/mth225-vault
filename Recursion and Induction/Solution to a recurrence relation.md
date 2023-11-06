@@ -12,7 +12,7 @@ aliases: [solution, solution to a recurrence relation]
 Notes: 
 - Whereas a recurrence relation produces objects in a sequence [[Recursion|recursively]], a solution to the recurrence relation produces them directly. 
 - Solutions to recurrence relations are useful for making computations but are not always preferable to recursion, since they can hide key insights on the structure of the objects in the sequence. 
-- There are numerous methods for finding solutions to recurrence relations, including the [[characteristic root method]] if the recurrence relation is linear and homogeneous, as well as the basic methods for finding solutions if the sequence is an [[Arithmetic sequence|arithmetic]] or [[Geometric sequence|geometric]] sequence of numbers. 
+- There are numerous methods for finding solutions to recurrence relations, including the [[characteristic root method]] if the recurrence relation is [[Linear recurrence relation|linear]] and [[Homogeneous recurrence relation|homogeneous]], as well as the basic methods for finding solutions if the sequence is an [[Arithmetic sequence|arithmetic]] or [[Geometric sequence|geometric]] sequence of numbers. 
 - Taking a given closed formula and checking that it is indeed a solution to a recurrence relation, involves a proof using [[Mathematical induction|mathematical induction]]. 
 
 ## Examples and Non-Examples 

@@ -48,9 +48,7 @@ This gives `[1, 2, 4, 8, 16, 32, 64, 128, 256, 512]`. The following code will fi
 Doing so will show that the recurrence relation and the closed formula agree. That's not a [[Proof|proof]] that the solution is correct; but it's a good, "quick and dirty" check that will surface immediate  errors that might have occurred. 
 ## Resources 
 
-(video)
+![](https://www.youtube.com/watch?v=GvOBBcnIjlw)
 
-Other resources: 
-- 
 
-## Practice 
+![](https://www.youtube.com/watch?v=Rwm-NW9Y5iM)

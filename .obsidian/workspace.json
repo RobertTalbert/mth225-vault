@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Recursion and Induction/Linear recurrence relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf247febd018be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Recursion and Induction/Characteristic root method.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5605e91891937e3b",
+  "active": "acf247febd018be7",
   "lastOpenFiles": [
-    "Recursion and Induction/Homogeneous recurrence relation.md",
-    "Recursion and Induction/Characteristic root method.md",
     "Recursion and Induction/Linear recurrence relation.md",
     "START HERE.md",
-    "Recursion and Induction/Recurrence relation.md",
+    "Recursion and Induction/Homogeneous recurrence relation.md",
     "Recursion and Induction/Solution to a recurrence relation.md",
+    "Recursion and Induction/Characteristic root method.md",
+    "Recursion and Induction/Recurrence relation.md",
     "Untitled.md",
     "Untitled 1.md",
     "Recursion and Induction/Sequence.md",
