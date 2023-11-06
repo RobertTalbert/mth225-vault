@@ -21,8 +21,12 @@ aliases: [characteristic root method, characteristic root technique, characteris
 
 Consider the second-[[Recurrence relation|order]] [[Linear recurrence relation|linear]] [[Homogeneous recurrence relation|homogeneous]] recurrence relation: $a_0 = 1, a_1 = 2$; and for $n > 1$, $a_n = 5a_{n-1} - 6a_{n-2}$. This recurrence relation is already in "standard form" with the highest term isolated on the left. Replace $a_n$ with $x^n$ and similarly for the other terms to get: 
 $$x^n = 5x^{n-1} - 6x^{n-2}$$ Divide off by the smallest power of $x$, which in this case is $x^{n-2}$ to get: 
-$$x^
-
+$$x^2 = 5x - 6$$
+This is the same as $x^2 - 5x + 6 = 0$. Factor this to get: 
+$$(x-3)(x-2) = 0$$
+Therefore the characteristic roots are $x = 3$ and $x = 2$. Set up the solution to the recurrence relation: 
+$$a(n) = \alpha_1 3^n + \alpha_2 2^n$$
+Now we will use the initial conditions to find the two constants. Those conditions were $a_0 = 1$ and $a_1 = 2$. Plugging in $n = 0$ gives $a(0)$ on the left which equals $1$, and it gives $\alpha_1 3^0 + \alpha_2 2^0$ on the right which equals $\alpha_1 + \alpha_2$. Therefore $\alpha_1 + \alpha_2 = 1$. Similarly, plugging in $1$ for $n$ gives the equation  $3\alpha_1 + 2\alpha_2 = 2$. 
 ## Resources 
 
 (video)
