@@ -33,6 +33,10 @@ The articles in this vault are also available in the public GitHub repository: h
 
 ## Changelog
 
+
+## 2023-12-01
+
+- Added two more completed proofs to [[Mathematical induction]]. 
 ### 2023-11-06
 
 * Added articles: [[Linear recurrence relation]], [[Homogeneous recurrence relation]], [[Characteristic root method]]. 
