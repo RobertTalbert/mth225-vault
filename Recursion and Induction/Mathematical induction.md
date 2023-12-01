@@ -53,7 +53,7 @@ And, here is a complete proof of the conjecture:
 > $$2 \cdot f(k) = 2 \cdot \left( 3 \cdot 2^k\right) = 3 \cdot 2^{k+1}$$
 > Therefore we've shown that entering in $k+1$ gives $3 \cdot 2^{k+1}$. This is what we wanted to show, so we can conclude that $f(n) = 3 \cdot 2^n$ for all natural numbers $n$. ⬛
 
-Here are three complete examples of proof by mathematical induction: 
+Here are four complete examples of proof by mathematical induction: 
 
 > [!NOTE] **Claim:** For all natural numbers $n$, the number $n^3 + 2n$ is divisible by $3$. 
 > 
@@ -94,7 +94,11 @@ Here are three complete examples of proof by mathematical induction:
 > 
 > Since $B$ has $k$ elements, then by the inductive hypothesis, $B$ has $2^k$ subsets. Therefore there are $2^k$ subsets of $A$ that fall into the first category (they are just subsets of $B$) and another $2^k$ subsets in the second category (they are a subset of $B$ with the number $k+1$ added in). That's $2 \cdot 2^k$ sets in all, which equals $2^{k+1}$, and this is the full number of subsets of $A$.  ⬛
 
+For the base case, notice that $2^4 = 16$ and $4! = 24$. Since $16 < 24$, the base case holds. 
 
+Now assume that for some positive integer $k > 4$, we have $2^k < k!$. We want to show that $2^{k+1} < (k+1)!$. 
+
+Starting with $2^{k+1}$ we can 
 
 
 ## Resources 

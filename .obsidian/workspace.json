@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Induction/Characteristic root method.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion and Induction/Characteristic root method.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion and Induction/Characteristic root method.md"
+                "file": "Recursion and Induction/Mathematical induction.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion and Induction/Characteristic root method.md",
+                "file": "Recursion and Induction/Mathematical induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,11 +206,11 @@
   },
   "active": "acf247febd018be7",
   "lastOpenFiles": [
+    "Recursion and Induction/Characteristic root method.md",
     "Recursion and Induction/Linear recurrence relation.md",
     "START HERE.md",
     "Recursion and Induction/Homogeneous recurrence relation.md",
     "Recursion and Induction/Solution to a recurrence relation.md",
-    "Recursion and Induction/Characteristic root method.md",
     "Recursion and Induction/Recurrence relation.md",
     "Untitled.md",
     "Untitled 1.md",
