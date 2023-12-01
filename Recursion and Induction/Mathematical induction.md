@@ -94,12 +94,16 @@ Here are four complete examples of proof by mathematical induction:
 > 
 > Since $B$ has $k$ elements, then by the inductive hypothesis, $B$ has $2^k$ subsets. Therefore there are $2^k$ subsets of $A$ that fall into the first category (they are just subsets of $B$) and another $2^k$ subsets in the second category (they are a subset of $B$ with the number $k+1$ added in). That's $2 \cdot 2^k$ sets in all, which equals $2^{k+1}$, and this is the full number of subsets of $A$.  ⬛
 
-For the base case, notice that $2^4 = 16$ and $4! = 24$. Since $16 < 24$, the base case holds. 
-
-Now assume that for some positive integer $k > 4$, we have $2^k < k!$. We want to show that $2^{k+1} < (k+1)!$. 
-
-Starting with $2^{k+1}$ we can 
-
+> [!NOTE] For all $n \geq 4$, $2^n < n!$. 
+> For the base case, notice that $2^4 = 16$ and $4! = 24$. Since $16 < 24$, the base case holds. 
+> 
+> Now assume that for some positive integer $k > 4$, we have $2^k < k!$. We want to show that $2^{k+1} < (k+1)!$. 
+> 
+> Starting with $2^{k+1}$ we can pull off a factor of 2: $2^{k+1} = 2 \cdot 2^k$. By the inductive hypothesis we know that $2^k < k!$ and so 
+> $$2^{k+1} = 2 \cdot 2^k < 2 \cdot k!$$
+> But since $k > 4$, we know $k+1 > 5$ so in particular $k+1 > 2$, which lets us say: 
+> $$2^{k+1} = 2 \cdot 2^k < 2 \cdot k! < (k+1) \cdot k!$$
+> The expression on the far right is $(k+1)!$. So the above shows that $2^{k+1} < (k+1)!$ which is what we wanted to show. ☑
 
 ## Resources 
 
