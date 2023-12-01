@@ -53,7 +53,7 @@ And, here is a complete proof of the conjecture:
 > $$2 \cdot f(k) = 2 \cdot \left( 3 \cdot 2^k\right) = 3 \cdot 2^{k+1}$$
 > Therefore we've shown that entering in $k+1$ gives $3 \cdot 2^{k+1}$. This is what we wanted to show, so we can conclude that $f(n) = 3 \cdot 2^n$ for all natural numbers $n$. ⬛
 
-Here are four complete examples of proof by mathematical induction: 
+Here are five complete examples of proof by mathematical induction: 
 
 > [!NOTE] **Claim:** For all natural numbers $n$, the number $n^3 + 2n$ is divisible by $3$. 
 > 
@@ -104,6 +104,15 @@ Here are four complete examples of proof by mathematical induction:
 > But since $k > 4$, we know $k+1 > 5$ so in particular $k+1 > 2$, which lets us say: 
 > $$2^{k+1} = 2 \cdot 2^k < 2 \cdot k! < (k+1) \cdot k!$$
 > The expression on the far right is $(k+1)!$. So the above shows that $2^{k+1} < (k+1)!$ which is what we wanted to show. ☑
+
+When $n =0 $ we have $11^0 - 6 = -5$. Since this is divisible by $5$, the base case holds. 
+
+Now assume $11^k - 6$ is divisible by $5$ for some positive integer $k$. We want to show that $11^{k+1} - 6$ is divisible by $5$. 
+
+Starting with $11^{k+1} - 6$, factor off one factor of $11$ to get $11 \cdot 11^k - 6$. Since by the induction hypothesis $11^k - 6$ is divisible by $5$, we can write $11^k - 6$ as a multiple of $5$, let's say $11^k - 6 = 5q$ where $q$ is an integer. Then $11^k = 5q + 6$. Substituting this back in to the above, we get: 
+$$11^{k+1} - 6 = 11 \cdot 11^k - 6 = 11(5q + 6) - 6$$
+Expanding the rightmost expression leads to $55q + 60$. We can factor a $5$ out of this to get $5(11q + 12)$. Since $q$ was an integer, $11q+12$ is as well, and so now we can see that $11^{k+1} - 6$ is a multiple of $5$. In other words $11^{k+1} - 6$ is divisible by $5$ which is what we wanted to show. 
+
 
 ## Resources 
 
